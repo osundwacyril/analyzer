@@ -1,0 +1,85 @@
+Saidul Islam
+
+Front-end developer
+saidulixlam@gmail.com | 7086690734 | Guwahati,Assam
+Linkedin | LeetCode | Portfolio | GitHub
+
+EDUCATION
+BARAK VALLEY ENGINEERING COLLEGE
+B.E. (Electronics & Telecom. Engineering)
+Percentage: 75%
+
+EXPERIENCE
+COGNIZANT | Engineer Trainee
+
+August 2017 - September 2021
+
+Kolkata | August 2022 – March2023
+
+• Effectively communicated with clients to gather requirements, ensuring a clear understanding of project
+
+goals and objectives.
+
+• Collaborated with cross-functional teams to optimize communication channels, reducing project
+
+development time.
+
+SHARPENER | Internship
+
+April 2023 – present
+
+• Dedicated to learning diverse web development technologies andactively contributing to creation
+
+of 10+ projects.
+
+• Developed a diverse range of web projects during the internship, including an email clone, expense
+
+tracker, e-commerce app, and portfolio website and many more.
+
+SKILLS
+
+Programming Languages
+Libraries/Frameworks
+Tools / Platforms
+
+Java, C, C++, DSA
+React, JavaScript, Redux, Bootstrap, Tailwind, Node js, Next js
+Front end development, Git & Github, Firebase, Postman
+
+PROJECTS / OPEN-SOURCE
+
+POTFOLIO WEBSITE | Link
+
+Next js , Javascript ,Tailwind ,TypeScript
+
+• I brought my professional story to life with a sleek and responsive portfolio.
+• My portfolio serves as a user-friendly gateway to explore my projects and experiences.
+• I used Nextjs & Tailwind for responsive and design.
+
+EMAIL-CLONE APP | Link
+
+ReactJs ,Redux ,Firebase ,Bootstrap
+
+• Engineered a user-friendly Email Box Client application utilizing Redux, React, and Firebase Realtime
+
+Database, enabling users to send and receive messages within dedicated accounts.
+
+• Designed as a multiple-user application to enhance accessibility and collaboration, fostering a
+
+streamlined and collaborative email experience.
+
+EXPENSE TRACKER APP | Link
+
+React , Redux , Firebase , Bootstrap
+
+• Developed an expense monitoring application using React, Node, Redux, and Firebase, providing users
+
+with a comprehensive tool for managing their finances.
+
+• Implemented premium features, including the ability for users to download expenses in Excel format
+
+and customize the application’s theme for a personalized experience
+
+1
+
+

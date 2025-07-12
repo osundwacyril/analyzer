@@ -1,0 +1,129 @@
+Sanna Parbin 
+
+Computer Science and Engineering
+Graduate 
+
+To be a part of an organization where I can show
+case my skills and can fully utilize it and make a
+signiﬁcant contribution to the success of the
+employer and at the same time my individual
+growth. 
+
+EDUCATION 
+Bachelor of Technology 
+GIET University,Gunupur 
+07/2019 - 06/2023,  
+
+Courses 
+
+Computer Science and
+Engineering 
+
+sannaparbin@gmail.com 
+
+8249166114 
+
+Bhawanipatna, India 
+
+29 May, 2001 
+
+linkedin.com/in/sanna-parbin-689859209 
+
+SKILLS 
+
+C 
+
+Java 
+
+Python 
+
+HTML 
+
+CSS 
+
+ML 
+
+Gunupur 
+
+PHP 
+
+CERTIFICATES 
+Machine learning with Python (11/2021 - 12/2021) 
+Successfully completed a training on “Machine learning with Python”
+with A grade from MCA PL 
+
+Highway to HighRadius Internship Program
+ (01/2022 - 04/2022) 
+involved in creating a full stack web-based product thereby developing a
+deep understanding of all aspects of product development. 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Full Professional Proﬁciency 
+
+Odia 
+Full Professional Proﬁciency 
+
+INTERESTS 
+
+Art & Craft 
+
+Dancing 
+
+Music 
+
+Cooking 
+
+Higher Secondary 
+Government Autonomous University 
+06/2017 - 06/2019,  
+
+Bhawanipatna 
+
+Courses 
+
+Science 
+
+Matriculation 
+Sri Sathya Sai Vidya Mandir School 
+06/2017,  
+
+Bhawamipatna 
+
+PERSONAL PROJECTS 
+Payment Due Date Prediction (03/2022 - 04/2022) 
+Prepared due date prediction fullstack Web application. 
+Invoice prediction was done through machine learning, and front end was based
+on reactJS. Data were used from a closed invoice which was stored in the MYSQL
+database and back end was through Java using JDBC. 
+
+Face Attendance System (10/2021 - 11/2021) 
+
+Virtual attendance system using face biometric to recognize and update the
+attendance. 
+
+Virtual Assistant (04/2021 - 05/2021) 
+
+This is a project on a virtual assistant just like a google assistant or Iphone's siri, It
+understand human language and performs tasks ordered as per the information
+already provided to it. 
+
+WORK EXPERIENCE 
+ML Intern 
+Highradius Pvt. Ltd 
+06/2022 - 05/2023,  
+
+Achievements/Tasks 
+
+Bhubaneshwar, India 
+
+Worked in the Treasury management system team which handles the
+cashﬂows in realtime through Machine learning. 
+
+Involved with Python and Machine Learning Tech Stack. 
+
+

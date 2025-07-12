@@ -1,0 +1,75 @@
+SARANSHA  
+
+Gurgaon, 122010. | 8529461716 | saranshmisra2938@gmail.com | https://www.linkedin.com/in/saransha-mishra-492910203/ 
+
+CAREER SUMMARY 
+To work with a firm with a professional work driven environment where I can utilize and apply my knowledge, 
+skills which would enable me as a fresh graduate to grow while fulfilling organizational goals. 
+
+ACHIEVEMENTS & ACOMPLISHMENTS 
+
+1.  Certification in AWS Academy DATA ANALYTICS 
+2.  NPTEL Certification in Data Structure and Algorithm in JAVA 
+3.  Top 20 Teams in Hackathon ‘DEXTRIX 3.0’ 
+4.  Certification in AWS Cloud Foundation               
+
+______________________________________________________________________________________ 
+
+SKILLS 
+
+•  Programming Skills 
+•  Analytical Skills 
+•  Tools 
+•  Cloud Services 
+• 
+•  Core Subjects 
+
+: Python, HTML, CSS 
+: Microsoft Excel, SQL 
+: GIT, Visual Studio, Tableau 
+: Amazon Web Services (AWS) 
+
+: DBMS, OOPs, OS 
+
+Libraries                              : Pandas, NumPy, Matplotlib, TensorFlow 
+
+WORK EXPERIENCE 
+
+Grorapid Labs | Business & Data Analyst                                                                                      Sep 2023 – Present 
+
+As a Business and Data Manager at Grorapid Labs, I streamlined data processes with advanced Excel and Python scripting, 
+significantly improving accuracy and processing time. I automated tasks, enhancing efficiency, collaborated cross-functionally 
+for insightful, data-driven decision-making, and prioritized clear documentation. I also successfully scraped, stored, 
+maintained, and refined approximately 50,000 records of valuable data. 
+
+Tool Utilized - Google Sheets, MS-Excel, Python Scripting, Data Scraping, Power BI, D7 Lead Finder 
+
+PROJECT                                                                                                                                                                              May 2023 
+VOICE ASSISTANT USING PYTHON 
+
+Developed a voice assistant using python with which we can send email, open basic commands like google, Youtube 
+using Speech recognition API. Developed a voice assistant using python with which we can send email, open basic 
+commands like google, Youtube using Speech recognition API. 
+
+EDUCATION  
+Bachelor In Technology - Computer Science                                                                                            Aug 2019- May 2023 
+Galgotias University, Noida 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,159 @@
+Sanskar Maharwade
+Open for PAN India
+9340894436
+
+rmaharwade@gmail.com
+
+Raipur, Chhattisgarh, India
+
+https://www.linkedin.com/in/sanskar-maharwade-a20558155/
+
+13th September 1999
+
+PROFILE
+
+Detail-oriented  data  analyst  with  a  strong  background  in  statistical  analysis,  data  visualization,  and  data-driven  decision-making.
+proficient in using tools like python, sql, and data visualization software to extract actionable insights from complex datasets. experienced
+in  creating  and  maintaining  data  pipelines  and  dashboards  that  have  improved  operational  efficiency  and  decision-making  processes.
+proven  ability  to  communicate  complex  findings  in  a  clear  and  accessible  manner  to  both  technical  and  non-technical  stakeholders.
+passionate about leveraging data to drive business growth and support strategic initiatives.
+
+SKILLS
+
+Programming Language:
+Python
+
+Data Analytics:
+Big data and analytics, Data visualization, 
+Data compilation, Data analysis, Statistics, 
+and error correction
+
+Soft skills:
+Positive attitude, Creative approach, Verbal 
+and written communication skills, Team 
+work, Adaptive, Customer interaction
+
+EDUCATION
+
+Bachelors in Technology
+Malla Reddy College of Engineering and Technology
+
+Advance Python:
+Pandas, Numpy, Matplotlib, Seaborn, 
+Pillow, Scipy
+
+Business Intelligence Tools
+PowerBI, Tableau
+
+Tools
+Google Sheets, Microsoft Excel, Microsoft 
+PowerPoint
+
+Cloud /database
+SQL
+
+Machine Learning :
+Regression Algorithms, Classification 
+Modeling, Supervised Learning, 
+Unsupervised Learning, EDA, Clustering, 
+Predictive Modeling, CNN, KNN, K-Means 
+Clustering
+
+CERTIFICATES
+
+"Advanced Certification 
+Program in Data Analytics" 
+from "EdubridgeIndia"
+
+INTERNSHIPS
+
+Data Analytics Intern
+Cognifyz Technologies
+
+Python (Basic) Certificate
+From HackerRank
+
+SQL (Intermediate) Certificate
+
+From HackerRank
+
+•Conducted in-depth restaurant rating analysis and developed accurate predictive models.
+•Ensured result accuracy through rigorous testing.
+•Demonstrated strong proficiency in data analysis and machine learning.
+•Provided valuable insights for informed decision-making.
+
+Machine Learning Intern
+Bharat Intern
+
+•Crafted a house price prediction model with linear regression, emphasizing data analysis and machine learning.
+•Engineered a wine quality prediction model using linear regression, highlighting data analytics and predictive 
+modeling.
+•Executed an iris flowers classification model based on petal and sepal features, demonstrating machine learning 
+expertise.
+
+2017 – 2021
+Hyderabad, India
+
+October 2023 –
+November 2023
+
+October 2023 –
+November 2023
+
+PROJECTS
+
+Sales Insights
+(Brick & Mortar and E-Commerce Business)[Tableau | SQL]
+
+•Created a Tableau and SQL-based Sales Insight dashboard to analyze revenue trends.
+•The dashboard's features, including contextual filters and profit analysis, empower users with data-driven insights.
+•The project demonstrates proficient data analytics and enhances decision-making capabilities for optimizing revenue.
+
+HR Data Analytics
+HR Domain [POWER BI | EXCEL]
+
+•Designed a Power BI dashboard to track employee data for the HR team ,including working hours, attendance, performance, and leaves. 
+The dashboard streamlined HR processes and increased efficiency.
+•This dashboard can save 3-4 hrs of work for the HR daily.
+
+Loan Approval Prediction using Machine Learning
+(Skills used - Python, Numpy, Pandas, Machine Learning, Scikit Learn)
+
+•Developed a loan approval prediction model with 85% accuracy on the dataset, enhancing lending decisions.
+•Conducted data preprocessing, outlier analysis and feature engineering on fields, improving model robustness
+
+1 / 2PROFESSIONAL EXPERIENCE
+
+Team Lead
+SGS Consulting
+
+•Managed teams and conducted data analysis.
+•Proficient in data visualization and candidate sourcing.
+•Worked at US Shift and dealt with clients from the United States and Canada.
+
+Subject Matter Expert
+SGS Consulting
+
+•Led teams, performed data analysis, and sourced candidates.
+•First point of contact for candidates and client interactions.
+•Worked at US Shift and dealt with clients from the United States and Canada.
+
+Recruiter
+SGS Consulting
+
+•Analyzed data, sourced candidates, and participated in full-cycle recruiting.
+•Worked at US Shift and dealt with clients from the United States and Canada.
+
+July 2023 –
+September 2023
+Raipur, India
+
+March 2022 –
+July 2023
+Raipur, India
+
+August 2021 –
+March 2022
+Raipur, India
+
+2 / 2

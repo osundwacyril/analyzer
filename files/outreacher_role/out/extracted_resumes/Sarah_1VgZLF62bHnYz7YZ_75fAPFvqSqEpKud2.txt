@@ -1,0 +1,139 @@
+SARAH ARSHAD 
+Email 
+Phone No : 8095996057 
+
+: arshsaruh19@gmail.com 
+
+Career Objective.: Seeking new challenges, looking to join a progressive organization that has need and 
+offer opportunities for advancement. Seeking a position where I can serve with my utmost capabilities 
+and where I can give full play to my creativity to excel within and to grow with Institute. 
+
+Work Experience:  FREELANCER (Content Writing, SME, Website Content & Research 
+analyst) 
+
+Academic Qualification 
+
+Standard/ 
+Course 
+BE(CSE) 
+
+PUC 
+
+10TH 
+
+Name of 
+
+Institute 
+
+HKBK College 
+
+of 
+Engineering, 
+Bangalore 
+
+Florence 
+PU 
+College 
+
+St. Johns 
+High 
+School 
+
+Board/University 
+
+Year  
+
+Percentage/sgpa 
+
+Visvesvaraya 
+Technological 
+University 
+
+2021 
+
+8th Sem: 6.0 
+
+State 
+
+2014 
+
+60.5% 
+
+ICSE 
+
+2012 
+
+59.42% 
+
+MINOR PROJECTS 
+
+    “COLLGE MANAGEMRNT SYSTEM” 
+
+Description: It is a Desktop application program which basically used to manage the 
+College and its Details like Students, Staffs, etc.> DBMS(DATABASE MANAGEMNET 
+SYSTEM ) PROJECT 
+“3D OCEAN SCENE WITH SHIP AND BOATS” 
+Description: It’s program displaying the wonderful animation of an 3D scene with moving Ship 
+and boats controlled by Keyboard Functions with Day and Night Mode Changes in the Scene > 
+CGV(COMPUTER GRAPHICS AND VISUALIZATION) PROJECT 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“CAR RENTAL SYSTEM” 
+
+Description: It’s a prototype website where the cars can be rented out according to desire and with 
+authenticated user credentials. The transactions are later done after the selection of a particular car. 
+
+INTERNSHIP PROJECT 
+
+“ONLINE SHOPPING PORTAL” 
+Description: This is a simple project where the user use the shopping portal for daily needs for everyday use 
+and it consists of simple functionalities such as wishlist, cart and transaction for the user in front end and 
+other functions for admin in the backend as authenticity of user, transaction approval etc. > WT(WEB 
+TECHNOLOGY) PTOJECT 
+
+MAJOR PROJECT 
+
+“OMR SHEET SCANNER USING IMAGE PROCESSING IN ANDRIOD” 
+Description: The project aims to use the smartphone to scan the omr sheet which is easier and much fast to 
+use. The app on android scans and sends the image to back-end where the paper is analyzed and result 
+calculated and saved in the back-end along with the test score and roll number. 
+
+RESEARCH SEMINAR 
+
+“AUTOMATIC SPEECH RECOGNITION” 
+
+Description: Automatic speech recognition was started as research in 1950s.The speech recognition 
+focuses on building blocks for speech processing, feature extraction, speech recognition and performance 
+evaluation, its merits and demerits. In ASR system many parameters affect the accuracy such vocabulary, 
+environment, language model, perplexity,  transducers, pronunciation. Resolving all these issues would lead 
+to better ASR system model.   ASR lies in the domain of AI. 
+
+     DECLARATION: 
+
+I Hereby declare  that  the  details  I have  furnished  in  my CURRICULUM  VITAE  are true and 
+Precise to the best of my knowledge. 
+
+Place:  Bangalore 
+
+Yours Faithfully 
+SARAH ARSHAD
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

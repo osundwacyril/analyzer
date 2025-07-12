@@ -1,0 +1,127 @@
+Pradip Yadav
+
+Gurugram, Haryana, India
+
+pradipyadavofficial26@gmail.com
+
+9064659452
+
+linkedin.com/in/pradip-yadav-5932b3225
+
+Summary
+Hi, I'm a highly motivated Full Stack Developer with a passion for building robust and innovative solutions. With 2
+years of hands-on experience, I've honed my skills and expertise across various technologies to create seamless
+web applications.
+
+During my journey, I've had the opportunity to work on diverse projects, including an E-commerce platform that
+showcased my ability to design and develop user-friendly interfaces and robust backend systems. Additionally,
+I've successfully implemented 3rd party integrations, ensuring a seamless user experience and enhanced
+functionality.
+
+I hold a B.Tech degree from Durgapur Institute of Advanced Technology and Management, where I gained a
+strong foundation in computer science and software development principles.
+
+My skill set encompasses a wide array of technologies, including Node.js, Express, MySQL, MongoDB, Angular,
+React, architecture design, Elasticsearch, AWS, Redis, Docker, Kubernetes, and Git. This diverse skill set enables
+me to tackle complex challenges and deliver scalable solutions.
+
+I thrive in collaborative environments, where I can leverage my technical acumen to contribute to team success. I
+am always eager to learn and stay up-to-date with the latest industry trends and best practices.
+
+If you're looking for a dedicated and resourceful Full Stack Developer to join your team, I'd love to connect and
+explore how my expertise can add value to your Organisation. Let's collaborate and build something extraordinary
+together!
+
+#FullStackDeveloper #WebDevelopment #EcommerceProjects #NodeJS #React #Angular #AWS #Kubernetes
+#Git #TechEnthusiast
+
+Experience
+
+Software Development Engineer
+CommerceUp
+Jun 2022 - Present (1 year 3 months)
+◎ Build enterprise-level websites, including sidcofoods.ae, unboxdeals.com, eudaclothing.com, and
+charactercosmetics.com, using a full stack skill set comprising Node.js, Angular, TypeScript, MongoDB,
+and AWS.
+◎ Successfully maintained and managed over 40 existing enterprise-level websites, ensuring their
+optimal performance and smooth functioning.
+◎ Developed 3rd-party hosted payment gateways and shipping services to enhance the e-commerce
+platforms' functionality and provide seamless customer experiences.
+◎Collaborated with cross-functional teams, including designers, product managers, and stakeholders, to
+understand requirements and deliver high-quality solutions within specified timelines.
+
+Pradip Yadav - page 1
+
+ 
+ 
+ 
+ 
+ 
+ 
+◎ Leveraged expertise in e-commerce domain to provide valuable insights and recommendations for
+improving website performance, user experience, and conversion rates.
+◎ Demonstrated ability to handle end-to-end development processes, from requirements gathering and
+system design to deployment and post-launch maintenance.
+
+Software Engineer
+Kiswok Industries Pvt Ltd
+Feb 2022 - Jun 2022 (5 months)
+◎ I was responsible for developing and maintaining the internal site of the Kiswok Manufacturing
+Company portal. This portal serves as a platform for various essential tasks, including daily employee
+attendance, delegations, lab reports, grievances, appraisals, interviews, payslips, leave management,
+CAPA (Corrective and Preventive Actions), Kanta-Entry, page access control, and quotations etc.
+
+◎ The portal consists of over 50 components, and during my tenure, I constructed more than 30
+components to address various company issues. Additionally, I regularly updated several existing
+components to ensure their relevance and accuracy.
+
+◎ To build the frontend of the portal, I utilized technologies such as HTML, CSS, JavaScript, and EJS.
+These tools allowed me to create visually appealing and interactive user interfaces with reusable
+components. For the backend, I employed Node.js and Express.js, which facilitated efficient server-side
+programming. The data for the portal was stored and managed using MySQL as the database system.
+
+◎ Overall, my role involved the development, maintenance, and enhancement of the Kiswok
+Manufacturing Company portal, utilizing a range of technologies to ensure its functionality and user-
+friendliness.
+
+Software Engineer Trainee
+Kiswok Industries Pvt Ltd
+Nov 2021 - Feb 2022 (4 months)
+
+Education
+
+Durgapur Institute of Advanced Technology and Management 155
+B.tech, Computer Software Engineering
+Aug 2017 - Aug 2021
+
+Burnpur Boys High School
+12th, PCM
+Jul 2013 - Jul 2015
+
+Chhotodighari Vidhayapith High School
+Matric, General
+Jul 2012 - Jul 2013
+
+Licenses & Certifications
+
+Pradip Yadav - page 2
+
+ 
+ 
+ 
+IT And Job Readiness Skill - Anudeep Foundation Skill And Career Developement
+Center
+U91900WB2007NPL116269
+
+Python(Basic) - HackerRank
+F4230ECCDF88
+
+JavaScript Algorithms and Data Structures - freeCodeCamp
+
+Skills
+Docker   •   Elasticsearch   •   Redis   •   Kubernetes   •   Amazon Web Services (AWS)   •   HTML5   •   MySQL   •
+  Angular   •   TypeScript   •   Express.js
+
+Pradip Yadav - page 3
+
+

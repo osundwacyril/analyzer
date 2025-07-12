@@ -1,0 +1,196 @@
+Atufa Yousuf Patel 
+8788578889 
+atufa6101@gamil.com 
+Degloor Naka, Nanded - 431604 
+https://www.linkedin.com/in/atufa-patel-545a9122a  
+
+Professional Summary  
+To  get  an  opportunity  where  I  can  make  the  best  of  my  potential  and  contribute  to 
+organizations growth.  
+
+   I hold a B Tech degree from   MGM’S College of Engineering, Nanded.   
+
+Educational Background  
+
+  2022 
+
+      B Tech (E&TC)  
+
+  2018 
+
+  2016 
+
+MGM’S College of  
+Engineering, Nanded  
+89.5 
+
+HSC  
+Shivaji Mahavidyalya, Udgir 
+Maharashtra State Board  
+77.38 
+
+SSC  
+Al-ameen Urdu high school, Udgir  
+Maharashtra State Board  
+92.60  
+
+Certification(s) Completed / Ongoing under FirstBit Solutions  
+
+Full Stack Diploma in Python  
+
+completed in July 2021 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+  
+  
+ 
+  
+ 
+  
+Technical Skills  
+Core Technologies  
+Web Technologies  
+
+Core Python  
+HTML, CSS, Java Script, Bootstrap   
+
+Database  
+
+Frameworks  
+
+GUI  
+
+MySQL  
+
+Django  
+
+tkinter  
+
+Data Analysis  
+
+NumPy, Pandas, Matplotlib  
+
+Tools  
+
+Eclipse, Visual Studio Code, Jupyter  
+
+Academic Projects  
+
+1. FirstBit Solutions Project  
+
+Project Title          
+
+Technologies used 
+
+Description 
+
+ ONLINE CAKE SHOP     
+ DJANGO FRAMEWORK, HTML, CSS, BOOTSTRAP,JAVASCRIPT  
+ online cake shop is designed for managing and storing the 
+
+all data of available cakes in cake shop.it involves login of user 
+
+and search for cakes according to their choices. Websites helps 
+
+in  ordering  cakes  where  user  can  order  for  different  category 
+
+cakes. The main purpose for developing this project is to sell cake 
+
+online.  
+
+2. Final Year Project  
+Project Title  
+
+E-Commerce website using Django framework  
+
+Technologies Used   DJANGO FRAMEWORK, HTML, CSS, BOOTSTRAP, JAVASCRIPT, MySQL 
+
+Description 
+
+This project deals with developing a Virtual website ‘E-commerce Website’. 
+
+It provides the user with a list of the various products available for purchase 
+
+in  the  store.  For  the  convenience  of  online  shopping,  a  shopping  cart  is 
+
+provided to the user. After the selection of the goods, it is sent for the order 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+ 
+ 
+confirmation  process.  The  system  is  implemented  using  Python’s  web 
+
+framework Django. 
+
+It will display products; customers can select catalogues and  
+
+select  products,  and  can  remove  products  from  their  cart  specifying  the 
+
+quantity of each item. Selected items will be collected in a cart. At checkout, 
+
+the item on the card will be presented as an order. Customers can pay for 
+
+the items in the cart to complete an order.  
+
+Awards / Achievements / Extra Curricular Activities  
+
+1.  Training program on industrial electronics and electrical control system by 
+
+prolific system and technologies PVT.LTD.  
+
+2.  Participated in international webinar on ‘INTERNET OF VEHICLES on 28th June 
+
+2020 organized by department of electronics and telecommunication 
+engineering, MGM’s college of engineering Nanded.  
+
+3.  Attended workshop on “student solar ambassadors” on a mega-global event, 
+where students learn to assemble their solar study lamp which could be first 
+step towards renewable energy revolution and mitigating climate change 
+organized by MGM’s college of engineering Nanded. 
+
+4.  Attended Workshop on "Arduino UNO” organized by department of 
+electronics and telecommunication engineering, MGM’s college of 
+engineering Nanded 
+
+Personal Information  
+Gender  
+Date of Birth  
+
+Female  
+6th January, 2001  
+
+Hobbies  
+
+photography  
+
+Languages Known  
+
+English, Hindi, Urdu  
+
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+

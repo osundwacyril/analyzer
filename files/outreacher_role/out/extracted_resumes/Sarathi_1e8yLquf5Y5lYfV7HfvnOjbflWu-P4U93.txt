@@ -1,0 +1,67 @@
+Sarathi A
+
+Full stack web developer
+sarathiarunachalam98@gmail.com | 97267303 | 523A Tampines central, 16-77
+
+Education
+
+Vivekanandha engineering college
+B.Tech Information Technology
+CGPA: 8.1
+
+Experience
+
+Namakkal, India
+June 2016 - Sep 2020
+
+Bounteous | System Engineer
+
+Chennai,India | 2023 - 2024
+
+Worked on complex projects and administered Open air in Net suite
+Reported to (cid:28)nancial team and prepared Utilisations for the billed and unbilled hours
+of the employees
+Worked on managing the timesheets as per the projects in open air
+Worked on managing the invoices, project status and also administered the back end
+data of employees in Oracle Netsuite
+
+Skill-lync | System engineer
+
+Chennai,India | 2022 - 2023
+
+Installed and con(cid:28)gured operating systems, application software and system
+management tools.
+Maintained and resolved issues with complex infrastructure through monitoring
+and troubleshooting.
+Engaged with upper management regularly with reports on project status, activities
+and achievements.
+Identi(cid:28)ed potential system issues to integrate possible solutions.
+Applied system updates to reduce impact to e(cid:30)ciency and equipment.
+Maintained security, backup and redundancy strategies to reduce threat of losing
+sensitive information permanently.
+Participated in drafting requirement veri(cid:28)cation documents for proposed systems.
+Full-Stack Development: Participated in the development of web applications using technologies like
+HTML, CSS, JavaScript, and frameworks such as React.js and Node.js.
+Version Control: Utilized Git for version control and collaborated with cross-functional teams through
+GitHub/Bitbucket repositories.
+
+Skills
+
+Programming Languages: HTML, CSS, Java, Java springboot, Bootstrap
+Libraries/Frameworks:
+Tools / Platforms:
+
+REACT, JAVASCRIPT
+GIT, DOCKER, ANSIBLE, TERRAFORM, JENKINS, GOOGLE SUITE,
+AWS, MS-O365
+SQL
+
+Databases:
+
+Certifications
+
+(cid:136) AWS Cloud Infrastructure - Credo systemz.
+(cid:136) Devops automation tools - Credo systemz.
+(cid:136) Full stack web development - Greens tech.
+
+

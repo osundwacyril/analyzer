@@ -1,0 +1,100 @@
+SASWAT NAYAK 
+
+Email: - saswat887@gmail.com 
+
+Phone No:- 7327858936 
+
+LinkedIn Id: - https://www.linkedin.com/in/saswat-nayak-
+3b65a4153/ 
+
+Career Objective 
+
+Seeking a position that would provide me to contribute and develop my knowledge and 
+skills that provides professional growth while working for the welfare of the organization, 
+through constant learning and perseverance. 
+
+Technical Skills 
+Core Java 
+
+•  Data Types, Variable, Operators, Flow Control. 
+•  Object Oriented Programming. 
+•  Constructor, Static Block, Instance Block 
+•  Arrays (1D Array,2D Array, Jagged Array) 
+•  Collection Framework (List, Set, Map and Stack) 
+
+J2EE 
+
+• 
+JDBC ( CRUD Operation on MySQL ) 
+•  Servlets (GenericServlet and HttpServlet) 
+• 
+
+JSP , JSTL 
+
+Framework 
+
+•  Hibernate with JPA. 
+•  SpringIOC  and SpringMVC 
+•  SpringBoot (Microservices and REST APIs) 
+
+SQL 
+
+•  DDL,DML,DQL,TCL,DCL 
+•  SQL Commands, Datatypes, Constraints, Operators 
+•  Sub-Query, Co-related Query, Joins. 
+
+Web Technology 
+
+•  HTML 
+•  CSS 
+• 
+
+JavaScript 
+
+ 
+ 
+ 
+Project 
+
+Shopping Zone 
+
+Backend:-Java , JDBC , Servlet , JSP ,JSTL 
+
+Frontend:-HTML,CSS 
+
+Database:-MySQL 
+
+Freamework:-SpringMVC, Hibernate 
+
+Created a web-based application using Java, J2EE, web technology, SpringMVC, and 
+Hibernate. In this application, we are providing both seller and buyer login and logout 
+functionality. The seller can add products that he wants to sell, and he can also see how 
+much stock is left and sold. The buyer can buy the product and see how much stock is left 
+for that particular product. In this application, we are giving forget password functionality to 
+both sellers and buyers. 
+
+User Management System 
+
+Backend:-Java , Servlet , JSP , JDBC 
+
+Frontend:-HTML,CSS 
+
+Database:-MySQL 
+
+Created a web-based application using Java, J2EE, and web technology. In this application, 
+users can insert, update, and delete their personal information. In this application, we also 
+provide login and logout functionality to users. 
+
+Education 
+
+•  B.Tech with 8.66 CGPA in Computer Science and Engineering,2022 from Institute of 
+
+Technical Education and Research(ITER, Bhubaneswar) 
+
+•  12th with 78.33 % 2018 from Kendriya Vidyalaya No-1, Bhubaneswar(CBSE Board) 
+•  10th with 10 CGPA from Kendriya Vidyalaya No-1, Bhubaneswar(CBSE Board) 
+
+ 
+ 
+ 
+

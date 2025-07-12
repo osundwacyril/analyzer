@@ -1,0 +1,105 @@
+VIVEK GUPTA
+
+EDUCATION
+Harcourt Butler Technological University, Kanpur
+Bachelor of Technology in Electrical Engineering, 66.72%
+Sri NL Khanna V mandir vishnupuri Kanpur nagar, Uttar Pradesh
+12th Standard with Physics, Chemistry, and Mathematics , 81.00%
+Sri A.S.V.M. Damodar Nagar, Kanpur Nagar, Uttar Pradesh
+10th Standard with Science side , 76.33%
+
+WORK EXPERIENCE
+
+Seventice IT , Analyst
+
+2013 –2017
+
+2010 – 2011
+
+2008 – 2009
+
+Feb’23 – Sep’23
+
+I have responsibilities of handling the tickets for solving the technical issues of users
+I supported the BAU migration team as well in migrating the whole U.S. site
+• I have supported the mainly U.S. O.S.S. in remote migration support in re-imaging the devices or wiping out the device or cleaning the devices,
+when required.
+Hands on experience on service now tool for ticket handling
+
+Airport Authority of India, Trainee Engineer
+
+Nov’19 – Nov’20
+
+• I have responsibilities of learning about the running airport required skills
+• I supported AAI staff in tackling airport problems in the areas like Navigation aids, surveillance (Ground based, Space based), automation,
+engineering I.T.
+• Hands on experience on DVR, DME etc.
+• Awarded good in quarterly assessments (8/10)
+
+Indian Institute of Technology Delhi, Jr. Research Fellow (Casual Basis Appointment)
+
+Nov’19 – Nov’20
+
+• I had responsibilities of designing the driver required for this project
+• I supported Project staff in other areas as well
+• Hands on experience on different software like Matlab, Proteus
+• I also understood programming languages for a better understanding
+
+PROJECTS
+
+Hitachi Energy
+
+Feb’23 – Sep’23
+
+To provide the service desk support in handling the technical issues of the users.
+• understand the technical issues of user via calls, email, chat or self service,
+• Make them documented via service now tool and then try to solve it with self and with the help of available other upper levels support teams of
+different tracks.
+
+Energy Efficient Building with Technology and Intellig
+
+Mar’19 – May’20
+
+To design a constant current LED Driver with improved Power Quality and Zero Standby requirement for this project.
+• Simulation of driver with software like Pspice, Proteus, matlab and Ltspice.
+• Hardware implementation of the driver.
+
+Generalized A.C. -D.C. Convertor
+To design a convertor as a final year project.
+• Simulation of power circuit and control circuit with software like matlab Pspice, Proteus and Ltspice
+• Hardware implementation of the convertor.
+
+Mar’19 – May’20
+
+SUMMER TRAINING
+
+Bharat Heavy Electrical Limited (BHEL), Haridwar
+
+July’16 – Aug’16
+
+• Vocational training at Haridwar and the area of training was BASIC KNOWLEDGE OF COMPONENTS OF TG AND THEIR
+MACHINING
+
+UPRVUNL-
+• Vocational training at Haridwar and the area of training was BASIC KNOWLEDGE OF COMPONENTS OF TG AND THEIR MACHINING.
+
+July’16 – Aug’16
+
+SKILLS
+_____________________________________________________________________________________
+
+• Achievements- • AIEEE’12 – Rank 94864 ; JEE MAINS’13 – Rank 32859 ; G.A.T.E. 21 – Rank 6824
+
+• Programming Language- Python,C and Database systems (SQL and NoSQL)
+
+• Tools- • Service now, Matlab, Psice, Ltspice, Proteus ; Ms Office,Ms Word, Ms Excel ; Adobe Photos
+
+• Hobbies- • Singing ; Reading; Writing
+
+• Certificates- • Data Processing Specialist from Aspiring Minds ; Software Development Trainee from Aspiring Mind;
+
+• Electrical Engineering Trainee.
+
+___________________________________________________________________________________________________________
+
+

@@ -1,0 +1,301 @@
+Riya Yadav
+
+riya21csu295@ncuindia.edu
+
++91 7015942536
+
+Rewari Sub-District
+
+EDUCATION
+
+B.Tech, Computer Science & Engineering
+
+The NorthCap University - Best Engineering University In
+Delhi NCR
+
+2021 - 2025
+
+Senior Secondary (XII), Science
+
+RPS Public School
+
+(CBSE board)
+
+Year of completion: 2021
+
+Secondary (X)
+
+DAV Public School
+
+(CBSE board)
+
+Year of completion: 2019
+
+WORK EXPERIENCE
+
+Sales Executive
+
+SK Groups & Associates, Virtual
+
+Internship • Mar 2024 - May 2024 (2 months)
+
+Built relationships with clients & stakeholders, Led sales
+pitches, Conceptualized strategies, and Learnt sales
+process & industry trends.
+
+Cloud Computing
+
+Internselite, Gurgaon
+
+Internship • Jun 2023 - Aug 2023 (2 months)
+
+Internship: Built Java web app, led online website project,
+drove development. Training: 2-month cloud computing
+course, certiﬁed.
+
+Assisted college societies, organized events & activities.
+Volunteered at Yaton NGO: taught & mentored
+students/children, organized bhandara events. Gained
+project management experience & demonstrated social
+responsibility.
+
+POSITIONS OF
+
+RESPONSIBILITY
+
+TRAININGS
+
+AWS Cloud Academy Foundations
+
+Amazon Web Service (AWS), Online
+
+Mar 2023 - Apr 2023
+
+Here is a description of the AWS Cloud Academy
+Foundations course in about 1000 characters:
+
+"Gain foundational knowledge of Amazon Web Services
+
+(AWS) with this comprehensive course. Learn the
+fundamentals of cloud computing, AWS services, and best
+practices. Explore AWS architecture, security, and pricing
+models. Master essential skills in AWS services such as
+EC2, S3, and IAM. Prepare for the AWS Certiﬁed Cloud
+Practitioner - Essentials exam and get certiﬁed. With
+hands-on labs and quizzes, you'll be well-prepared to
+work with AWS and advance your cloud career."   
+
+Database Foundations
+
+Oracle academy, Online
+
+Feb 2023 - Apr 2023
+
+"Oracle Academy's Data Foundations course introduces
+students to the fundamentals of data management and
+analysis. Learn how to collect, organize, and analyze data
+using Oracle Database and SQL. Master data modeling,
+data visualization, and data governance. Develop skills in
+data mining, machine learning, and big data technologies
+like Hadoop and Spark. This comprehensive course
+prepares students for Oracle certiﬁcations and a career in
+data science and analytics."   
+
+PROJECTS
+
+Aircraft Maintenance Prediction
+
+Oct 2023 - Jun 2024
+
+Project: Aircraft Maintenance Prediction
+Predictive maintenance system to reduce downtime and
+costs by 30%. Developed a machine learning model to
+analyze aircraft sensor data, identifying potential issues
+before they occur. Trained on 10,000+ hours of historical
+data, achieving 90% accuracy in predicting maintenance
+needs. Integration with existing maintenance software for
+seamless implementation. Real-time monitoring and
+alerts for proactive maintenance, reducing repair costs by
+25%. Enhanced safety and reduced aircraft unavailability
+by 20%. Improved operational eﬃciency, reduced fuel
+consumption, and decreased environmental impact.
+
+Hand Sign Recognition
+
+Mar 2024 - May 2024
+
+Project: Hand Sign Recognition System
+Objective: Recognize and classify various hand signs for
+controlling devices and accessing information using
+machine learning.
+
+Key Features:
+
+Real-time hand sign recognition with computer vision and
+machine learning
+Classify 20+ common hand signs for navigation, control,
+and communication
+Integration with wearable devices or smart glasses for
+seamless interaction
+Real-time feedback and accuracy monitoring for
+continuous improvement
+Technical Requirements:
+
+High-resolution camera for accurate imaging
+Machine learning model trained on large dataset of
+labeled hand signs
+Advanced algorithms for noise reduction and error
+correction
+Beneﬁts:
+
+Enhanced accessibility for individuals with disabilities
+Increased convenience and eﬃciency in various settings
+
+Research paper
+
+Jan 2024 - May 2024
+
+Topic: Dynamic Workload Prediction in a changing cloud
+environment and allocate resources in real-time
+
+This research paper presents a predictive system that
+forecasts and adapts to changing workloads in cloud
+environments. Using machine learning algorithms and
+real-time monitoring, it predicts future workload
+ﬂuctuations, allocating resources optimally to ensure
+eﬃcient utilization, minimize latency, and improve overall
+performance. This innovative approach reduces resource
+waste, improves scalability, enhances user experience,
+increases system reliability, and enables proactive
+decision-making for better cloud resource management.
+
+SKILLS
+
+C++ Programming
+
+Sales
+
+Intermediate
+
+Advanced
+
+Python
+
+Intermediate
+
+MongoDB
+
+Intermediate
+
+Java
+
+Intermediate
+
+Problem Solving
+
+Intermediate
+
+Cloud Computing
+
+Lead Generation
+
+Advanced
+
+Advanced
+
+Research and
+Analytics
+
+Intermediate
+
+Data Structures
+
+Intermediate
+
+Eﬀective
+Communication
+
+Advanced
+
+Canva
+
+Intermediate
+
+Database
+Management System
+(DBMS)
+
+Intermediate
+
+Email Marketing
+
+Intermediate
+
+Facebook Ads
+
+Advanced
+
+Hindi Proﬁciency
+(Spoken)
+
+Advanced
+
+Instagram Marketing
+
+Digital Marketing
+
+Advanced
+
+Advanced
+
+Machine Learning
+
+Intermediate
+
+MS-Oﬃce
+
+Intermediate
+
+MS-Word
+
+Advanced
+
+Natural Language
+Processing (NLP)
+
+Beginner
+
+MS-PowerPoint
+
+Intermediate
+
+Social Media
+Marketing
+
+Advanced
+
+English Proﬁciency
+(Written)
+
+English Proﬁciency
+(Spoken)
+
+Advanced
+
+Intermediate
+
+Amazon Web Services
+(AWS)
+
+Advanced
+
+MySQL
+
+Intermediate
+
+Amazon Web Server
+(AWS)
+
+Intermediate
+
+

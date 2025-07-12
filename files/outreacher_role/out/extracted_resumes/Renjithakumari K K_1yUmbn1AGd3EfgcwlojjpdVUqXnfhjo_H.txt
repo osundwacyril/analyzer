@@ -1,0 +1,123 @@
+RENJITHAKUMARI K K                                                                                                   
+7218798189
+renjithakumari@gmail.com
+https://www.linkedin.com/in/renjithakumari-k-k-35b369244
+Software Test Engineer / Quality Assurance Engineer
+
+Work Experience
+
+May 2022 – Present
+Software Test Engineer
+Elula Tech Pvt Ltd, Bangalore, India
+
+ Conducted manual and automated testing on custom WordPress and WooCommerce plugins.
+ Verified e-commerce functionalities such as product searches, cart operations, checkout processes, payment 
+
+gateways, and shipping options.
+
+ Executed tests on over 20 different e-commerce plugins, ensuring they met performance, security, and 
+
+usability standards.
+
+ Key Plugins Tested: Dynamic Pricing, Abandoned Cart Recovery, Role-Based Pricing, Name Your Price, Bulk 
+
+Edit, Google Feed, Facebook Feed, Multi-Vendor, Shipping Calculator, WsChat with OpenAI ChatGPT 
+integration, and YouTube Gallery Plugin.
+
+ Used Selenium WebDriver and Java for automation of various plugin functionalities.
+ Participated in the analysis of business requirements, wrote test cases, executed tests, and tracked defects 
+
+using Jira.
+
+ Contributed to product release management and deployment on WooCommerce and WordPress platforms, 
+
+including Amazon S3.
+
+ Provided training and support to new team members and assisted in preparing test reports and 
+
+documentation.
+
+December 2021 – May 2022
+Software Test Engineer (Intern)
+XELATE: Seven Chats, Bangalore, India
+
+ Tested social media platform functionalities on Android, iOS, and Web platforms under Scrum methodology.
+ Responsible for writing and executing test cases for multiple features, including user report screens, group 
+
+chat functionalities, and quote screens.
+
+ Performed manual functional, regression, integration, and user acceptance testing (UAT).
+ Automated various test cases using Selenium and Java.
+ Collaborated with product teams to ensure test coverage and resolve software defects.
+ Ensured that the fixes met acceptance criteria before production release.
+
+Skills
+
+ Testing Methodologies: Manual Testing, Automation Testing, SDLC, STLC, Agile (Scrum), Regression, 
+
+Smoke, Sanity, Functional Testing, System Testing, User Acceptance Testing (UAT), Performance Testing, 
+Security Testing, Exploratory Testing, End-to-End Testing
+
+ Automation Tools: Selenium WebDriver, TestNG, JUnit, Postman, REST API Testing
+
+ Programming Languages: Java (Core Java, OOPs), HTML, CSS, JavaScript
+
+ Testing Tools: Selenium, Jira, Git, GitHub, Bitbucket, Trello, Jam, Postman, Amazon S3
+
+ Web Development: WordPress, WooCommerce
+
+ Version Control: Git, GitHub, Bitbucket
+
+ Operating Systems: Linux, Windows
+
+ Others: SQL, HTTP, CI/CD Pipeline, DevOps, REST API
+
+Education
+
+ B. Tech in Electronics and Communication Engineering
+
+Mahatma Gandhi University, India
+Grade: 65.23%
+
+Certifications
+
+ Agile Testing – LinkedIn Learning
+ Java 8 Essential Training – LinkedIn Learning
+ Selenium Essential Training – LinkedIn Learning
+ HTTP Essential Training – LinkedIn Learning
+ Learning SQL Programming – LinkedIn Learning
+
+Personal Strengths
+
+ Strong analytical and problem-solving skills
+ Exceptional attention to detail
+ Good communication and documentation skills
+ Team player with experience in cross-functional collaboration
+ Adaptable and quick to learn new tools and technologies
+ Excellent time management and organizational skills
+
+Achievements
+
+ Rising Star Award – Elula Tech Pvt Ltd (2022-2023) for outstanding contributions to product design and 
+
+testing consistency.
+
+ Team Lead – XELATE, SEVEN CHATS (2022).
+ Rashtrapathy Award – Bharath Scouts and Guides.
+ Reduced system errors by 30% and improved application performance by 25% through a software update 
+
+deployment.
+
+ Led a cross-functional team to increase customer satisfaction by 50% and reduce complaints by 40%.
+ Successfully implemented new social media strategies, leading to a 35% increase in follower growth.
+
+Languages
+
+ English: Fluent (Written & Spoken)
+ Hindi
+
+References
+
+ Available upon request.
+
+

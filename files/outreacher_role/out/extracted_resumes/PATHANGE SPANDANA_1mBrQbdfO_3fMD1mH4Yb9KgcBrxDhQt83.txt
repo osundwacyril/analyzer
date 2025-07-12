@@ -1,0 +1,83 @@
+ Pathange Spandana                               
+
+Email: spandanapathange@gmail.com        Phone no: +91 9381923687  
+
+Address: H.no23-167-A, Jandamanu street, Nandyal: 518501 
+
+CAREER OBJECTIVE 
+
+To be a part of an organization where I can get a chance to utilize my communication and technical skills and put in all my efforts with sincerity 
+for the success of the organization and myself.  
+
+EDUCATION 
+
+Bachelor of Technology in Computer Science Engineering and Business Systems                              Dec 2020 – May 2024                                                                                                          
+
+Rajeev Gandhi Memorial College of Engineering and Technology          
+
+                                                CGPA: 7.1 
+
+Board of intermediate Education                                                                                                                                         June 2018 – April 2020  
+
+Narayana  junior College                                                                                                                                                                                 CGPA: 8.4 
+
+Board of SSC Education                                                                                                                        June 2017 – April 2018 
+
+ Montessori  Indus EM high School                                                                                                                            CGPA: 9.7 
+
+TECHNICAL SKILLS                                                                                                     PROFICIENCY AREAS 
+
+  Programming Language: C, Python,Java                                                   ABILITY AND WILLINGNESS TO LEARN.   
+  Database Management:SQL 
+
+    TEAM WORK AND CO-OPERATION                                                                                      
+
+  Web Programming: HTML,CSS,REACT JS                                                Self Movtivated 
+
+PROJECTS 
+
+PROJECT 1 
+
+TITLE: FACE RECOGNITION” DESCRIPTION 
+
+Domain : Machine Learning The main objective of this project is recognition of Face . It compares the face in front camera with that 
+of captured earlier. It also shows the confidence level of user despite of variations, lighting and expressions. It compares various 
+features like height, width of the face, nose, lips etc., and average color of the face(R,G,B) and so on. So that it can map out the 
+above features in the image 
+
+PROJECT 2 
+
+TITLE: Brain Tumor Detection Using Convolutional Neural Network 
+
+Domain: Machine Learning, HTML, CSS The challenging task of brain tumor segmentation in 2D MagneticResonance Brain 
+
+Images (MRI), recognizing the limitations of manual classification and the complexities arising from diverse tumor appearances. 
+
+The proposed methodology clustering algorithm for initial segmentation, followed by a comprehensive analysis employing 
+
+traditional classifiers and a Convolutional Neural Network (CNN).  
+
+CERTIFICATIONS 
+
+  Certificate in AI & ML virtual intership from eduskills.  
+  Certificate in AWS.  
+  Recevied CYBER SECURITY certificate from edu skills. 
+  Certificate in  SOFT SKILLS certification from NPTEL . 
+
+Declaration 
+
+I here declare that the above information is true and correct to the best of my knowledge   
+
+Date :                                                                                                                             (PATHANGE SPANDANA) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                              
+     
+ 
+

@@ -1,0 +1,74 @@
+Deekshant Nandeshwar 
+
+Phone:	+919238748658	|	Email:	deekshantnandeshwar7@gmail.com	|	LinkedIn:	
+linkedin.com/in/deekshant7	
+
+Professional Summary 
+Skilled	Data	Analyst	with	1.8	years	of	experience,	holding	a	Master's	in	Data	Science	from	
+the	University	of	Surrey.	Expert	in	leveraging	advanced	analytical	tools	and	cloud	
+technologies	to	translate	complex	datasets	into	actionable	business	insights.	Dedicated	to	
+advancing	the	application	of	data	within	modern	business	ecosystems	and	driving	data-
+informed	decision-making	processes.	
+
+Professional Experience 
+Data	Analyst	|	YSK	Infotech	|	Hyderabad,	IN	|	July	2022	–	March	2024	
+
+•  Performed	comprehensive	Exploratory	Data	Analysis	(EDA),	compiling	detailed	Data	
+
+Intake	Reports	to	assess	data	quality	and	integrity.	
+
+•  Led	the	successful	Flask	Deployment	of	a	Toy	Data	model	on	cloud	platforms,	enhancing	
+
+• 
+
+model	accessibility	and	scalability.	
+Implemented	a	cutting-edge	Hate	Speech	Detection	model	using	Transformers,	
+significantly	improving	content	moderation	efficacy.	
+
+•  Acquired	in-depth	insights	into	the	contemporary	data	ecosystem,	adopting	best	
+
+practices	for	data	management	and	analytical	strategies.	
+
+•  Utilized	statistical	techniques	for	advanced	data	mining	and	visualization,	facilitating	
+
+deeper	analytical	insights	and	supporting	strategic	decision-making.	
+
+•  Automated	reporting	processes	with	Tableau	and	Power	BI,	significantly	enhancing	
+
+operational	efficiency	and	data	presentation.	
+
+•  Contributed	to	business	strategy	development	through	comprehensive	data	analysis	
+
+and	insights,	supporting	key	business	initiatives	and	growth.	
+
+Skills & Technologies 
+•  Programming	&	Markup	Languages:	Python,	R,	SQL,	NoSQL,	Scala	
+•  Libraries	&	Frameworks:	PyTorch,	TensorFlow,	Scikit-Learn,	Flask,	Django	
+•  Data	Processing	&	Visualization:	Hadoop,	Apache	Spark,	Tableau,	Matplotlib,	Power	BI,	
+
+NumPy,	Pandas,	Excel	
+
+•  Cloud	Computing	Platforms:	AWS,	GCP,	Heroku,	Azure	
+
+	
+•  Soft	Skills:	Exceptional	Communication,	Leadership,	Adaptability,	Critical	Thinking,	
+
+Problem-Solving	
+
+Education 
+•  MSc	in	Data	Science,	University	of	Surrey,	Guildford,	SRY	(02/2021-03/2022).	
+
+Dissertation:	"Converting	Human	Faces	into	Cartoons	for	Video	Chatting	Applications".	
+Engaged	in	projects	on	road	accident	analysis	and	handwriting	recognition.	
+
+•  BSc	in	Computer	Science,	University	of	Delhi,	Delhi,	IN	(08/2017-11/2020).	Project:	
+
+"Psychological	Impact	of	COVID-19	Using	Twitter	Data".	
+
+Certifications 
+•  Python	for	Everybody	(University	of	Michigan)	
+•  Hadoop	101	(Cognitive	Class)	
+•  Foundations:	Data,	Data	Everywhere	
+•  Scala	101	(LightBend)	
+
+

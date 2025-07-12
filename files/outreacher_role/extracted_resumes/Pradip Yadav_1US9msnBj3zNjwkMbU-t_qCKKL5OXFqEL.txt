@@ -1,0 +1,109 @@
+Pradip Yadav
+
+9064659452 · pradipyadav0126@gmail.com
+
+Gurgaon, Haryana
+
+F u l l   S t a c k   E n g i n e e r
+
+With  3  years  of  experience  in  the  corporate  environment  as  a  Full  Stack  Developer,  I  have  honed  my
+technical proficiency in building complex websites and web-based applications from the ground up. My
+expertise  extends  to  developing  highly  interactive  and  performance-optimized  web  applications  by
+adeptly  utilizing  the  MEAN  (MongoDB,  Express.js,  Angular,  Node.js)  and  MERN  (MongoDB,  Express.js,
+React,  Node.js)  tech  stacks.  I  am  skilled  in  leveraging  technologies  such  as  JavaScript,  HTML5,  CSS3,
+JSON,  and  frameworks/libraries  including  Angular6+,  Bootstrap,  Angular  Material.  Additionally,  I  have
+extensive  experience  in  integrating  Restful  APIs,  ensuring  seamless  data  exchange  and  functionality
+across the full stack of application development.
+
+K E Y   S K I L L L S
+
+Frontend Technologies:
+
+HTML/HTML5, CSS/CSS3
+
+JavaScript Frameworks & Libraries: Angular2+, JQuery, RxJS, Typescript, React
+
+UI Frameworks: Bootstrap, Tailwind CSS, Angular Material
+
+CSS Processors: Sass/Scss, Less
+
+Backend Technologies:
+
+Node.js, Express.js
+
+MongoDB
+
+Redis, Elasticsearch
+
+Bull.js
+
+DevOps & Cloud Services:
+
+Docker
+
+AWS
+
+Additional Skills:
+
+Version Control: Git, GitHub
+
+Project Management & Collaboration Tools: Jira, Swagger, Angular CLI
+
+Design & Prototyping Tools: Photoshop, Adobe XD, Figma
+
+API Integrations
+
+P R O F E S S I O N A L   E X P E R I E N C E
+
+Senior Software Engineer
+CommerceUp
+Oct 2023 - Present (5 mos)
+Remote
+
+Developed  enterprise-level  websites  like  sidcofoods.ae,  unboxdeals.com,  eudaclothing.com,  using
+Node.js, Angular, TypeScript, MongoDB, AWS.
+Maintained and managed over 40 enterprise-level websites, ensuring optimal performance.
+Implemented 3rd-party payment gateways and shipping services for e-commerce platforms.
+Collaborated  with  teams  to  deliver  solutions  within  timelines,  improving  website  performance  and
+user experience.
+
+Software Development Engineer
+CommerceUp
+Jun 2022 - Nov 2023 (1 yr 6 mos)
+
+Engaged in the end-to-end development process, from system design to post-launch maintenance.
+Provided insights for enhancing website performance and conversion rates.
+
+Software Engineer
+Kiswok Industries Pvt Ltd
+Feb 2022 - Jun 2022 (5 mos)
+Howrah, West Bengal, India
+
+Developed and maintained the Kiswok Manufacturing Company portal for various internal tasks.
+Built over 30 components for the portal using HTML, CSS, JavaScript, EJS for frontend, and Node.js,
+Express.js for backend, with MySQL for data management.
+
+Software Engineer Trainee
+Nov 2021 - Feb 2022 (4 mos)
+
+Utilized technologies like Embedded JavaScript (EJS), JavaScript for training projects.
+
+EDUCATION
+
+Durgapur Institute of Advanced Technology and Management
+
+B.Tech, Computer Software Engineering
+
+Aug 2017 - Aug 2021
+
+Grade: 8.06
+
+Burnpur Boys High School
+
+12th, PCM
+
+Jul 2013 - Jul 2015
+
+Grade: 67%
+
+

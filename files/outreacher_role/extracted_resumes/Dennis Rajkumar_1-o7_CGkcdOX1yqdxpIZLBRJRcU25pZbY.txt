@@ -1,0 +1,128 @@
+R A J K U M A R   D E N N I S
+
+S O F T W A R E   D E V E L O P E R
+
+C O N T A C T
+
+E X P E R I E N C E
+
++91-6909755969
+
+dennisixx3@gmail.com
+
+https://github.com/dennisaarkay
+
+Imphal, Manipur
+
+linkedin.com/in/dennis-rk-19213a174/
+
+crio.do/learn/portfolio/dennissixx3/
+
+S K I L L S
+
+Programming -
+JavaScript(ES6+),HTTP, HTML5, CSS3,
+REST, React.js, Bootstrap, Material Ui
+
+Fellowship Advance Full Stack Training(Crio.do) 
+Comprehensive Training in HTML, CSS, JavaScript, and React Technologies
+
+December,2023-Present
+
+Mastered front-end and UI development through practical coding exercises and
+projects.
+Collaborated effectively with peers and mentors, exchanging ideas and refining
+coding techniques.
+Demonstrated commitment to continuous learning, adapting to new technologies
+and best practices.
+Utilized version control systems and collaboration tools for efficient project
+management.
+Applied problem-solving skills to resolve complex technical challenges, ensuring
+project success.
+Engaged in collaborative project work, emphasizing user experience and
+attention to detail.
+Embraced a culture of continuous improvement, actively seeking and
+implementing feedback to enhance skills and project outcomes.
+Tech Stack: HTML5,CSS3,Javascript,Bootstrap,React.Js
+
+P R O J E C T S
+
+OS - Windows, Linux , macOS
+
+VCS - Git , GitHub, GitLab
+
+Tools - VS Code, Postman
+
+E D U C A T I O N
+
+B.tech (Agricultural Engineering)
+
+North Eastern Regional Institute of
+Science and Technology - 7.4 CGPA
+
+2015-2022
+
+QTripDynamic
+Dynamic Travel Website with Adventure Browsing and Reservation Capabilities
+
+(Code)
+
+April, 2023- May, 2023
+
+Dynamic Web Pages: Leveraged HTML5 and CSS3 to create captivating web
+pages, enhancing the user experience with dynamic content achieved through
+JavaScript.
+Enhanced UX: Improved user experience through the implementation of multi-
+select filters and engaging image carousels, ensuring seamless navigation and
+exploration of adventures.
+LocalStorage Integration: Utilized localStorage to persistently store and manage
+user preferences at the client-side, enabling a personalized browsing experience
+across sessions.
+JQuery for Form Submission: Employed JQuery to streamline the reservation form
+submission process, enhancing user-friendliness and interactivity.
+Deployment Expertise: Successfully deployed the website on both Netlify and
+Heroku, ensuring high availability and robust performance for online users.
+
+(Code)
+Buildout - XBoard
+Dynamic News Feed Website
+
+June,2023-July,2023
+
+Full-Stack Development: Built XBoard from the ground up using HTML5, CSS3,
+Bootstrap, JavaScript, and JQuery, ensuring a seamless and responsive user
+interface.
+Design Implementation: Translated design requirements from Figma files into a
+visually appealing and intuitive user interface, paying attention to every detail to
+enhance user experience.
+Interactive UI Elements: Integrated Accordions and Image Carousels to improve
+the user interface, providing an engaging and interactive browsing experience for
+news readers.
+API Integration: Utilized REST API to fetch news content directly from Flipboard's
+RSS feed, ensuring that XBoard features the latest and most relevant news articles
+for the selected topics.
+Efficient Deployment: Deployed the website on Netlify, ensuring high availability
+and seamless access for users, showcasing my proficiency in deployment
+strategies.
+
+QKart Frontend
+React.js E-commerce Application
+
+(Code)
+
+July, 2023- Aug, 2023
+
+Core Logic Implementation: Developed and implemented the essential logic for
+user authentication, shopping cart management, and checkout processes,
+ensuring a seamless and secure shopping experience for customers.
+Responsive UI Design: Enhanced the user interface using React.js, integrating
+responsive design elements to provide a consistent and engaging experience for
+customers across a wide range of devices, from desktops to smartphones.
+Dynamic Data Rendering: Utilized REST APIs to dynamically load and render
+product data served by the backend server, enabling real-time updates and ensuring
+that customers always have access to the latest product information.
+Efficient Deployment: Successfully deployed the website on Netlify, leveraging its
+robust hosting capabilities to ensure high availability and optimal performance for
+online shoppers.
+
+

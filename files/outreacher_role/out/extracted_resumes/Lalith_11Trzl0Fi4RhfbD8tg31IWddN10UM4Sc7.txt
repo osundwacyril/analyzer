@@ -1,0 +1,110 @@
+LALITH ARAVIND 
+SOFTWARE ENGINEER 
+
++91 7330684086 
+lalitharavind30@gmail.com 
+Hyderabad. 
+
+ABOUT ME 
+
+Recent  graduate  with  a  strong foundation in  data  analysis,  Python,  and  core  Java. Demonstrates solid 
+programming and analytical skills developed through academic coursework and hands-on projects. Highly 
+motivated  to  leverage  data-driven  insights  to  solve  complex  problems  and  support  strategic  decision-
+making. 
+
+SKILLS & ABILITIES 
+
+Python,  MySQL,  JavaScript,  react.JS,  Data  Visualization,  Machine  Learning,  Azure,  Cloud  Computing, 
+Prompting, AI, Database Management, Critical Thinking, Generative AI, Tableau. 
+
+EDUCATION 
+
+2020 - 2024  
+
+B.Tech (AI &ML) CGPA: 7.0 
+CMR Technical Campus 
+
+2018 - 2020                                   Secondary Education 83% 
+
+Sri Chaitanya Jr College. 
+
+EXPERIENCE 
+
+June 2023 - Sep 2023  
+
+Customer Service Associate (NA) Phones 
+Amazon.com 
+
+Provided phone support to North American customers, resolving inquiries, 
+troubleshooting  issues,  and  ensuring  satisfaction.  Consistently  met 
+performance metrics while delivering professional, empathetic service to 
+enhance customer retention. 
+
+PROJECTS 
+
+E – Pilots: A system to predict hard landing 
+
+Hard landing prediction using LSTM algorithms aims to enhance flight safety by predicting potential hard 
+landings, which can lead to plane crashes. Long Short-Term Memory (LSTM) networks, a type of recurrent 
+neural network (RNN), are well-suited for this task due to their ability to process and learn from sequential 
+data. By analyzing historical flight data, including parameters like speed, altitude, and descent rate, LSTM 
+algorithms can identify patterns and predict the likelihood of a hard landing. Early predictions allow pilots 
+and automated systems to take corrective actions, thus reducing the risk of accidents during the critical 
+landing phase of a flight. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NJAC Editor 
+
+An online code editor is a web-based tool that allows developers to write, edit, and execute code directly 
+in  their  browser.  It  supports  multiple  programming  languages  and  provides  features  such  as  syntax 
+highlighting,  auto-completion,  and  real-time  collaboration.  Users  can  save  their  code  snippets  and 
+projects in the cloud, ensuring easy access and version control. Additionally, many online code editors 
+integrate with various development tools and platforms, enhancing productivity and workflow efficiency. 
+
+ACCOMPLISHMENTS & CERTIFICATIONS 
+
+Career Essentials in Generative AI by Microsoft and LinkedIn 
+
+Generative AI is a subset of artificial intelligence that creates content such as text, images, audio, or video 
+based  on  input  data  or  prompts.  It  uses  advanced  machine  learning  models,  like  neural  networks,  to 
+generate  realistic  and  contextually  relevant  outputs,  enabling  applications  in  creative  industries, 
+automation, and personalized experiences. 
+
+Technical seminar on TECHNOLOGY OF HOLOGRAM 
+
+The seminar on "Technology of Holograms" delves into the fascinating world of holography, exploring its 
+principles, advancements, and applications. Attendees will gain a comprehensive understanding of how 
+holograms are created using the interference and diffraction of light to produce three-dimensional images. 
+The  seminar  will  cover  the  evolution  of  holographic  technology,  from  its  theoretical  foundations  to 
+modern innovations such as digital and augmented reality holography. Practical applications in fields like 
+entertainment, medical imaging, security, and data storage will be discussed. Participants will also have 
+the  opportunity  to  see  live  demonstrations  and  explore  future  trends  and  possibilities  in  holographic 
+technology. 
+
+HOBBIES & INTERESTS
+
+My hobbies include engaging with communities on Discord, playing cricket, and coding. On Discord, I enjoy 
+participating in various servers, connecting with like-minded individuals, and discussing topics of shared 
+interest. Cricket is a passion of mine, both playing and watching, as it offers a perfect blend of strategy, 
+teamwork,  and  physical  activity.  Additionally,  I  love  coding  because  it  allows  me  to  solve  problems 
+creatively and continuously learn new technologies. These hobbies not only provide me with relaxation 
+and enjoyment but also help me develop valuable skills and foster connections with others. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

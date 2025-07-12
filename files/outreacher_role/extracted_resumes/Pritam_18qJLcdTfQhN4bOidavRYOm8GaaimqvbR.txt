@@ -1,0 +1,102 @@
+Pritam Mandlik 
+I am Information Technology
+professional with experience in the
+ﬁeld of Data science and Analytics
+for Data Visualization and
+Statistical Analysis of data. I have
+studied many programming
+languages like C, Java, Python. I
+have worked on ELK Stack and
+made dashboard in Grafana 
+
+Computer engineer and an IT professional with
+experience in the ﬁeld of Data science and
+Analytics for Data Visualization and Statistical
+Analysis of data. 
+
+EDUCATION 
+M.H.Saboo Siddik College of Engineering 
+Mumbai 
+08/2014 - 12/2018,  
+
+Post Graduate Diploma in Advanced
+Computing (PG-DAC) 
+Academy of Information Technology (YCP) 
+09/2021 - 03/2022,  
+
+WORK EXPERIENCE 
+Digital Engineer 
+QualityKiosk Technologies Pvt. Ltd 
+06/2022 - 02/2023,  
+
+Achievements/Tasks 
+
+Mumbai, India 
+
+Developing dashboard with the help of ELK stack, Prometheus
+and Grafana 
+
+Converting data into dashboard and canvas using ELK stack 
+
+Monitoring Docker,Spring Boot, Windows event log using
+prometheus and grafana 
+
+Use of Python to do Statistical data analysis, Exploratory Data
+Analysis in Jupyter Notebook 
+
+pritamsmandlik@gmail.com 
+
+7715968460 
+
+Mumbai, India 
+
+18 January, 1997 
+
+SKILLS 
+
+C 
+
+Java 
+
+ELK Stack 
+
+Prometheus 
+
+6.11 
+
+Grafana 
+
+Python 
+
+MySQL 
+
+Power BI 
+
+PERSONAL PROJECTS 
+Hotel Metrics Made Easy:  Project in Power BI
+ (03/2023 - 04/2023) 
+
+This Hospitality Domain project is designed to provide
+insights into the working of hotels in various cities through
+Power BI. The project includes the analysis of various metrics
+such as the rating of the hotel, revenue per hotel, proﬁt per
+hotel, and booking platforms etc. 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Marathi 
+Full Professional Proﬁciency 
+
+Hindi 
+Full Professional Proﬁciency 
+
+INTERESTS 
+
+Swimming 
+
+Workout 
+
+

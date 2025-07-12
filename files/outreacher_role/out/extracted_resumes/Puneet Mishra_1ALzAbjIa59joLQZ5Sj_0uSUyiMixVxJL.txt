@@ -1,0 +1,150 @@
+Puneet Mishra 
+Software Developer 
+
+As an aspiring software developer, I am a meticulous and organized individual seeking an entry-level position in the ﬁeld. My skills
+include developing and implementing solutions, analyzing data, and handling complex projects. I possess a strong ability to learn
+quickly and adapt to new technologies, and I am always willing to contribute innovative ideas. I am passionate about software
+development and committed to advancing my skills and knowledge in this ﬁeld. 
+
+mpuneet145@gmail.com 
+
+8858103916 
+
+ALLAHABAD, India 
+
+github.com/Pm-hack 
+
+linkedin.com/in/puneetmishra007 
+
+instagram.com/puneetmishra944 
+
+EDUCATION 
+
+SKILLS 
+
+Master of Computer Application 
+Madan Mohan Malaviya University of
+Technology Gorakhpur 
+11/2021 - Present,  
+
+Courses 
+
+Computer Application 
+
+Bachelor of Vocation 
+Ewing Christian College , Prayagraj 
+08/2017 - 07/2020,  
+
+Courses 
+
+Information Technology 
+
+70% 
+
+70% 
+
+Allahabad Public School Chauphatka
+Allahabad 
+Higher Senior Secondary School ( CBSE
+BOARD) 
+04/2016 - 04/2017,  
+
+56.2% 
+
+Courses 
+
+Intermediate 
+
+Allahabad Public School Chauphatka
+Allahabad 
+Secondary School Certiﬁcate 
+04/2014 - 04/2015,  
+
+8 CGPA 
+
+Courses 
+
+Matriculation 
+
+WORK EXPERIENCE 
+
+Assistant Professor 
+Meerut Institute of Engineering and
+Technology 
+06/2023 - Present,  
+
+Guiding post-grad students in research projects 
+
+teaching, leading lectures, supervising lab work,
+preparing lessons 
+
+C++ 
+
+PYTHON 
+
+NETWORKING 
+
+Javascript 
+
+SQL 
+
+HTML 
+
+CSS 
+
+PERSONAL PROJECTS 
+
+ADVANCED DATA ANALYZER (03/2023 - 05/2023) 
+
+This project is based upon data cleaning and visualization. This is
+going to make users eﬀort easier in analysing the data set.This tool
+has many diﬀerent types of graphs which user can use to plot the
+data set and get the insight of the data. Also user can download the
+visualized graphs for other uses. 
+Language Used : Python 
+Development Tool : Pycharm 
+
+Windows Based Keylogger (11/2022 - 12/2022) 
+
+This project aims to provide security against unauthorized access to
+one's data and ﬁles. The project uses the keyboard's keystrokes to
+operate. Every keystroke is recorded and sent to the individual's
+email account. 
+Language Used: Python. 
+Development Tool : Pycharm. 
+
+CERTIFICATES 
+
+Cloud Computing & Allied Technologies by Centre for
+Computer Sciences, Ewing Christian College, Allahabad
+& Computer Society of India (Allahabad Chapter)
+ (09/2017 - 09/2017) 
+
+• Certiﬁcate in Blockchain & its Applications by C3i
+Center, IIT Kanpur & NSC Lab, IIIT Allahabad
+ (08/2018 - 08/2018) 
+
+Meerut 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+TRAINING 
+
+INTERESTS 
+
+Wingfotech Pvt.Ltd (06/2019 - 07/2019) 
+Intern(Worked on a training in embedded system with IOT) 
+
+Playing Volleyball 
+
+Cooking 
+
+Travelling 
+
+

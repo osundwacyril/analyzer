@@ -1,0 +1,198 @@
+NAVEEN  KALLURI 
+
+EMAIL ID:- kallurinaveen58@gmail.com 
+MOBILE NO:- 8106383521 
+
+Profile Summary 
+
+Key Skills and Knowledge 
+
+•  Experienced  professional  with  a  strong  background  in  utilizing  Microsoft  Office 
+Suite tools, including MS Word, MS PowerPoint, MS SQL Server, and MS Excel. 
+•  Proven  expertise  in  project  management  and  data  analysis,  demonstrated 
+
+through successful projects and accomplishments.  
+
+•  Dedicated  to  delivering  high-quality  results  while  effectively  collaborating  with 
+
+cross-functional teams. 
+
+Strong abilities in Software Testing including analysis of Client requirements. 
+Setting-up of test environment, creation and Execution of test cases. 
+
+•  Experience in SDLC and STLC. 
+• 
+• 
+•  Having good Knowledge in Power Bi and Power apps.  
+•  Working creating Dashborad using power BI. 
+•  Good pobelm solving, Debugging  skills and quick leaner.  
+•  Task allocation among team members. 
+•  Mentoring new team members.  
+•  Having Good knowledge in MS Excel and MS power Point. 
+
+Power BI 
+Power Apps 
+Core Java  
+Spting  boot 
+MS-Office  
+MS-Words 
+MS-Power Point 
+MS-SQL server 
+SQL 
+API testing 
+HTML 
+CSS 
+Git 
+Linux 
+Devops 
+
+Work Experience 
+
+Persistent Systems Limited - Pune, India – Feb 2022  
+ Software Engineer 
+•  Utilized MS Word to create and format documents, ensuring consistency and 
+
+professionalism in company communications. 
+
+•  Developed dynamic presentations using MS PowerPoint for internal and client-facing 
+
+meetings, effectively conveying complex information. 
+
+•  Managed and analyzed data using MS Excel, including creating advanced formulas, 
+
+pivot tables, and charts for data-driven decision-making. 
+
+•  Utilized MS SQL Server to maintain and query databases, ensuring data accuracy and 
+
+• 
+
+accessibility for reporting purposes. 
+Led a cross-functional team in the implementation of a data-driven project, 
+utilizing MS Excel for data manipulation and analysis, resulting in a 15% increase in 
+operational efficiency. 
+
+Other Skills 
+
+Content writing  
+Copywriting 
+English 
+Proficiency(spoken) 
+English 
+Proficiency(Writing) 
+Content Writing  
+
+•  Analysis and Feature Testing of new user stories 
+•  Creating the Dashboard using power BI. 
+•  Writing the Manual Test cases. 
+•  Creation of new TestScript using Java in Selenium 
+• 
+•  Understanding  and  analysis  of  Requirements  and  creation  of  Testcases  and  Test 
+
+Finding the bugs. 
+
+Tools 
+Eclipse IDE 
+Postaman 
+VS code 
+
+scenarios 
+
+•  Creation of new Test Scripts in java using Selenium 
+•  Execution and debugging of existing Test Scripts 
+
+Education 
+
+Bachelor of Technology  – CSE  2016 - 2020 
+
+                            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Details (Persistent Systems Limited) 
+
+Microsoft_CELA_Dashboard_Tools_Rohit Sharma(onsite) 
+Role: Software Engineer 
+
+Working on a  Project, where Power BI tools and power apps will be used .As a team 
+member of the project I will work on collecting the data on excel sheets and building 
+different dashboards and using the Power BI tool can make alerts mails on usage with 
+the help of power apps tool. 
+
+Responsibilities: 
+•  Collecting the all data and  
+•  Create the dasboard using collection data and alearts mails on using with power 
+
+apps 
+
+•  Checking the data correction and format. 
+
+Environment: Windows 10, Power BI Desktop and Power Apps 
+
+OLIVELA 
+Role : Software Engineer 
+
+•  Working on a project, where  findings the bugs and writing the test  cases on 
+
+project   As a team  member of the project I will work on writing the test cases and 
+finding the bugs. And manual test cases using Selenium – Java using TestNG for 
+functionality testing in Eclipse Maven IDE 
+
+Responsibilities: 
+• 
+
+test cases using Selenium – Java using TestNG for functionality testing in Eclipse 
+Maven IDE. 
+
+•  Responsible for monitoring and maintaining project bugs and writing the manual 
+
+test cases. 
+
+•  And checking the manual test cases corrcet format and checking correct way build 
+
+the project. 
+
+•  Automation Script maintenance and updates due to changes in requirements or 
+
+implementations 
+
+•  Responsible for monitoring and maintaining automated testing frameworks 
+•  Analyzing the automation test results report and publishing automation results 
+
+Environment: Windows 10, using Excel and Sleneium  
+
+ 
+ 
+ 
+ 
+ 
+                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

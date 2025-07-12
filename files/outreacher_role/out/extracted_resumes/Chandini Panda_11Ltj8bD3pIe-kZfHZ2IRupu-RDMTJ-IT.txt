@@ -1,0 +1,11 @@
+Overall 2.6+years of experience in IBM India.
+
+Jamshedpur , India 831005
+
+June' 2021 -
+
+November' 2023
+
+Period- Oct2021-Nov2023
+
+Work HistoryEducationData EngineerChandiniPandaContactAddressPhone9938023033E-mailchandinipanda1995@gmail.comSkillsAbinitioUnix shell scriptingSQLTo seek and maintain full-time position that offers professionalchallenges utilizing interpersonal skills, excellent time management andproblem-solving skills.Abinitio DeveloperIBM,PuneWorked on Analysis,Design and Development ofDataware housing solutions, and in developingstrategies for Extraction, Transformation andLoading(ETL) mechanism using Ab-Initio.WORK PROJECT-Client- BarclaysRole- Ab-InitioDeveloperProjectDescription- The project implementation to asper business requirement to find out the liquidity ofmarket or company.Technologies Used- Ab-Initio,Teradata,UNIX.Roles served-❖Create parameter sets for generic graphs to movedata from different sourcesTeradata❖ Implementing graphs as per business requirement.❖Creating DDLs for Teradata table and loading data init.❖Performing unit testing of the graphs/scriptsdeveloped.❖Designed overall flow of project using pset and mp tofind out the lineage through Metadata>HUB.❖Involved in migration of code in differentenvironments and deploying the finalizedCode In Production.Dual Degree Engineering : Electrical And2015-03 -CertificationsCustomElectronicsSiksha 'O' Anusandhan University - BhubaneswarScored 8.2 CGPA2019-0310th: ICSES.T Mary's Higher Secondary School - JharsugudaScored 77.57%2010-03 -2011-0512th: CBSEVikas Vidya Niketan - VishakapatnamScored 69.8%2012-03 -2013-05Abinitio2021-06ETLTools Ab-Initio4.0.1.5OS -Linux,Unix,WindowsDatabase -Teradata,MySQLOther Tools- MicrosoftExcel,Putty,WinScpScripting- UnixShellScriptingLanguages- SQL,Unixshellscripting

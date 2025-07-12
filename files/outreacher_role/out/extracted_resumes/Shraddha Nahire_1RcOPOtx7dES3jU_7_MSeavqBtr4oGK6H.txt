@@ -1,0 +1,291 @@
+Shraddha Suresh Nahire
+
+Dhule, Maharashtra
+
+Email: nahireshraddha0@gmail.com
+
+sharadhadanahire@gmail.com
+
+Phone: 9359054655
+
+Objective:
+
+Highly motivated and skilled BCA graduate
+pursuing MCA, seeking a challenging position in a
+reputable company to utilize my programming
+skills and contribute to organizational growth.
+
+Education:
+
+1. Master of Computer Applications (MCA), SNDT
+Women's University, Mumbai
+
+(Expected Graduation: 2023)
+
+2. Bachelor of Computer Applications (BCA), SNDT
+Women's University, Mumbai
+
+(Year of Graduation: 2021)
+
+Skills:
+
+ Programming Languages: C, C++, Java,
+
+Python[git@github.com:12shradhda/assiment-
+java.git]
+
+ Web Development: HTML, CSS,
+
+JavaScript(file:///C:/Users/shard/OneDrive/De
+sktop/vs%20code%20p/)
+
+ Frameworks: React
+
+ Database: MySQL, MongoDB
+
+ Version Control: Git
+
+ Problem-solving and analytical skills
+
+ Strong communication and teamwork abilities
+
+Projects:
+
+1. web-genius-app(link:
+http://192.168.122.247:3000)
+
+Developed a web-based application using React,
+
+HTML, CSS, and JavaScript.
+
+Implemented functionality for user
+
+authentication, data retrieval, and storage.
+
+2.ATM MACHINE
+
+ Collaborated with a team of three members to
+
+meet project deadlines.
+
+ Created a console application using C++ to
+
+simulate a banking system.
+
+ Implemented features such as account
+
+creation, deposits, withdrawals, and balance
+inquiry.
+
+ Utilized object-oriented programming
+
+concepts for efficient code organization.
+
+Experience:
+
+Suvidha foundation (Internship in machine learning)
+
+Position: Intern
+
+Duration: 1 month
+
+ Assisted the development team in
+
+implementing new features and debugging
+code.
+
+ Participated in code reviews and provided
+
+suggestions for optimization.
+
+ Collaborated with team members on project
+
+documentation and testing.
+
+Parth infotech , Susgaon, Pune 411021
+
+Position : intern
+
+Duration : 6 month
+
+Title: Car Rental System Internship at Parth
+Infotech, Pune
+
+Description:
+
+The Car Rental System Internship at Parth Infotech,
+Pune is a 6-month program that involves working
+on a real-world project to develop a car rental
+system using PHP and MySQL. As an intern, you
+will have the opportunity to gain practical
+experience in software development and
+contribute to the creation of a fully functional web-
+based car rental system.
+
+Internship Objectives:
+
+1. System Analysis and Design:
+
+ Understand the requirements of a car rental
+system and analyze the existing business
+processes.
+
+ Design the database schema and system
+architecture to support the rental system
+
+functionalities.
+
+2. User Interface Development:
+
+ Create a user-friendly web interface for
+
+customers to browse and search available
+vehicles, make reservations, and manage their
+bookings.
+
+ Design visually appealing and responsive web
+
+pages using HTML, CSS, and JavaScript.
+
+3. Database Development:
+
+ Develop the MySQL database to store vehicle
+details, customer information, reservations,
+and booking history.
+
+ Implement the necessary tables, relationships,
+and queries to efficiently manage and retrieve
+data.
+
+4. Reservation and Booking Management:
+
+ Implement the reservation module to allow
+
+customers to check vehicle availability, select
+pick-up and return dates, and make
+reservations.
+
+ Develop the booking management
+
+functionality, enabling customers to view and
+modify their bookings within the specified
+timeframe.
+
+5. Pricing and Payment Integration:
+
+o Incorporate the rental pricing logic based
+
+on vehicle type, rental duration, and
+additional services.
+
+o Integrate secure payment gateways to
+
+allow customers to make online payments
+for their reservations.
+
+6. Admin Dashboard and Reports:
+
+o Create an administrative interface to
+
+manage the car rental system.
+
+o Develop features for administrators to add,
+
+edit, and remove vehicles from the
+inventory, track reservations, and generate
+reports.
+
+7. Testing and Debugging:
+
+o Conduct thorough testing of the system to
+
+identify and resolve any bugs or issues.
+
+o Ensure the system meets the functional
+and performance requirements specified
+in the project scope.
+
+8. Documentation and Presentation:
+
+o Prepare detailed documentation, including
+system design, database schema, and
+user manuals.
+
+o Present the developed car rental system
+to the project stakeholders, showcasing
+its features and functionality.
+
+Requirements:
+
+o Basic knowledge of PHP, MySQL, HTML,
+
+CSS, and JavaScript.
+
+o Familiarity with web development
+
+concepts and principles.
+
+o Strong problem-solving and analytical
+
+skills.
+
+o Ability to work collaboratively in a team
+
+environment.
+
+o Good communication and presentation
+
+skills.
+
+By the end of the internship, you will have gained
+hands-on experience in developing a web-based
+car rental system, enhanced your technical skills,
+and acquired valuable insights into software
+development processes.
+
+Certifications:
+
+1.java
+
+2.C
+
+3.C++
+
+4.python
+
+collage Projects:
+
+project name:
+
+1. online shop
+
+The Online Shop Application is a web-based
+platform developed using VB.NET, designed to
+provide a user-friendly and secure online shopping
+experience. It allows customers to browse through
+
+a wide range of products, add items to their
+shopping cart, place orders, and make secure
+payments. The application also includes an
+administrative interface for managing products,
+orders, and customer information.
+
+2.car rental system
+
+The Car Rental System is a web-based application
+developed using PHP and MySQL, designed to
+facilitate the rental process for cars. It provides a
+user-friendly interface for customers to browse
+available vehicles, make reservations, manage
+bookings, and handle administrative tasks. The
+system aims to streamline the car rental process,
+ensuring efficiency and convenience for both
+customers and rental agencies.
+
+other basic skill is:
+
+machine learning , data science ,cloud computing
+,IOT ,big data ,computer Networking, AI ,etc;
+[git@github.com:12shradhda/machine-learning.git]
+
+

@@ -1,0 +1,157 @@
+ABHISHEK CHAKRABORTY
+
+Ⓒ abhishekchakraborty853@gmail.com\ +91-8011850607 @ Bangalore, India Š https://github.com/Abhirex15
+
+EDUCATION
+
+Master In Computer Application
+AIMS,Bangalore University
+
+OTHER PROJECTS
+
+Haberman’s Breast Cancer Dataset
+• Predicted survival status of patients who under- gone
+
+from surgery.
+
+Aug 2017 – May 2021
+
+@ Bengaluru,Karnataka
+
+• Cancer Survival Dataset, show the superiority of
+
+Bachelor In Computer Application
+Dibrugarh University
+Aug 2013 – May 2017
+
+@ Dibrugarh, Assam
+
+EXPERIENCE
+Business Development Executive:
+
+Learnbay
+Aug 2022- Present
+
+●
+
+●
+
+I have generated around 40 lakhs of revenue until
+now .
+I have used Leadsquared and it is B2C.
+
+proposed method by reaching 77.17 and
+88.58 percents in terms of Accuracy and Cross- validation
+on standard deviation respectively.
+
+• logistic regression on grid search as cross- validation ,
+we were able to determine 82 per- cent of F1-score.
+
+Data Analysis And Forecasting On Covid-19
+Outbreak
+• The approach I have taken here is to treat this as time
+series data and use the popular Face- book Prophet
+algorithm for the daily data.
+
+• Did forecasting for people could get affected with
+
+Covid-19 in next 7 days.
+
+Business Development Associate:
+Bosscoder Academy
+May 2022 - July 2022
+● I have generated around 30 lakhs of revenue
+
+in this organisation untill now.
+I have used CRM like Hubspot and also excel.
+I do call here more than 90 calls a day.
+
+●
+●
+
+Researcher/Data Scientist Intern:
+RayIot Solutions
+
+March 2020 - June 2020
+
+@ Bangalore, India
+
+• Worked on clinical evaluation raybaby devices in
+
+an ICU setting.
+
+• The primary objective of the study was to hnd
+
+an agreement between respiratory rate
+obtained by raybaby monitor with the clinically
+certihed GE B30 patient monitor among
+patients between 18 and 80 years of age.
+
+Full Stack Developer Intern
+Accolade
+
+March 2019 - May 2019
+
+@ Bangalore, India
+
+• It was a startup based on providing jobs.
+
+• Developed their registration outlet using
+
+node js, dust js and ejs.
+
+• Did authentication using nodejs and passport.
+
+Php Developer Intern
+Smart Nerd Solutions
+July 2017 - Nov 2017
+
+SKILLS
+
+Programming Languages:
+Python | Node Js | Php | SQL
+Data Analysis:
+Pandas, Matplotlib, Seaborn, Numpy, Statsmodel
+Frameworks:
+NodeJS | Flask |Laravel | Passport |Ejs |Vue js
+| Dartjs
+Databases::
+MySql Server | Postgre Sql
+Platforms and Misc::
+Anaconda, Jupyter Notebook,Streamlit,Atom,
+,Windows XP/W8/W10, Heroku CLI.
+
+ACHIEVEMENTS
+
+• Participated in Seminars, Paper Presentations and
+multiple Bootcamps.Certihcate for Ad- venture
+Camp at Atal Bihari Va-jpayee Institue of
+Mountaineering and allied sports (Govt. of Himachal
+Pradesh) .
+
+• Appreciation certihcates by HelpAge India and
+
+Hemophilia Federation(India)
+
+• Prizes secured in Chess, table tennis, Athlet- ics, Cricket
+
+, Volleyball, Badminton, Carrom , Kho-Kho, Musical
+instrument, Art, Quiz Compe- tition,Speech etc.
+
+• Do have a Podcast Channel (Think Guru) based
+
+on social norms and interviews with global lead- ers.
+
+@ Bangalore, India
+
+• Do have a YouTube Channel(Box Trends-18K SUBS)
+
+• Worked on several projects based on
+requirements by doing php scripts.
+
+• Developed an e-commerce website.
+
+based on tutorials, interviews, informa- tive and
+entertainment.
+
+

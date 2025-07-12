@@ -1,0 +1,77 @@
+SWARAJ RAWAT
+Software Developer
+9690708939  swarajrawat9690@gmail.com  https://www.linkedin.com/in/swaraj-rawat-5a7039235
+
+Dehradun, Uttarakhand
+
+SUMMARY
+
+Skilled and motivated Software Developer with a passion for creating innovative and efficient solutions. Proficient in multiple
+programming languages.Committed to continuous learning and staying abreast of the latest industry trends.
+
+EDUCATION
+MASTERS IN COMPUTER APPLICATIONS (7.04 CGPA)
+Graphic Era Hill University  , Dehradun
+
+Bachelor's in Information Technology (63%)
+DevBhoomi Group of Institute ,Dehradun
+
+Class 12th - CBSE Board(P.C.M.)
+SGRR Publlic School ,Dehradun
+
+Class 10th - CBSE Board
+St. Mary's Convent School,Dehradun
+
+SKILLS
+
+2021   2023
+
+2018   2021
+
+2017   2018
+
+2015   2016
+
+HTML,CSS,JAVA,JAVASCRIPT,REACT.JS(Basics),FRONTEND  DEVELOPMENT,BOOTSTRAP,MYSQL,ANDROID  Basics),
+GIT/GITHUB,Problem Solving,Communication Skills
+
+PROJECTS
+
+Ticket Booking Website
+
+A ticket booking website for bookig of hotels
+•
+Using HTML, CSS, MYSQL,XAMP
+
+Library management system
+
+A project which manages and stores books information electronically according to students needs
+•
+Using JAVA ,Apache Netbeans IDE
+
+EXPERIENCE
+
+JAVA DEVELOPMENT VIRTUAL INTERNSHIP
+CodeClause
+Description - 
+•
+
+Working on a project library management Using JAVA ,Apache Netbeans IDE
+
+TRAINING / COURSES Certification
+
+JAVA PROGRAMMING   Asian Infotech
+
+LANGUAGES
+
+ENGLISH
+
+(Proficient)
+
+HINDI
+
+(Native)
+
+03/2023   05/2023
+
+

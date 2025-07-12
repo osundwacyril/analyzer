@@ -1,0 +1,126 @@
+Agrima Tripathi
+Linkedin: www.linkedin.com/in/agrima-tripathi-233m/
+Github:
+
+github.com/DentalDracula
+
+Education
+
+• Vellore Institute of Technology
+
+Bachelor of Technology - Computer Science; GPA: 9.22
+
+• Somerville International School
+
+Central Board of Secondary Education; Percentage: 89.95%
+
+• Somerville International School
+
+Central Board of Secondary Education; Percentage: 94.45%
+
+Email: emailagrima@gmail.com
+Mobile: +91-9967089778
+
+Vellore, India
+July 2021 - present
+Noida, India
+July 2019 - April 2021
+Noida, India
+April 2019
+
+Python, C, Java, JavaScript, SQL, Solidity
+
+TensorFlow, Keras, Django, Flask, NodeJS
+
+Docker, GIT, MySQL, SQLite, MongoDB, PostMan, VIM
+
+Skills Summary
+• Languages:
+• Frameworks:
+• Tools:
+• Platforms:
+• Soft Skills:
+Projects
+• DocBud : Find the correct doctor at the right time.: (Work in progress) DocBud helps is a symptom checker that
+helps it’s user find the doctor that specializes in the disease they have the most chance to have. Tech: HTML, CSS, React,
+Node.js, Bootstrap, Tailwind CSS, Postman, MongoDB, Express, Node, Firebase, TensorFlow (November ’22)
+
+Leadership, Event Management, Time Management, Problem Solving, Team management
+
+Linux, Windows, AWS
+
+• BookHunt: Book pooling website for all.: (Work in progress) BookHunt allows users to borrow books from different
+users, thus cutting down the process of purchasing a new book altogether. It enables users to interact with each other thus
+bringing people closer from all over the globe. Tech: HTML, CSS, React, JS, Bootstrap, Tailwind CSS, Postman, MongoDB,
+Express, Node, Firebase, TensorFlow (November ’22)
+
+• Colorizer: Converts Black White Images to Coloured Images : This deep learning project aims to provide colour to
+black and white images with the help of python Tech: HTML, CSS, JS, Bootstrap, OpenCV, Deep learning, python (November
+’22)
+
+• Mart-Data-Assets: Creating a data asset that enables its user to transfer their data from one regional application to another
+
+without the need of re-registration.Tech: HTML, CSS, JS, Bootstrap, Solidity (June ’22)
+
+• Niravana Diary - Your Mood Tracker: We give you a platform where you can journal your day and we use your words to
+
+decipher your moods and generate a graph and pattern of your mood swings. Tech: Python Jupyter Notebooks, Django,
+HTML, CSS, JavaScript, Emotion Classifier (June ’22)
+
+• CRUD Operation on Table: Using a Django back-end I have created an API which allows you to make CRUD operation
+
+using RESTFUL API. Tech: DJANGO, SQLite, HTML, CSS, Postman ( May ’22)
+
+Achievements
+
+• Selected as women engineer scholar organised by Google consisting a cohort of 250 students out 30k+ applications. -
+
+June 2022
+
+• Selected as Program representative for second semester at VIT University - January 2022
+
+• Gold Certificate with 96% score in NPTEL course - a joint venture of IIT and IISc. - April 2023
+
+• Participated in Flipkart grid 4.0 challenge - July 2022
+
+Experience
+
+• Women Engineering Program by TalentSprint and supported by Google
+
+A 2-year program for women engineers, providing technical and corporate skills training along
+with a stipend.
+
+Remote
+
+July 2022 - Present
+
+Volunteer Experience
+
+• Executive Secretary at ISTE-VIT
+
+Conducted online and offline technical webinars on web development impacting over many
+students. Looked over technical development of members in the core
+
+• Core Committee Member at IET-VIT
+
+Conducted online and offline technical training on web development impacting over many
+students.
+
+• Volunteer at Special Guest Care Committee - Rivera 23’
+
+Volunteered in the Special Guest Care committee for India’s 2nd biggest College fest-
+Rivera 23’. Reponsible for accomodation and travel of artist and other guest
+
+Vellore, India
+
+March 2022 - Present
+
+Vellore, India
+
+March 2022 - Present
+
+Vellore, India
+
+Jan 2023 - Feb 2023
+
+

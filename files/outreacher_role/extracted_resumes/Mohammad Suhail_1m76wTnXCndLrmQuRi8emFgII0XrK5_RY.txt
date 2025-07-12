@@ -1,0 +1,121 @@
+Mohammad Suhail
+
+160, Jumma Colony Rampur
+mohdsuhail2136@gmail.com | +919760704438
+
+EDUCATION
+TEERTHANKER MAHAVEER UNIVERSITY
+B.Tech. in Computer Science
+Aug 2019 - June 2023 | Moradabad, UP
+Percentage: 79.9%
+
+SARASWATI VIDYA MANDIR INTER COLLEGE
+Intermediate
+April 2018 - March 2019 | Rampur, UP
+Percentage: 73%
+
+RAMPUR NATIONAL SR. SEC. SCHOOL
+High School
+April 2016 - March 2017| Rampur, UP
+Percentage: 81%
+
+COURSEWORK
+UNDERGRADUATE
+Introduction to Programming
+Object-Oriented Programming
+Basics of Information Management
+Programming with Python
+Introduction to Machine Learning
+Programming with C++
+
+LINKS
+Portfolio: mohammadsuhail1.github.io/Portfolio
+Github: MohammadSuhail1
+LinkedIn: mohammadsuhailansari
+
+SKILLS
+PROGRAMMING
+
+LANGUAGES:
+• C++ • JavaScript
+
+TOOLS & OS:
+• Git • Linux • Windows
+
+FRAMEWORK & LIBRARY:
+• React.js • Node.js • Express.js
+
+TECHNOLOGIES:
+• HTML • CSS • SQL
+
+HOBBIES
+• Writing Journal • Reading Books
+• Listening Podcast
+
+PROJECTS
+REFLECTIVE | Daily Journal
+HTML, CSS, JavaScript, React, MongoDB
+
+• Developed a website that enabled users to write and share
+
+their daily journal entries online using HTML, CSS,
+JavaScript, and React.
+
+• A user-friendly interface that lets users create, edit, and
+
+delete their journal entries.
+
+• Implemented features such as secure login, and backup
+
+using the MongoDB database.
+
+KEEPER | Note Taking Website
+HTML, CSS, JavaScript, React
+
+• Created a website that enabled users to take and organize
+
+notes online using React.
+
+• A simple and intuitive interface that lets users create, and
+
+delete their notes.
+
+ACHIEVEMENTS
+
+• Secured the first position in Khoj, a quiz competition
+organized by the College of Computing Science and
+Information Technology (CCSIT) at Teerthanker Mahaveer
+University (TMU).
+
+• Achieved second place in the “Science Quiz” conducted
+
+during the Science Day celebration.
+
+• Rank 4 (Semester 6) and Rank 5 (Semesters 5 & 7).
+
+CERTIFICATES
+
+• HTML, Linux, Git Training Certificates by IIT
+
+Bombay-Spoken Tutorial
+
+• Fundamentals of HTML, Fundamentals of CSS Certificates
+
+by Coding Ninjas
+
+• Basics of JavaScript, Basics of C++ Certificates by Coding
+
+Ninjas
+
+• LFS101x: Introduction to Linux by EDX
+
+LANGUAGES
+
+PROFICIENCY LEVEL
+Native Proficiency
+• Hindi
+
+Working Proficiency
+• English
+
+

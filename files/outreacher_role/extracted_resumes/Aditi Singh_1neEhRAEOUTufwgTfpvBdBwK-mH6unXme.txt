@@ -1,0 +1,129 @@
++918953287736
+
+singhaditi.riya25@gmail.com Varanasi, UP https://www.linkedin.com/in/aditi-singh2507
+
+Aditi Singh
+
+SUMMARY
+
+Azure  Data  Engineer  with  1  month  of  training  experience  at  Hanu  Softwares.  Demonstrated  skills  in  data  visualization,  analysis,  and
+security. Proficient in Python, SQL, Spark, and NoSQL databases. Ability to design, develop, and deploy data pipelines. Proven ability to
+work independently and as part of a team. Committed to continuous learning and improvement.
+
+SKILLS
+
+Tools and Platforms: PowerBI, Tableau, Excel, Git, AWS, Azure, GitHub, Docker, MongoDB 
+Technical domain: Python, Object Oriented Programming, Operating System, Software Engineering, DBMS, MySQL,
+Soft Skills: Communication and interpersonal skills, Problem solving, Adaptability, Analytical, Teamwork
+
+WORK EXPERIENCE
+
+Data Engineer
+Hanu Software and Solutions | 
+
+Noida, IN 
+
+Aug '22
+
+-
+
+Sep '22
+
+•
+
+•
+
+Incorporated the usage of Azure Blob Storage, Cosmos DB, Data Pipelines, SQL Databases for reliable solutions and for managing 
+large amounts of unstructured data efficiently.
+Conducted 5 assessments for deployment and better understanding, evaluating system performance, security, and scalability to 
+ensure successful deployment and optimal functionality.
+
+Cloud Technology Intern
+Pie Infocomm | 
+
+Lucknow, IN 
+
+Jun '22 Dec '22
+-
+
+•
+•
+
+Collaborated with cloud experts to understand specific AWS services and system requirements.
+Carried out 4 in-depth assessments to determine document management requirements at department and individual user levels 
+along with work simulation for real-world projects.
+
+Open Source Contributor
+Real Dev Squad | 
+
+ Remote
+
+Jun '21 Apr '22
+-
+
+•
+•
+
+Identified issues, analyzed information and provided solutions to problems while working with the projects on GitHub. 
+Collected and consolidated technical analyses and drove technical feedback and recommendations in the areas such as HTML, CSS, 
+JavaScript.
+
+COURSES and CERTIFICATIONS
+
+•
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+Cloud Practitioner Essentials | AWS
+Data Engineer | DP203 | Microsoft
+
+CCNAv7: Introduction to Networks | Cisco
+
+The Fundamentals of Digital Marketing | Google
+Data Analytics Essentials | Cisco
+
+Introduction to Cybersecurity | Cisco
+
+Social Media Marketing | Semrush
+
+PROJECTS
+
+Heart Disease Prediction using Data Analysis and Big Data 
+
+•
+
+Utilized decision trees, data analytics, data cleaning, and health log to predict diseases using 13 parameters and conducted 
+research work.
+
+Research work on Internet of Things 
+
+•
+
+Attended workshops on the applications of IoT, industrial automation, and future scope.
+
+EDUCATION
+
+B.Tech in Computer Science and Engineering
+Amity University CGPA: 7.83 | 
+
+Lucknow, IN
+
+Jul '19
+
+-
+
+Jun '23
+
+ 
+ 
+ 
+ 
+

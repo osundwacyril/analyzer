@@ -1,0 +1,96 @@
+Rahul Thinnavalli
+
+Thinnavallirahul@gmail.com
+
+91 9182423235
+
+Vijayawada
+
+EDUCATION
+
+B.Tech, Mechanical Engineering
+
+Velagapudi Ramakrishna Siddhartha Engineering College
+
+2018  2023
+
+Percentage: 60.00%
+
+Senior Secondary (XII, Science
+
+Sasi New Gen Jr College
+
+BOARD OF INTERMEDIATE EDUCATION,AP board)
+
+Year of completion: 2018
+
+Percentage: 86.00%
+
+Secondary (X
+
+Narayana Techno School
+
+BOARD OF SECONDARY EDUCATION OF ANDHRA PRADESH
+board)
+
+Year of completion: 2016
+
+Percentage: 85.00%
+
+TRAININGS
+
+Ethical Hacking
+
+Internshala Trainings, Online
+
+Oct 2023  Dec 2023
+
+Successfully completed a 8 weeks online certified training on
+Ethical Hacking. The training consisted of Basics of Computer
+Networking, Information Gathering and Basics of Web
+Development, VAPT, OWASP and SQL Injections,
+Documenting and Reporting, etc.
+
+Linux
+
+ECCouncil Learning, Online
+
+Oct 2023  Oct 2023
+
+Successfully completed a 2 weeks online certified training on
+Linux. The training consisted of Basics of Linux Administration
+and Advanced Linux Administration.
+
+PROJECTS
+
+e-commerce platform
+
+Nov 2023  Dec 2023
+
+Finding Vulnerabilities and Loopholes in it. Enhance its
+Security and Protect sensitive data, Preventing unauthorised
+access, Collected relevant PoCs and Prepared a report.
+
+SKILLS
+
+Linux
+
+Intermediate
+
+HTML&CSS
+
+Beginner
+
+MySQL
+
+Beginner
+
+Python
+
+Beginner
+
+PHP
+
+Beginner
+
+

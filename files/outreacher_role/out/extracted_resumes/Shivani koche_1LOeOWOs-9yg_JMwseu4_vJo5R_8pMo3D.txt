@@ -1,0 +1,161 @@
+ PERSONAL DETAILS 
+
+Name                                                :      Ku.Shivani Kishor Koche    
+
+Date of Birth                                  :      1st Sept,1994 
+
+Nationality                      
+
+:      Indian 
+
+Gender 
+
+:      Female 
+
+Languages known             
+
+:      Marathi, English & Hindi   
+
+Marital Status  
+
+:      Unmarried                                       
+
+ADDRESS   : - Plot no. 38-A, Maratha colony ,Gopal nagar,Badnera road Amravati 
+
+Email ID     : - koche.shivani@gmail.com 
+
+Phone no.   :- +91 7620289831, +91 9175730795 
+
+CARRIER OBJECTIVE 
+
+Organized, top performer and goal-driven individual with one year of experience in 
+working with edtech company. I hold master’s degree in mathematics and now 
+converging towards data science where I am Seeking a challenging position in a 
+reputable organization to expand and utilize my skills and technical knowledge. 
+
+EDUCATIONAL AND PROFESSIONAL CREDENTIALS 
+
+Course 
+
+Board/University  Marks % 
+
+Division 
+
+10th 
+
+12th 
+
+B.Sc 
+
+MP Board 
+
+Pune Board 
+
+79.34% 
+
+65.50% 
+
+SGBAU,Amravati  83.70% 
+
+M.Sc.  
+
+SGBAU, Amravati  7.20 (CGPA) 
+
+1st 
+
+1st 
+
+1st 
+
+1st 
+
+Year 
+
+2010 
+
+2012 
+
+2012-15 
+
+2015-17 
+
+SKILLS 
+
+➢  Python 
+➢  SQL 
+➢  NumPy 
+➢  Matplotlib 
+➢  Pandas 
+➢  Latex Coding 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECTS 
+
+➢  TINY URL CONVERTER   
+
+In this project we are making URL converter which converts long URL to short URL 
+by using OOPs. 
+Basically, when the URL shortener gives you your shortened URL, it remembers the 
+full address. When other users go to the shortened URL, they will be automatically 
+redirected to the full address. 
+
+➢  ZOMATO DATA ANALYSIS 
+
+For analyzing the data in this project, I have used libraries like : NumPy, Pandas, 
+Matplotlib and Seaborn 
+
+Work and Experience  
+
+Cerebry e- learning solutions, Singapore 
+
+Subject Matter Expert 
+
+•  Developed/curated content of diverse curricula such as CBSE, ICSE, Cambridge 
+
+IGCSE,  Singapore  O-Level,  Philippines  DepEd  (MELC).  Generated  a  set  of 
+
+questions of a particular type by writing the constraints & logic using latex & basic 
+
+Python codes.  
+
+•  Worked  on  copyright  issues  of  the  application/word  problems  and  developed 
+
+different  context  questions.  Provided  constructive  feedback  in  improvising  the 
+
+content and making practice personalized & adaptive for students. 
+
+DECLARATION  
+
+I hereby declare that the information furnished above is true to the best of my knowledge. 
+
+Place:  Amravati (MH) 
+
+                                                                                                  (Shivani Koche)                                              
+
+Date : 17/05/23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,144 @@
+ Resume Noob 
+Doesn't own a house. 
+
+ Academic Profile 
+
+Qualification 
+
+Institution and Affiliation 
+
+Duration 
+
+Score 
+
+Bachelor of Technology in 
+Electronis and 
+Communication  
+
+Xyz 
+
+12th Grade 
+
+10th Grade 
+
+Xyz  
+
+Xyz  
+
+2016-2020 
+
+86.7 % 
+
+2015-2016 
+
+2013-2014 
+
+85.4% 
+
+7.8 
+CGPA 
+
+Assistant Systems Engineer—21st Jan 2021 to Sept 30th 
+
+Job Profile and Responsibilities: 
+
+  Testing and Execution, Data Analysis. 
+  Writing and execution of more than 3o test cases per day, 
+  Cleaning and Visualising complex and huge data. 
+  Learnt various new software such as: VECTOR Cast, Tableau, IBM DOORS. 
+  Learnt various new programming skills such as Java, Python, SQL. 
+  Acquired various soft skills, organizational skills and time management and most importantly 
+
+corporate culture. 
+
+Internetship: 
+
+Intern Trainee 
+
+(PRESNET) worked on various communication systems such as Analog and 
+
+  digital 
+  Assisted team with various aspects of projects 
+  Managed team when team lead was unavailable 
+  Provided technical support, addressing routine and special requirements 
+Took meeting notes and compiled paperwork to support department 
+
+ Projects Undertaken (include all your academic and professional projects) 
+Title: Testing Engineer for XYZ 
+
+  Duration: Jan 2021- Sep 2022 
+  Organisation: XYZ  
+  Objective/Description: Testing and Executing test cases for automatic car steering. 
+  Outcome (if any): Developed test cases with various possibilities while driving. 
+  Team Size: 10 
+  Role: Team Member/Test Engineer 
+  Tools Used: VectorCAST, IBM DOORS, PTC Integrity, IBM Rhapsody. 
+
+Title: Machine Learning based Cloud security by Facial recognition. 
+
+  Duration: Dec 2019 – April 2020 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Objective/Description: Securing cloud storages with additional layer of facial recognition. 
+  Team Size: 4 
+  Role: Project Lead 
+  Tools Used: Anaconda Language, MATLAB, Raspberry Pie. 
+
+CourseworkandCertifications(mentionallshortandlong-termcoursesandcertification, 
+
+thismayalsobeusedto coveryour gapyears) 
+
+  Completed short term course in Web Designing. 
+  Completed short term course in Machine Learning 
+  Completed course on Python in Coursera. 
+  Completed Data Science course in Internshala 
+  Completed Data Visualization course at EDx. 
+  Completed SAP – ABAP course for professionals. 
+
+SeminarsandWorkshopsAttended 
+
+  Attended an IOT Seminar conducted by Electronics department. 
+
+IndustrialVisits(industries youmighthavevisitedduringschool/college) 
+
+  Visited Technet Office to view various types of modulation techniques used in transmission 
+
+of signals. 
+
+  Visited ABB Robotics to understand how artificial intelligence, machine learning and robotics 
+
+correlate with one another. 
+
+TechnicalSkills 
+
+●  Data Analysis using Pandas. 
+
+●  Data Manipulation using Numpy. 
+
+●  Data Visualization using Tableau. 
+
+●  SQL. 
+
+●  Python 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

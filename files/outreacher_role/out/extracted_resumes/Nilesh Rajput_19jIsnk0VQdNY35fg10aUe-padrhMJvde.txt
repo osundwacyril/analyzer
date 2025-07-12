@@ -1,0 +1,83 @@
+Linkdin 
+
+ | rajputmayur030@gmail.com | 91 - 7841083389 
+
+NILESH RAJPUT 
+
+QA Analyst  with  over  1  year  of  experience  in  manual  testing  and  a  strong  understanding  of  automation 
+testing.  Currently working  in  the OCR domain and involved in Agile methodology. Skilled in writing  and 
+executing test cases with good knowledge of programming languages like  Java, Python, and JavaScript. 
+Seeking an opportunity to enhance my skills and contribute to the development field. 
+
+SKILLS 
+
+MANUAL  TESTING  –  Functional  Testing  |  Regression  Testing  |  Retesting  |  Agile  Methodology  |  
+Software Development Life Cycle (SDLC) | Software Testing Life Cycle (STLC) | Execute Test Cases along 
+with Test Report | Defect Analysis & Defect Report | Postman | API Testing  
+
+PROGRAMMING LANGUAGES & FRAMEWORKS – JAVA | Python | JavaScript | HTML | CSS | Spring 
+Boot | OOPs | DSA 
+
+TOOLS & DATABASES – Postman | Docker | SQL | MySQL | DBMS | MongoDB 
+
+EXPERIENCE 
+
+QA ANALYST 
+Penta Software Consultancy Services Pvt Ltd. 
+• Currently working on OCR domain projects, primarily involved in functional testing, regression testing, 
+and retesting. 
+• Perform various types of testing to ensure software quality. 
+• Obtain requirement documents and write, review, and refine test cases in Excel. 
+• Strive to achieve daily testing targets and maintain project timelines. 
+• Work within an Agile methodology to ensure efficient and iterative development and testing processes. 
+
+03/2023 - Present 
+
+EDUCATIONAL QUALIFICATION 
+
+Bachelor of Science (Mathematics)   
+S.D.S.M. College Palghar | University of Mumbai 
+CGPA – 8.43 
+Coursework – Calculus | Linear Algebra | Introduction to Programming | JAVA | Python 
+
+06/2019 – 05/2021 
+
+PERSONAL PROJECTS 
+
+E-COMMERCE API  
+Description - Developed a backend API for an e-commerce web application with a team of 3 members, 
+featuring 6 modules: User, Customer, Address, Product, Cart, and Order. 
+Primarily focused on User, Address and Product functionalities. 
+Utilized Spring Boot framework, MySQL database, and Spring Data JPA for database connectivity. 
+Implemented REST APIs and followed the MVC architecture for better readability and maintainability. 
+JAVA | Spring Boot | MySQL | JPA | MVC  
+
+Expense Tracker 
+Description - Developed a front-end application for tracking personal finances as a learning project using 
+JavaScript and React. 
+Allows users to add descriptions of expenses and income, input amounts, and store transaction history for 
+calculation and review. 
+JavaScript | React | HTML | CSS  
+
+CERTIFICATION - Spring Boot 3 & Spring Framework 6 with Java  
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+

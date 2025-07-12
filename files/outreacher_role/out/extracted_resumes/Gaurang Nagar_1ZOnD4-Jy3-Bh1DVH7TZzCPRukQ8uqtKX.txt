@@ -1,0 +1,297 @@
+Gaurang Nagar
+
+gourangnagar90@gmail.com
+
+91 9587340242
+
+Kota
+
+EDUCATION
+
+Bachelor of Technology (B.Tech), Electrical Engineering
+
+Modi Institute Of Technology
+
+2016  2020
+
+Percentage: 70.00%
+
+Senior Secondary (XII, Science
+
+Central Academy Kota
+
+CBSE board)
+
+Year of completion: 2015
+
+CGPA 6.00/7
+
+Secondary (X
+
+Bardsely Senior Secondary School
+
+CBSE board)
+
+Year of completion: 2013
+
+CGPA 6.00/7
+
+JOBS
+
+Email Marketing Campaign Marketing
+
+Saglus Software Pvt Ltd, Kota
+
+Sep 2022  Present
+
+Creating HubSpot and Sendgrid Landing Pages and Forms.
+
+Monitoring operational programs in HubSpot & Sendgrid
+Emails & Campaigns.
+
+Building audiences and segmentation looking at data gaps.
+
+Testing and approval of email campaigns.
+
+INTERNSHIPS
+
+Data Entry
+
+Us Based Work, Virtual
+
+Jan 2019  Mar 2019
+
+My primary responsibility at work is data
+analysis filtering in Excel, where I must sort, filter, and visualiz
+e sales data.
+
+I gained experience managing and filtering data for better sal
+es throughout this assignment.
+
+POSITIONS OF
+RESPONSIBILITY
+
+In college, I've successfully organized a wide range of
+activities and multitask functions teamwork. My primary
+responsibility is to analyze and consulting how much money is
+
+spent on each event and to properly plan an event with a
+amount of money.
+
+TRAININGS
+
+Exploratory Data Analysis And Machine Learning
+
+Internshala Trainings, Online
+
+Jan 2023  Feb 2023
+
+The Lifecycle of Machine Learning.
+
+Understanding data and probability concepts.
+
+Outliers, missing values, and the central limit theorem
+
+Analysis of two variables and hypothesis testing
+
+Python For Data Science
+
+Internshala Trainings, Online
+
+Dec 2022  Dec 2022
+
+Topics Learned: Data Structures, Functions & Visualization
+
+Project Completed: Handling text files using Python
+
+SQL For Data Science
+
+Internshala Trainings, Online
+
+Nov 2022  Dec 2022
+
+Topics Learned: Modifying, Importing & Exporting
+
+Project Completed: Descriptive Analytics of FIFA 19 Players
+
+Mastering Tableau
+
+Internshala Trainings, Online
+
+Oct 2022  Nov 2022
+
+Topics Learned: Basics, Dashboards & Storytelling
+Visualisation
+
+Project Completed: Food Forecasting Analysis
+
+Advanced Excel
+
+Internshala Trainings, Online
+
+Oct 2022  Oct 2022
+
+Topics Learned: Formulas, Functions & Advanced Concepts of
+excel bar graphs.
+
+Advance Excel Sorting and Filtering Data
+
+PROJECTS
+
+SuperStore Sales Dashboard
+
+Jun 2023  Jun 2023
+
+https://drive.google.com/file/d/1A44LCTlClWHtwKWVw-
+kycsz7k13TKGpA/view?usp=drive_link
+
+1. Maximum sales driven through COD payment mode.
+
+2. Maximum sales from Customer segment (48.09% then
+
+corporate (32.55%
+
+3. Office supplies is the category which have maximum sales
+
+4. Most of the customers preferred standard class ship mode
+
+Ecommerce Sales Power BI Analysis
+
+May 2023  May 2023
+
+https://drive.google.com/file/d/1Cluxyv9mZZBF8e8KUXTYYY
+MLPeYYSES7/view?usp=drivesdk
+
+ECOMMERCE SALES Dashboard
+
+Created interactive dashboard to track and analyze online
+sales data
+
+Used complex parameters to drill down in worksheet and
+customization using filters and slicers
+
+Created connections, join new tables, calculations
+
+Task is to sell the “Crest 3D White Luxe Whitestrips from
+Email Marketing
+
+Feb 2023  Feb 2023
+
+https://docs.google.com/document/d/10UQTnp7oGfVcqE2ig
+NtfW3qcWUgKlNKxWM9HaI8qA5A/edit
+
+Increase Conversion rates and opening rates of emails.
+
+Increase overall revenue of the company.
+
+Build a campaign for selling the products and build a loyal
+customer base.
+
+Sell the products with the best customization and offers
+
+Software As A Service Email Marketing Campaign
+
+Jan 2023  Jan 2023
+
+https://docs.google.com/document/d/1Xo4lUXlcFPtDnQVjmL
+u4v0GaFqO2vYhKNDnSG6jtOAE/edit?usp=sharing
+
+Embark on seamless business growth with our Software as a
+Service (SaaS solutions! Discover streamlined workflows,
+enhanced productivity, and cost-effective operations. Join
+our email marketing campaign to unlock exclusive insights
+SaaS's potential
+
+Exploring and Predicting NYC Taxi Trip Durations
+
+Jan 2023  Jan 2023
+
+https://github.com/gaurangnagar/Project-Building-Basic-
+NYCTaxi-Trip-
+dataset/blob/0348fd6eec74be83c0fe144cba284b9de53b5
+74e/Final Project Building Basic predictive models over the
+NYC Taxi Trip dataset.-checkpoint.ipynb
+
+Performed data exploration on Taxi Trip Duration dataset for
+NYC. Here, I used the Basic ML models for predicting the trip
+durations
+
+SKILLS
+
+MSExcel
+
+Advanced
+
+Tableau
+
+Intermediate
+
+SQL
+
+Intermediate
+
+Statistics
+
+Intermediate
+
+Natural Language
+Processing (NLP
+
+Intermediate
+
+Power BI
+
+Advanced
+
+Market Research
+
+Intermediate
+
+Data Analytics
+
+Intermediate
+
+Email Marketing
+
+Advanced
+
+Python
+
+Intermediate
+
+Machine Learning
+
+Intermediate
+
+Data Science
+
+Intermediate
+
+Video Editing
+
+Advanced
+
+Database Management
+System (DBMS
+
+Intermediate
+
+Project Management
+
+Time Management
+
+Intermediate
+
+Advanced
+
+WORK SAMPLES
+
+GitHub profile
+
+https://github.com/gaurangnagar
+
+Other portfolio link
+
+https://www.linkedin.com/in/gaurang-nagar-34173b170/
+
+

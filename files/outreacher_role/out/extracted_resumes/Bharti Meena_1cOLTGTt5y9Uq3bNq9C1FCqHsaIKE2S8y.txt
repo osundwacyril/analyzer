@@ -1,0 +1,95 @@
+Bharti Meena
+
+935-230-5249 | Email | Linkedin | GitHub
+
+Education
+
+Indian Institute of Information Technology, Vadodara
+Bachelor of Technology in Computer Science and Engineering
+
+Apurva Public Senior Secondary School
+12Th in Science
+
+Experience
+
+Gandhinagar, Gujarat
+Aug. 2019 – May 2023
+
+Alwar, Rajasthan
+Aug. 2018 – Mar 2019
+
+WEB DEVELOPER INTERN | Python, PHP, Manual Testing
+Ministry of Education Innovation Cell, AICTE | Offer Letter
+
+Mar 2023 – Aug 2023
+Delhi, India
+
+• Conducted testing and prepared a comprehensive report on the KAPILA and SIC websites, identifying and
+
+reporting all the bugs found during testing.
+
+• Worked with the development and maintenance teams of the live website of KAVACH2023.
+• Gained valuable experience software testing, quality assurance,and website development while working alongside
+
+professionals in the government sector.
+
+FRONTEND DEVELOPER | HTML/CSS,JavaScript,Bootstrap
+BeanByte Softweres Private Limited | Offer Letter
+
+Dec. 2022 – Mar 2023
+Alwar, Rajasthan
+
+• Using JavaScript and Bootstrap designed a model to help the petrol pump owner’s in their business.
+
+FRONTEND DEVELOPER | HTML/CSS,JavaScript,Bootstrap
+Digipple | Offer Letter
+
+Oct 2022 – Dec 2022
+Ahmedabad, Gujarat
+• Designed and implemented a login page and a kanban page for a SAAS project using HTML, CSS, JavaScript,
+
+and Bootstrap.
+
+Projects
+
+Sorting Visualizer | ReactJS, CSS, HTML,GitHub
+
+July 2021 – Oct 2021
+
+• Designed and implemented a web-based animation tool to visualize five common sorting algorithms: Selection
+
+Sort,Bubble Sort, Insertion Sort, Quick Sort, and Merge Sort.
+
+• Developed a user-friendly interface that represents data as a bar graph and allows users to select a data-ordering
+
+algorithm and compare the relative difference between all five of them.
+
+GitHub Link | Deployed
+
+Foodbar | HTML,CSS,JavaScript
+
+Sep 2022 – Oct 2022
+
+• Designed and implemented a web-based fully responsive online food ordering website - Foodbar
+• User-friendly interface that allows users to browse menus, view items, add items to cart, and place orders.
+
+GitHub Link | Deployed
+
+Weather-App | HTML,CSS,JavaScript,API
+
+Mar 2022 – April 2022
+
+• Designed and implemented a web-based fully responsive online food ordering website - Foodbar
+• User-friendly interface that allows users to browse menus, view items, add items to cart, and place orders.
+
+GitHub Link | Deployed
+
+Technical Skills
+
+Languages: Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS
+Frameworks: React, WordPress, Material-UI, Angular
+Developer Tools: Git/GitHub,Jira,Jupyter Notebook, Google Colaboratory, VS Code, Visual Studio, PyCharm,
+IntelliJ, Eclipse,Microsoft office
+Libraries: pandas, NumPy, Matplotlib
+
+

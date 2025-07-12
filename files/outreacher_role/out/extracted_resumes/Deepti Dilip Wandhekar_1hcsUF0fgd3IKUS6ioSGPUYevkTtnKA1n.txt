@@ -1,0 +1,165 @@
+DEEPTI DILIP WANDHEKAR
+B.E. - Computer Engineering
+Ph: +91-9067345277
+Email: deepti.d.wandhekarg28@gmail.com
+Pimpri, Maharashtra, India - 411018
+LinkedIn: https://www.linkedin.com/in/deepti-wandhekar-
+17a6221b1/ 
+
+BRIEF SUMMARY
+
+"To secure a challenging role in a dynamic and innovative organization. As a fresher, my primary objective is to leverage my strong foundation in
+programming languages and problem-solving skills to contribute effectively to real-world projects. I am committed to continuous learning and staying
+updated with emerging technologies to deliver high-quality, scalable, and user-centric software solutions.I aim to be an integral part of a talented
+team, making a meaningful impact in the world of software development."
+
+KEY EXPERTISE
+
+C++   JAVA   DBMS   Python   Machine Learning   Software Testing   Quality Assurance   Data Structures   Data Mining
+
+HTML   CSS   Javascript
+
+  PHP   Operating Systems   Data Analysis   Honours in Data Science
+
+EDUCATION
+
+Dr. D. Y. Patil Institute of Technology
+B.E. - Computer Engineering 
+
+|  CGPA: 9.75 / 10.00
+
+MAREER'S MIT POLYTECHNIC, PUNE, Khopoli
+Diploma  |  Diploma - Computer Engineering  |  MSBTE  |  Percentage: 94.57 / 100.00
+
+CARMEL CONVENT SCHOOL, Khopoli
+10th  |  MSBSHSE  |  Percentage: 93.40 / 100.00
+
+INTERNSHIPS
+
+Accenture
+Developer Program
+
+Sparks Foundation
+Data Scientist
+
+AWS
+SAP Solution Architect
+
+Ceptra Infotech Pvt Ltd
+Salesforce Administrator
+
+Exposys Data Labs
+Software Developer
+
+PROJECTS
+
+Smart Cart Shopping List
+
+2019  -  2023
+
+2020
+
+2016
+
+25 Jan, 2022  - 25 Mar, 2022 
+
+01 Feb, 2022  - 01 Mar, 2022 
+
+01 Feb, 2022  - 01 Mar, 2022 
+
+28 Jan, 2022  - 28 Feb, 2022 
+
+19 Dec, 2021  - 18 Jan, 2022 
+
+Key Skills:  Andriod Application   PHP   RFID   Bluetooth
+
+The project titled " SMART CHART SHOPPING LIST" was based on the technology called RFID. Focusing the problem faced by the people while
+shopping we introduced the software "Smart Chart-Shopping list". We introduced a trolley wherein their is a display screen, RFID READER.
+Whenever customer buy a product, he has to scan the product by the RFID READER accordingly the product will be displayed on the LCD display
+and on the application so created connected to the trolley. The Bluetooth module was used for transferring the data to main computer. Customer can
+add or delete the multiple product from the application as per choice. Also he/she can set the budget for the shopping if it exceeds then the customer
+is notified. Customer will also be navigated to the dedicated product using the application. Finally the total bill will be displayed to the customer,
+accordingly the customer can choose the way he want to do payment. Thus these rugged system "Smart Chart-shopping list" helps the people to do
+shopping effectively.
+
+Encryption of Image Using Triple DES
+
+Key Skills:  Python
+
+The project was made to encrypt and decrypt the image with the help of triple Data Encryption Algorithm, Triple DES: Triple DES is a encryption
+technique which uses three instance of DES on same plain text. It means, it first encrypts the data, decrypts the data, and again encrypt the data.
+With this project I encrypted the image using key and when to access the image it is needed to decrypt the image again using the same key.
+
+Malware Detection System
+The project "Malware Detection System" was developed on the basis of study that nowadays Virus,malware etc are leading to loss of data and
+financial loss. So the malware detection system was made by using mahine learning algorithm SVM to detect the malware in the software. Thus the
+software helped to detect virus botnet by taking data of the system and then from the trained malware detection system it will predict the presence of
+malware.
+
+PUBLICATIONS / RESEARCH / WHITE PAPERS
+
+Desktop based Malware Detection System in Machine learning using Effective SVM
+GOYA Journal
+This paper specifies the project entitled "Malware detection System" that will predict the malware using machine learning algorithm - SVM. In now-a-
+days, growth of internet users is increased day by day and online service app is also 
+arise in market and here is suitable environment to perform cybercrimes. Malware is of different type for example Trojan, ransomware, worms,
+spyware, adware etc.The project "Malware Detection System" was developed on the basis of study that nowadays Virus,malware etc are leading to
+loss of data and financial loss. So the malware detection system was made by using mahine learning algorithm SVM to detect the malware in the
+software. Thus the software helped to detect virus botnet by taking data of the system and then from the trained malware detection system it will
+predict the presence of malware.
+
+04 May, 2023
+
+Insolent smart trolley using Hybrid Interfacing
+JETIR
+The paper specifies the project titled "SMART CHART SHOPPING LIST" was developed using RDID , assisting people while shopping. The paper
+describes about the RFID MODULE, the technology that has made many innovations. Introducing the software "Smart Chart-Shopping list" we
+developed a trolley wherein their is a display screen, RFID READER and the application. Whenever customer buy a product, he has to scan the
+product by the RFID READER accordingly the product will be displayed on the LCD display and the product is added in the chart in application. The
+Bluetooth module is used for transferring the data to main computer. Customer will also be navigated to the dedicated product using the application.
+Finally the total bill will be displayed to the customer, accordingly the customer can choose the way he want to do payment. Thus the paper briefs
+about the working of the project and describes the technology "RFID".
+
+ASSESSMENTS / CERTIFICATIONS
+
+Architecturing with google compute Engine
+
+End-to-End Machine Learning with TensorFlow on GCP
+
+The complete 2022 web development bootcamp
+
+Microsoft Power BI Data Analyst
+
+SEMINARS / TRAININGS / WORKSHOPS
+
+Programmer Analyst Trainee Institute Name: Cognizant
+
+Key Skills:  AWS   Spring Framework   Microsoft Azure
+
+Crisp-Dm the leader in data mining and Big data
+Institute Name: Dr. D. Y. Patil Institute of Technology, Pimpri
+
+Key Skills:  Data Science
+
+11 Apr, 2022  -  30 Dec, 2022
+
+In this seminar CRISP DM was studied which is the key concept for green data mining for the 
+understanding, analyzing and evaluation of Big Data
+
+WEB LINKS
+
+Github - https://github.com/DeeptiWandhekar?tab=repositories
+
+PERSONAL DETAILS
+
+Gender: Female
+Marital Status: Single
+Current Address: 18, Sukhwani Park B, Udhyamnagar, Pimpri Colony,
+Pimpri-Chinchwad-411018, Pimpri, Maharashtra, India - 411018
+Email: deepti.d.wandhekarg28@gmail.com
+
+Date of Birth: 28 Dec, 2000
+Known Languages: English, Hindi, Marathi
+Phone Numbers: +91-9067345277, +91-9834240084
+
+

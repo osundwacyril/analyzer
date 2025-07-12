@@ -1,0 +1,191 @@
+ANISH 
+CHATTARAJ
+
+P R O F I L E
+
+Have the flexibility to
+
+adapt to any new
+
+environment and work
+
+tirelessly on interesting
+
+projects. My vigor and
+
+skill will be a great
+
+strength for the
+
+company and I will make
+
+sure to bring success to
+
+all projects. Seeking to
+
+leverage my expertise to
+
+join as an Engineer.
+
+C O N T A C T   M E
+
++91 9593249088
+
+anish.chattaraj@gmail.com
+
+https://www.linkedin.com
+/in/anish-chattaraj/
+
+Neamatpur block
+no.5 , Asansol,
+Paschim
+Barddhaman, West
+Bengal - 713360
+
+E D U C A T I O N
+
+LOVELY PROFESSIONAL UNIVERSITY
+2020-2023
+
+Bachelor of Engineering in Mechanical
+
+Engineering 
+
+KINGSTON EDUCATIONAL INSTITUTE
+2017-2020
+
+Diploma in Mechanical Engineering
+
+L A N G U A G E
+
+English.
+
+Hindi
+
+Bengali
+
+E X P E R T I S E
+
+PTC Creo
+
+AutoCAD
+
+Microsoft Office
+
+I N D U S T R I A L   V I S I T
+
+TATA POWER , JAMSHEDPUR
+
+Did an industrial training of 4 days based on
+
+modular training and visiting the equipment
+
+which are being used. Also received a certificate.
+
+MSME - TOOL ROOM(CTTC) ,KOLKATA
+
+Saw different kinds of boiler and their principles
+
+of how they are used. Gathered some data and
+
+also got a certificate
+
+S K I L L S
+
+P R O J E C T
+
+ Self Motivation
+ Team work
+ Creativity 
+ Time management
+ Good understanding 
+ Quick response
+Good interpersonal skil
+
+H O B B I E S
+
+Teaching 
+Travelling
+Playing Badminton 
+
+S U M M E R   T R A I N I N G
+
+June 2021 - August 2021
+
+ Advanced Modelling in
+CREO in 3D and 2D figures
+with certification.
+
+DEVELOPMENT OF MECHANICAL
+
+CHARACTERIZATION OF BAGASSE-
+
+BASED NATURAL FIBER REINFORCED
+
+POLYMER COMPOSITE.
+
+The sugarcane bagasse fiber natural material
+
+which is biodegradable and eco-friendly is
+
+the better option for the replacement of
+
+plastic material.The better way to get similar
+
+to plasic properties is to convert to
+
+composite material of reinforcement and
+
+matrix is sugarcane bagase fiber material and
+
+PLA(poly lactic acid).Bagasse/PLA has the
+
+better properties with compared to only
+
+bagasse fiber. 
+
+WATER SPRINKLER
+
+Designed and developed a device which can
+
+supply water easily and with less wastage of
+
+it. Farmer support. Water conserving up to
+
+30% - 50%.Cost effective Suitable to all kinds
+
+of fields. Uniformity. To build your own
+
+sprinkler system, you need PVC pipe,
+
+sprinkler heads, risers, and a control valve.
+
+You'll need to dig a trench for the pipe and
+
+properly connect the system to your water
+
+service line
+
+END TO END ENCRYPTED BOX
+
+Box cryptor protects your files at Box with
+
+end-to-end encryption. Access, edit, and
+
+share your data on all platforms in a secure
+
+way. Firstly, Generated public and private key
+
+in the Client and Server sides. Then
+
+Exchanged the public keys. Encrypted the
+
+message using the public key of the Server
+
+and send to Server or viceversa. Then the
+
+Server can use its private key to decrypt the
+
+message. All over this is the project.
+
+

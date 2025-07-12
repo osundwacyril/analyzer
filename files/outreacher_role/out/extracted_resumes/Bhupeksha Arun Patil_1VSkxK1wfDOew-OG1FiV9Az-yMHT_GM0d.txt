@@ -1,0 +1,77 @@
+BHUPEKSHA PATIL
+
+ﬂ BhupekshaPatil | (cid:135) bhupiarunpatil |  bhupipatil25@gmail.com | (cid:211)+91-9421428533
+
+EXPERIENCE
+
+Web Developer Intern — HKI Infotech, Mumbai, India
+• Designed and implemented UI componets,built the frontend using HTML and CSS.
+• Handled MSSQL with RDBMS knowledge.
+
+Sept 2022 - Oct 2022
+
+Link to Certificate
+
+Data Science Intern — Sparks Foundaion
+• Completed Task as a Data Science and Business Analytics Intern.
+• Utilized supervised and unsupervised machine learning with Python and Jupyter Notebook.
+
+May 2023 - Jun 2023
+
+Link to Certificate
+
+PROJECTS
+
+Job Portal For Disable People —HTML, CSS, ReactJS
+• A web app designed as a job portal for people with disabilities, equipped with voice assistance.
+
+Link to Project
+
+Template of Cab Booking App Using Figma — UI/UX Design
+• A simple template for Cab Booking App using various Figma tools and plugins.
+
+Link to Project
+
+AWS project using Lift and Shift — Bashsript, MsSQL
+• Managing and hosted application workload on AWS Cloud using Lift and Shift strategy.
+• Multi Tier Web Application Stack [VPROFILE] using Vagrant.
+
+EDUCATION
+
+Vidyavardhini’s College of Engineering and Technology
+• Bachelor of Engineering, Computer Engineering CGPA - 8.2
+
+Dec 2021 - May 2024
+
+Maharashtra State Board of Technical Education
+• Diploma in Engineering, Computer Engineering Percentage - 93.71
+
+July 2018 - Aug 2021
+
+SKILLS
+
+Languages:
+
+Python Developer, Backend Developer, SQL, Cloud Computing (AWS),
+UI/UX Design
+Teamwork, Communication,Time Management
+
+Skills:
+Oganizational Skills: Publicity Head of Computer Society of India (CSI) and Event Head of National
+
+Service Scheme (NSS)
+
+CERTIFICATION AND PARTICIPATION
+
+Certificates and Courses
+• Won VCET’s National Level Project Showcase and Oscillation
+• Participated in Mega Hackathon and VCET’s Technical Paper Presentation
+• Completed Python Course on Great Learning
+• Completed DevOps Course on Udemy
+
+Link to Certificate
+Link to Certificate
+Link to Certificate
+Link to Certificate
+
+

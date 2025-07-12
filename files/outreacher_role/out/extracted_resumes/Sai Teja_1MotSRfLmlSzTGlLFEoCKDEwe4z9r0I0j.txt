@@ -1,0 +1,379 @@
+           Mobile: +91-9693274692 
+
+        |Email ID:saiteja0104@gmail.com                                                                                                      
+
+Sai Teja 
+
+OBJECTIVE 
+Hi there! This is a self-inspired and a passionate personality named ‘Sai Teja Maringanti’. I am an expertized ‘certified 
+Automation Test engineer’ who always love to be creative and a hardworking person in the job I do. 
+
+SUMMARY  
+
+  During my experience in Automation Testing/Manual Testing, Business development Executive, International 
+Voice Process  Executive and HR  IT Recruiter, I had developed various major skills in the field  of ‘Software 
+testing’ like: 
+
+o  Creating documentation 
+o  Preparing software tests 
+o  Understanding the testing process 
+o  Composing defect reports 
+o  Analytical and logical reasoning 
+o  Automating software tests 
+o  Understanding programming languages 
+o  Fitting into the systems development life cycle (SDLC) 
+o  Working within project management standards. 
+
+ 
+
+Learning current technology trends and many other skills required to practice a good testing! 
+
+ 
+
+ 
+
+o  The certificate of the course that I have perceived in the field of ‘Automation Test Engineer’ is below: 
+o  Link: https://drive.google.com/file/d/19vQzw1CH6DTEQbVlPFatKzL6bgBxWqz2/view?usp=sharing. 
+I have done projects in automation testing in e-commerce, Tourism and Insurance Domain and puzzle games, 
+in  web, Android and IOS Application testing with foreign clients. 
+I tested all functionalities like sign up, sign in, selection of items, adding items into the cart, validating items 
+present in the cart by using assertions, checking visibility of user data by applying implicit and explicit waits 
+and fluent waits, and also doing integration testing. 
+  Here is my sample live project link that I had done below: 
+ 
+  Experience  in  Data  driven  Testing,  Cross  browser  testing,  and  Parallel  Test  execution  using  Selenium 
+
+Link: https://drive.google.com/file/d/1TFdFxcWpeUl91IKLwGLUnIIEilCOQhmK/view 
+
+WebDriver, TestNG, and selenium Grid. 
+
+  Knowledge in implementation of Automation framework using Selenium by integration of Maven, Cucumber, 
+
+and Gherkin in a page factory model 
+
+  Strong Experience in Ecommerce Domains, social media domains, and Tourism websites domain 
+ 
+  Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports, and Test 
+
+Involvement in Test Estimations and Test strategy implementation. 
+
+Summary Report    
+
+  Self-motivated,  energetic,  and  highly  ethical  in  all  work-related  assignments  thus  able  to  immediately 
+
+contribute to corporate goals and objects 
+
+  Good written, communication, and interpersonal skills, proven team player with an analytical mind bent to 
+
+problem-solving and delivering solutions. 
+
+  Estimate, prioritize, plan and coordinate testing activities 
+ 
+Identify, record, document thoroughly, and track bugs 
+  Prepare test plans and generate test cases based on the test requirements and specifications. 
+  Design and develop automation scripts when needed. 
+  Conduct testing activities such as System, Integration, and Regression test. 
+  Review test results, and prepare test reports. 
+  Perform troubleshooting and identify root causes for the issues and report the defects. 
+  Manage, track and ensure proper closure of defects during testing. 
+  Ensure accuracy and quality while meeting goals and deadlines. 
+
+ 
+ 
+ 
+ 
+ 
+         Duration of the projects: 
+
+Duration  
+
+Project Name  
+
+Framework  
+
+Technologies used 
+
+Responsibility 
+
+Feb 
+2017 –  
+
+Till Date 
+
+Project-1 
+
+Insurance 
+Domain  
+
+TestNG, 
+Cucumber, 
+BDD, POM, 
+Maven, 
+Jenkins 
+
+Selenium with Java  
+
+• Responsible for QA deliverables of 
+Insurance Policy Services. There are six 
+critical modules related to data archival.  
+
+• Design and develop automation scripts 
+for testcase execution in Selenium Web 
+driver with Cucumber BDD framework. 
+
+• Representing the QA team on 
+Daily/Weekly scrum calls.  
+
+• Automation of identified scenarios for 
+regression pack.  
+
+• Involved in initial phase of Requirement 
+Analysis, Test Plan Design, Test 
+Environment Setup, Testcase Preparation 
+and Test Execution.  
+
+• Code maintenance and Reviews. 
+
+Aug 
+2017–  
+
+Till date 
+
+Project-2, 
+Ecommerce 
+domain  
+
+TestNG, 
+Cucumber, 
+BDD, 
+POM, 
+Maven, 
+Jenkins 
+
+Selenium with Java 
+
+• Working as a manual and automation QA 
+Engineer in e-commerce domain.  
+
+• Creating and maintaining automation test 
+
+cases in Java with Selenium.  
+
+•  Testing as per Client requirement 
+specifications. 
+
+• Creating automation test scripts and 
+triggering builds in Jenkins. 
+
+• Execution of Test scripts and Defects 
+rising in JIRA.  
+
+• Analysing the test cases after every sprint 
+and identify the issues for regression.   
+
+• Resolving major new functionalities. 
+
+Aug 
+2019–  
+
+Project-3, 
+Tourism 
+and Travels 
+
+TestNG, 
+Cucumber, 
+BDD, 
+
+Selenium with Java 
+
+   • Responsible for QA deliverables of 
+Insurance Policy Services. There are six 
+
+      
+          
+ 
+ 
+ 
+ 
+ 
+ 
+Till date 
+
+domain  
+
+POM, 
+Maven, 
+Jenkins 
+
+critical modules related to data archival.  
+
+   • Design and develop automation scripts 
+for testcase execution in Selenium Web 
+driver with Cucumber BDD framework. 
+
+   • Representing the QA team on 
+Daily/Weekly scrum calls.  
+
+   • Automation of identified scenarios for 
+regression pack.  
+
+   • Involved in initial phase of Requirement 
+Analysis, Test Plan Design, Test 
+Environment Setup, Testcase Preparation 
+and Test Execution.  
+
+   • Code maintenance and Reviews. 
+
+   • Working as a manual and automation 
+QA Engineer in e-commerce domain.  
+
+   • Creating and maintaining automation 
+test cases in Java with Selenium.  
+
+   •  Testing as per Client requirement 
+specifications. 
+
+   • Creating automation test scripts and 
+triggering builds in Jenkins. 
+
+   • Execution of Test scripts and Defects 
+rising in JIRA.  
+
+    • Analysing the test cases after every 
+sprint and identify the issues for regression.   
+
+    • Resolving major new functionalities. 
+
+  Analyse requirements and prepare a 
+query list. If requirements are 
+incomplete, they need to ask 
+meaningful questions that will yield 
+more information and help perform 
+testing effectively; 
+
+  write and execute test cases to find 
+system bugs like UI and usability 
+issues, etc.; 
+
+  conduct exploratory testing; 
+
+  check consistency across devices, 
+browsers, and operating systems; 
+
+  provide inputs on high-level test 
+
+scenarios, challenges, risks, resources, 
+
+test estimates, etc., during test 
+planning meetings; and 
+
+ 
+
+in some cases, STEs can also cover 
+test automation tasks. 
+
+Technical Skills  
+
+• Language/Scripting: Java, Gherkin  
+
+• IDE:  Eclipse  
+
+• Tools: Selenium Web driver, Maven, Cucumber BDD, POM, Jenkins, Test NG, Git, Splunk 
+
+• Test/Project Management Tools: JIRA 
+
+  Experience (Automation Engineer): 6 months 
+
+       Roles & Responsibilities: 
+
+  Handle responsibilities of testing new software applications to ensure that the application meets the 
+
+functional business requirements 
+
+  Perform the tasks of performing different types of testing- system level and functional testing 
+  Assigned responsibilities of developing testing scenarios and test cases to meet business requirements 
+  Responsible for writing test case results and test strategies 
+  Perform the tasks of developing quality assurance testing activities and solving product and testing issues 
+  Providing recommendations in areas of process improvements 
+  Handled responsibilities of generating Automated Test Scripts and finding software bugs 
+  Responsible for performing functional testing of procurement software 
+  Assigned responsibilities of testing web applications as required 
+  Creation of Test scenarios and Test scripts under Cucumber BDD, Gherkin framework structure in Page Factory 
+
+model 
+
+  Development of complete project Framework structure with Test NG under Cucumber BDD structure 
+  Preparation of Test Cases and Test scenarios along with Test case document  
+  participated and was aware of all sorts of agile ceremonies (user story grooming, sprint planning, sprint 
+
+retrospective). 
+
+  Able to break the more significant epics into smaller user stories. 
+  Able to groom user stories and make accurate estimates through story points. 
+  Groomed user stories effectively along with product owner and team players. 
+  Agile methodology and particular sprint duration of the project. 
+
+SKILL SET  
+
+●  Html  
+
+●  CSS 
+
+●  Functional Testing 
+
+         
+ 
+    
+ 
+ 
+    
+ 
+● 
+
+Integration testing 
+
+●  Documentation of Test cases  
+
+●  UI Testing 
+
+●  Develop Complete framework 
+
+●  Manual Testing 
+
+● 
+
+Jenkins 
+
+structure 
+
+●  Selenium with java 
+
+●  API Testing 
+
+●  Maven 
+
+●  Test NG 
+
+●  Agile Methodology 
+
+●  Cucumber BDD, 
+
+Gherkin 
+
+EDUCATIONAL QUALIFICATION  
+
+●  Bachelor of Technology in Engineering, AVN Institute of Engineering, India – 2017 
+
+EMPLOYMENT HISTORY 
+
+  Software Test Engineer  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

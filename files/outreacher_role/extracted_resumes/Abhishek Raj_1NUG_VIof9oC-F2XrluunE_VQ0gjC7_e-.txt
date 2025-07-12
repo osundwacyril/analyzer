@@ -1,0 +1,152 @@
+(cid:211) +91 7061317744
+
+ Chandigarh, India
+
+ﬂ LinkedIn
+
+(cid:135) GitHub
+
+ABHISHEK RAJ
+
+Chandigarh University
+ abhishekrajdbas0@gmail.com
+
+EXPERIENCE
+
+Tutor
+
+Course Hero
+(cid:17) Oct 2023 – Present
+
+As a CSE Student Tutor, I provide global assistance to
+Computer Science and Engineering students. Compen-
+sated per insightful solution, I’m dedicated to fostering
+a dynamic learning community
+
+SDE INTERN
+
+Desi QnA
+(cid:17) Jan 2023 – Mar 2023
+
+1. Designed & engineered responsive web pages, ad-
+
+dressing user veriﬁcation and Recaptcha integration.
+• Improved user veriﬁcation by 20% with Recaptcha.
+
+• Achieved a 15% page load time reduction.
+
+2. Enhanced security by addressing authentication chal-
+
+lenges and engineering against fake accounts.
+• Reduced fake accounts by 30% with advanced au-
+
+thentication.
+
+• Decreased security incidents by 25% through vulner-
+
+ability mitigation.
+
+ACHIEVEMENTS
+
+• Demonstrated problem-solving skills through solving
+
+250+ coding challenges on various platforms.
+
+• Consistently scored Grade A (90% ) in all Amcat 2023
+
+modules.
+
+• Secured the 1st position in an inter-school Cricket Cham-
+
+pionship.
+
+TECHNICAL SKILLS
+
+Programming Languages
+• Java, Python, JavaScript
+
+Frameworks & Libraries
+• HTML, CSS, MongoDB, Firebase, SQL
+
+COURSEWORK SUBJECTS
+
+• Operating System: Studied core principles of OS design.
+
+• DBMS (Database Management System): Managed and
+
+analyzed large datasets.
+
+• Object-Oriented Programming: Developed software
+
+applications using OOP concepts.
+
+• Blockchain Technology: Explored decentralized ledger
+
+technology.
+
+• Prompt Engineering: Enhanced prompt response time.
+
+EDUCATION
+
+B.E. (CSE) - 7.4 CGPA
+
+Chandigarh University
+(cid:17) 2020 – Currently
+
+Higher Secondary(ISC) - 64%
+
+Don Bosco Academy
+(cid:17) 2020
+
+Secondary(ICSE) - 77%
+
+Don Bosco Academy
+(cid:17) 2018
+
+PROJECTS
+
+Service Co
+(cid:135) GitHub
+• Java- 80% |Kotlin-5% | FireBase-%
+
+• Developed features for job search, list-
+ings, and employer job postings using
+Firebase for data and Kotlin/Java for de-
+velopment.
+
+• Facilitated connections between job
+
+seekers and employers, resulting in a re-
+duction in unemployment.
+
+Food Ordering website
+(cid:135) GitHub
+• Javascript-20% | HTML-30% | CSS-30% |
+
+Php-20%
+
+• Designed and managed key restaurant
+
+website pages:
+
+1. Homepage: Introduced the restaurant.
+
+2. Menu: Displayed food options.
+
+3. Cart: Showed selected items and costs.
+
+4. Checkout: Collected order details.
+
+Smart Dustbin
+(cid:135) GitHub
+• Constructed an IoT solution that lever-
+ages Arduino, sensors, and cameras.
+
+• 1 research paper got accepted for this
+project in a peer-reviewed journal.
+
+• Implemented real-time monitoring, reduc-
+
+ing waste disposal costs by 5%.
+
+

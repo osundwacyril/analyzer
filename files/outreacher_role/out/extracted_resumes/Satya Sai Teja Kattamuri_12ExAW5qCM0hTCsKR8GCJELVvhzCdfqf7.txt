@@ -1,0 +1,96 @@
+SATYA SAI TEJA K
+Test Engineer
+
+PROFILE
+
+Work Experience 
+
+3 Year’s
+
+ Contact Details
+
+F-1, Gayatri Towers,
+Vizianagaram
+
+Phone
+9505269226
+
+Email
+
+satyasaiteja51@gmail.com
+
+Technical Skills
+
+ Data Eco System:                         
+
+Hive         
+Hadoop
+ Databases :  
+SQL Server
+MySQL
+
+Other Activities :
+
+Content Writing
+MS Excel
+Languages :
+SQL
+Java  Basics                      
+ Operating Systems :             
+
+Linux
+Windows
+
+JOB EXPERIENCES
+
+2021 -
+Present
+
+Techcom Solutions
+
+Project Name - VISA (Infosys Contract)
+Role - Test Engineer
+Responsibilities : 
+
+Have to load data into Hive from Metadata and data
+frames for further processing.
+Created multiple tables, running queries in those data,
+implemented Partitions, Dynamic Partitions, and
+Bucketing for efficient data access.
+As per the business requirement storing the processed
+data in HDFS with appropriate file formats.
+Performed Import and Export of data into HDFS and
+Hive using Sqoop and managed data within the
+environment.
+Involved in creating tables, data loading and writing Sql
+queries and hive queries.
+Was responsible for Optimizing Hive queries that
+helped in saving Cost to the project.
+Review of assigned task and Bug analysis.
+
+2020 - 2021
+
+iMerit Technology Services
+Project Name - Argo
+Role - ITES Executive
+Responsibilities : 
+
+It’s about AI where two companies started automated
+vehicle in which a normal car got fixed with 360
+camera, where it captures all surrounding objects so
+that  we will get raw data, and we have to identify each
+and every object so that it can identify and take
+another path to continue it's destination. We have
+nearly 13 different pipeline (traffic lights, and some
+more )
+EDUCATION
+
+2019 - 2015
+2015 - 2013
+2013 - 2012
+
+Lendi Institute of Engineering and Technology - 60.31%
+Sri Chaitanya Jr College - 80%
+Sri Vidya High School - 83%
+
+

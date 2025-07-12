@@ -1,0 +1,131 @@
+Shakeb Patel
+Data-Analyst
+
+TECHNICAL SKILLS
+
+Excel
+
+Tableau
+
+Power BI
+
+Python
+
+SQL
+
+Patelshakeb6@gmail.com
+
+8180065992
+
+Data Cleaning
+
+DashBoards
+
+Charts
+
+Data Visualization
+
+Data Analysis
+
+PROJECTS
+
+Pune, Maharastra
+
+23/12/2001
+
+1. Annual Sales Reports For Company Dasboards
+
+Linkedin
+
+PROFILE
+
+Results-driven  and  detail-oriented
+Data Analyst leveraging data analysis,
+data  cleaning,  and  data  visualization
+to transform raw data into actionable
+insights.  Adept  at  interpreting  and
+analyzing  complex  datasets  to  drive
+enhance
+business 
+decision-making  processes.  Proven
+ability  to  communicate  findings  to
+technical  and  non-technical
+both 
+informed
+facilitating 
+stakeholders, 
+business decisions.
+
+strategy 
+
+and 
+
+•Description Of Project
+•Statewise Analysis Of Sales (Top 5 Among 30 States)
+•Channel Wise Sales Analysis (Low & High Performing Channel)
+•Age-wise sales (Adult, Teenager, Senior)
+•Gender wise sale (Men & Women)
+•Orders vs Sales Analysis
+•Sales As Per Status (Refunded,Cancled , delivered,Returned
+
+2. Sales Store Dashbord
+•Description Of Project
+•Data Cleaning & Processing Manually
+•Profits Visualization By Months
+•Profits Visualization Of 30+ States
+•Profit By Sub Categories By Stacked Bar Chart
+•Sales Of Different Categories Visualization By Donut Chart
+•Visualization Of Sales By Payment Mode
+•Customer Analysis by Amount, Age, Spending
+
+3. Data Analysis Of Company Dashbord For HR
+
+EDUCATION
+
+BE IN ELECTRICAL ENGG
+Modern College Of Engg. Pune
+2020 – 2023 | Pune, India
+
+SOFT SKILLS
+
+•Time management And 
+Prioritization
+•Collaboration And Team Player
+•Result-Oriented Mindset
+•Problem Solving
+
+CERTIFICATES
+
+Dashbords With Tableau
+
+Dashbords With Excel
+
+Basic Of Python
+
+10+ College Events Certificates
+
+•Description Of Project
+•Analysis Of Overall Employees
+•Analysis Of Salary
+•Analysis Of Attrition
+•Atrrition By Salary 
+•By Age Group     
+•By Gender            
+•By Job Role
+•By Eduction Fields
+•By Years At Company
+
+4. Sales Store Analysis Dashbords
+
+•Description Of Project
+•Analysis Of Below Points
+
+•Sales By Months
+•Sales By Category
+•Sales By Payment Mode
+•Category-wise sales
+•Sales By Segments
+•Profit By Months & Years
+•Statewise Sales & Profits
+
+

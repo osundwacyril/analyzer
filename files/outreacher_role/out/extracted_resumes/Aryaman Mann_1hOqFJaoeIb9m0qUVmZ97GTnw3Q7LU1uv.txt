@@ -1,0 +1,165 @@
+ARYAMAN MANN
+
++91 8383928311
+
+aryaman244@gmail.com
+
+linkedin.com/in/aryaman-mann 
+
+Narela, Delhi 
+
+github.com/AryamanMann 
+
+SUMMARY
+
+Possesses a solid foundation in computer
+science fundamentals and proficiency in
+essential programming languages like Java
+and Python. Demonstrates a strong
+commitment to creating software solutions
+that drive positive outcomes for
+organizations and clients. Excels in DevOps
+practices to optimize processes, enhance
+collaboration, and deliver efficient, high-
+quality results.
+
+ PROJECTS 
+
+GitHub Collaborator List Script     
+
+Oct'23
+
+Developed a Bash script for interacting with the GitHub API to fetch and list users with
+read  access  to  a  GitHub  repository.  The  script  automates  the  process  of  identifying
+collaborators with specific permissions.
+Utilized Bash scripting, curl for making API requests, and jq for JSON parsing to create
+a robust and efficient solution.
+Streamlined  the  process  of  identifying  users  with  pull  access  while  excluding
+administrators.
+
+ TECHNICAL SKILLS 
+
+AWS Deployment and Management     
+
+Programming languages: Java, Phyton 
+
+Version Control: Git & Github 
+
+Cloud  Platform:  Amazon  Web  Services
+
+(AWS) 
+
+Scripting: Bash 
+
+Virtualization: Docker 
+
+CI/CD: Jenkins 
+
+Configuration Management: Ansible 
+
+Orchestration Management: Terraform 
+
+ POWER SKILLS 
+
+Communication skills
+Creativity 
+Adaptability 
+
+ CERTIFICATIONS 
+
+SQL (Intermediate)                           
+
+Jul'23
+
+Issued by Hackerrank
+
+Database Management System   
+
+May'23
+
+Issued by Infosys
+
+Deployed an existing Node.js web application on AWS by creating an EC2 instance.
+Set up an IAM user and established secure login practices to manage AWS resources.
+Followed  best  practices  for  creating  and  configuring  EC2  instances  to  ensure
+scalability and reliability.
+Exposed  the  Node.js  application  to  the  public  internet,  making  it  accessible  to  a
+broader audience.
+
+Webnovel Earning Calculator Website
+
+Designed a website using JavaScript, Html and CSS to calculate earnings of Webnovel 
+
+        writers based on a few constraints.
+
+Developed a simple and intuitive site with proper information of formula used.
+Successfully hosted on SSL server with 24/7 service.
+
+Pseudo Text Generator 
+
+Built a pseudo text generator using Python that can predict the next word based on the
+previous word.
+Applied data preprocessing using NLTK (Natural Language Toolkit), including language
+processing and string operations.
+
+ACHIEVEMENTS 
+
+Created  a  user-friendly  website  to  calculate  earnings  for  Webnovel
+writers,  integrating  a  transparent  explanation  of  the  formula  that
+utilizes the Webnovel site's digital currency.
+
+EDUCATION 
+
+Sep'23
+
+Jan'23
+
+Sep'21
+
+R Programming                                 
+
+Apr'23
+
+Lovely Professional University
+
+Oct'20 - Present 
+
+Issued by Coursera
+
+DSA                                                       
+
+Jul'22
+
+Issued by GeeksforGeeks
+
+B.Tech in Computer Science & Engineering
+Phagwara, Punjab 
+CGPA: 7.42
+
+Higher Secondary Certificate
+
+Jun'19 - Mar'20
+
+ EXTRACURRICULAR ACTIVITIES
+
+Volunteer work at a non-profit organization
+
+(Janakmata)
+
+Content Writer
+
+Nov'22
+
+Jan'22 - Present
+
+Youth Empowerment and Skills workshop
+
+(yes plus)
+
+Dec’21
+
+XIIth grade           
+Rohini, Delhi 
+GRADE: 74% 
+
+

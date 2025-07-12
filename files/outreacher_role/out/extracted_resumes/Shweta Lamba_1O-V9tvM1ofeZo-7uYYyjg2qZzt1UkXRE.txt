@@ -1,0 +1,84 @@
+Shweta Lamba 
+
+9528877573 | Lambashweta280@gmail.com | linkedin.com/in/shweta-lamba-029a49145  
+
+SUMMARY 
+I have hands-on experience in data-driven project management and email marketing, using HubSpot for targeted campaigns, 
+conducting market research, and enriching CRM data. I’ve also built Excel dashboards, Power BI reports, predictive models in Python, 
+and Tableau studies. With a strategic mindset and technical expertise, I optimize workflows, enhance engagement, and drive growth 
+through impactful, data-driven projects. 
+
+WORK EXPERIENCE 
+
+Project Management Intern 
+Naarg Data Media Services 
+
+July 2024 – Present 
+
+•  Crafted responsive email templates with personalization features on Clay.com to boost prospect engagement. 
+•  Executed targeted email campaigns and streamlined workflows on HubSpot and Apollo.io, ensuring timely, and 
+
+achieving an increase in audience engagement rates. 
+
+•  Leveraged CRM tools to enrich data, enhancing targeting accuracy and campaign impact. 
+•  Conducted SWOT analyses and aggregated prospective leads data, providing insights to drive strategic decisions. 
+•  Optimized project databases by organizing and standardizing prospect data for improved team accessibility. 
+•  Analyzed campaign performance metrics and implemented A/B testing to maximize engagement and conversions. 
+•  Compiled research findings into structured reports, enabling data-driven insights for cross-functional teams. 
+•  Collaborated with marketing teams to align strategies, applying best practices to refine email campaigns. 
+
+Virtual Internship | Tata 
+
+                  Aug 2023 
+
+Learned to frame business scenarios, select effective visuals, and communicate insights and analysis. 
+
+CERTIFICATION 
+
+Masters Program - Data Analyst: Simplilearn Certified in collaboration with IBM - 2023 
+ •Introduction to Data Analytics •Business Analytics with Excel •Tableau Training •Programming Basics & Data Analytics with Python 
+•Data Science with R •Power BI •Data Analyst Capstone 
+
+PROJECTS 
+   Sales dashboard in Excel: Developed a comprehensive sales dashboard in Excel, conducting thorough analysis on E-Commerce 
+sales data; identified three underperforming product categories leading to actionable insights for targeted marketing strategies. 
+Data Manipulation and Reporting with Power BI: Spearheaded analysis of global foodservice trends using Power BI tools, 
+uncovering essential findings needed to address three major operational challenges impacting customer satisfaction ratings during 
+peak hours at restaurants worldwide. 
+App Rating Prediction: Implemented a Python model for Google Play Store app rating predictions, achieving an R2 score of 0.058 
+with a linear regression model; Conducted comprehensive data cleaning, including handling missing values and outliers, and 
+applied log transformation to skewed variables; Analyzed relationships using univariate and bivariate analysis, and applied dummy 
+encoding for categorical. 
+Comparative Study of Countries: Created an interactive Tableau dashboard that integrated insurance and Global Financial 
+Development data, enabling users to gain insights quickly through customized filters and visualizations for over 150 countries. 
+
+SKILLS 
+
+Data Analytics, Power BI, Tableau, Python, Business Intelligence, Microsoft Excel, Data Visualization, Business Analysis, Power Query, Data 
+Reporting, HubSpot, Apollo, Problem-Solving, Communication, Email Marketing. 
+
+EDUCATION 
+
+St. John's College, Agra – M.A. Economics 
+Percentage: 84% 
+
+Dayalbagh Educational Institute, Agra -B.Ed. 
+GPA: 8.8 
+
+Dayalbagh Educational Institute, Agra - Economics Honor 
+GPA: 8.6 
+
+                       Aug 2021 
+
+                                May 2019 
+
+                             May 2017 
+
+ 
+ 
+ 
+ 
+  
+  
+ 
+

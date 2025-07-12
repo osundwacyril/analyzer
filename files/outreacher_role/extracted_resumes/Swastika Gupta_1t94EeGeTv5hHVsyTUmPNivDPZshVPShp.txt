@@ -1,0 +1,110 @@
+Swastika Gupta
+Contact No: +917706811758
+Email: swastikagupta705@gmail.com
+
+  Professional Summary
+
+LinkedIn: swastika-gupta-090351192
+Github: swastika-24 
+
+A Front-end Developer who is passionate about designing and developing responsive web applications. Seeking a career
+opportunity to extend my front-end development skills and knowledge, while contributing to the development of the
+organization
+
+  Education
+
+Year 
+
+Degree/Examination 
+
+Institution/Board 
+
+CGPA/Percentage 
+
+2020 Bachelor of Engineering
+
+University Institute of Engineering and Technology Kanpur
+
+2015
+
+Intermediate (Class XII)
+
+Dr. Virendra Swarup Education Centre, Avadhpuri Kanpur
+
+81.0% 
+
+82.0% 
+
+  Experience
+
+Synnova Gears & Transmission Pvt.ltd | Metallurgist in Metal Testing Laboratory 
+
+May 2021 - May 2022
+
+• 
+
+Worked as  a head metallurgist in HT department in metal testing laboratory.
+
+Newton School | Newton School Coding Bootcamp 
+
+May 2022 - Present
+
+  Internship and Certiﬁcations
+
+• 
+• 
+• 
+• 
+
+Full Stack Web Development and Problem Solving
+Technical Stack Learnt: HTML, CSS, JavaScript, React
+Participated in various coding competitions held by Newton School
+Worked on various projects
+
+  Projects
+
+MEAL PLANNER | Newton school (link) 
+
+- Built a dynamic web page for personalized meal plans.
+- Implemented a JS component for quick rendering.
+- Utilized intermediate CSS and Bootstrap for styling.
+- Incorporated API calls to retrieve recipe data.
+Tech stacks: CSS, JS, Bootstrap.
+
+July 2023 - July 2023
+
+FIND A COUNTRY | Newton school (link) 
+
+March 2023 - March 2023
+
+- Developed a responsive project using an API to display country details.
+- Incorporated search and sort options for easy access to speciﬁc countries.
+- Utilized HTML, CSS, and JavaScript as the technical stack.
+
+IMDB CLONE | Newton School (link) 
+
+January 2023 - January 2023
+
+- Developed an IMDB rating website clone using React, JS, HTML/CSS.
+- Utilized React components and hooks for eﬃcient movie card rendering.
+- Integrated the IMDb API to fetch and display data dynamically. 
+
+  Skills
+
+Computer languages
+
+Java, CSS, HTML, Javascript
+
+Software Packages React, Bootstrap
+
+Additional Courses Taken Data Structure
+
+Soft Skills Creativity, Presentation Skills, Interpersonal communication, Written communication, Team
+Building, Research, Communication Skills, Leadership, Decision-making, Teamwork, Critical
+Thinking
+
+  Co-Curricular Activities
+
+Actively participated in various coding competitions hosted by newton school.
+
+

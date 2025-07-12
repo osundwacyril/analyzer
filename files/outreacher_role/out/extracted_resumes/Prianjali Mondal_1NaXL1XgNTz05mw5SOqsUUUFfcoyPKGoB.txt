@@ -1,0 +1,115 @@
+Prianjali Mondal 
+Aspiring Developer 
+
+Enthusiastic about creating engaging and seamless online experiences through a fusion of design creativity and coding expertise. 
+
+mondalprianjali1@gmail.com 
+
+EDUCATION 
+
+7407641449 
+
+Kolkata, India 
+
+linkedin.com/in/prianjali-
+mondal14 
+
+github.com/PriAnjali14 
+
+TECHNICAL
+SKILLS 
+
+Front-End Development:
+HTML, CSS 
+
+Back-End Development:
+JavaScript, NodeJS 
+
+FIGMA Basics 
+
+Programming
+Languages: Java,
+JavaScript 
+
+ARTIFICIAL
+INTELLIGENCE 
+
+DATABASES:
+SQL,ORACLE 
+
+MICROSOFT EXCEL 
+
+LANGUAGES 
+
+ENGLISH 
+Full Professional Proﬁciency 
+
+HINDI 
+Full Professional Proﬁciency 
+
+BENGALI 
+Native or Bilingual Proﬁciency 
+
+Bachelor of Technology in Information Technology 
+Institute of Engineering & Management, Kolkata 
+10/2020 - Present,  
+
+(CGPA till 6th sem) : 9.11 
+
+PERSONAL PROJECTS 
+
+Responsive Spotify Clone (10/2023 - 12/2023) 
+
+Developed a responsive Spotify clone with HTML, JavaScript, and CSS, addressing mobile and desktop usability
+gaps absent in the original Spotify interface. Notable features include play, pause, and playlist creation. This
+project showcases expertise in responsive design, ensuring a seamless user experience across diverse devices-
+ﬁlling a void in the non-responsive oﬃcial Spotify application. 
+
+EMPLOYEE MANAGEMENT SYSTEM (05/2022 - 07/2022) 
+
+Employee Management System is a project which has been done using DBMS and also by using HTML,CSS
+and Django along with SQL as database. Employee Management System is a program to automate or
+computerize all employee management operations. 
+
+Memory Game (03/2022 - 04/2022) 
+
+Click on same colour cards to match them. HTML, CSS, Javascript have been used here. 
+
+WORK EXPERIENCE 
+
+Data Science Intern 
+Codsoft 
+09/2023 - 10/2023,  
+
+Tasks 
+
+I had the privilege of interning at CodSoft as a Data Science Intern. During this enriching
+experience, I had the opportunity to work on three exciting and educational projects: Titanic
+Survival Prediction, Movie Rating Prediction with Python, and Iris Flower Classiﬁcation. 
+
+J.P. Morgan Software Engineering Virtual Experience on Forage -
+January 2024 
+J.P. Morgan 
+Achievements/Tasks 
+
+Set up a local dev environment by downloading the necessary ﬁles, tools and
+dependencies.Fixed broken ﬁles in the repository to make web application output correctly. 
+
+STUDY ABROAD PROGRAM(SAP) 
+National University of Singapore 
+08/2022,  
+
+Course on 
+
+"Artiﬁcial Intelligence, Internet of Things, Machine Learning & Data Analytics--
+FUNDAMENTALS" where i achieved Solid foundation in Artiﬁcial Intelligence principles and
+methodologies.Comprehensive understanding of Internet of Things (IoT) and its integration
+with AI. 
+
+ACHIEVEMENTS 
+
+Certiﬁcated for Study Abroad Program at National University of Singapore (08/2022) 
+
+Certiﬁed for successfully Organizing IEM-UEM Marathon 2022 (10/2022) 
+
+

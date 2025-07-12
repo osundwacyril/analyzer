@@ -1,0 +1,112 @@
+M A L O T H U   C H A I T A N Y A
+
+  Miryalaguda,Telangana  DOB: 17-Mar-2002  
+  +91 8688733013    2020umt0242@iitjammu.ac.in    in/malothu-chaithanya-7aa461226  
+
+EDUCATION
+
+Course
+
+Bachelor of Technology (MSE)
+
+12th Standard
+
+10th Standard
+
+Institute
+
+IIT Jammu
+
+Narayana Junior College
+
+TSTWREIS
+
+Year of Passing
+
+Result
+
+2024
+
+2019
+
+2017
+
+7.11 CGPA
+
+96.7%
+
+87%
+
+WORK EXPERIENCE
+Kollege Apply (Jun 2024 - Jan 2025)
+Freelance Copy/ Content Writer and Digital Marketer
+
+Collaborated with a team to create SEO-optimized content to enhance search rankings and increase organic traffic
+Conducted thorough keyword research to align content with audience intent and stay current with industry trends
+Utilized meta tags, headings, and internal links to optimize on-page SEO performance
+Analyzed content performance through Google Analytics and made strategic refinements to improve results
+
+IIT Hyderabad (May 2023 - Jul 2023)
+Research Intern
+
+Conducted extensive research and analysis on Lithium-ion batteries (LiB) recycling
+Gathered and analyzed data from various sources to gain insights on the topic
+Utilized advanced analytics techniques to support research
+Investigated new technologies in LiB recycling
+Authored a research paper on LiB recycling that will be published in a prestigious journal
+
+PROJECTS
+
+Lane Follower Robot (Aug 2022 - May 2023)
+
+Project Lead, IIT Jammu
+
+Designed and developed a line-following robot using Arduino, motors, and IR sensors
+Implemented multiple algorithms for control of the robotics device
+Utilized C++ code on Arduino board for programming
+Utilized serial communication for debugging the device
+Conducted tests on the robot using various line scenarios for evaluation
+
+Hotel Management System (Dec 2022)
+
+Database Developer , IIT Jammu
+
+Designed database utilizing MySQL for hotel management system
+Created database tables to manage customer and reservation information
+Developed triggers and stored procedures to automate messaging between the database and user interface
+Tested database performance and replicated with multiple servers for redundancy
+
+SKILLS
+
+Programming Languages
+Softwares
+Operating Systems
+Design
+Web Development
+Relevant Coursework
+
+C/C++, Python, Java
+MySQL
+Windows
+Onshape (CAD)
+Bootstrap
+Computer Networks, Data Structures and Algorithms, Database Management and Systems
+
+ACHIEVEMENTS
+
+1st Position, Ultimate Showdown, Interdepartmental Dance Battle IIT Jammu 2023
+1st Position, Grove to the Theme, Reano'23 IIT Jammu 2023
+Gold Medal, Tug of War, Pravah'22 IIT Jammu 2022
+1st Position, State-level Dance Competition, Telangana 2017
+1st Position, State-level Spell Bee Competition 2017
+2nd Position, State-level Quiz Competition 2017
+
+POSITION OF RESPONSIBILITY
+
+Part of Mentor ship program in IIT Jammu for 3 years 
+Organized dance event Renao'23 at IIT Jammu in March 2023
+Managed solo mic event Renao'22 at IIT Jammu in May 2022
+Contributed to the planning and execution of Technuntus'22 at IIT Jammu in April 2022
+Served as a core member of the Dance Club at IIT Jammu from April 2021 to April 2022
+
+

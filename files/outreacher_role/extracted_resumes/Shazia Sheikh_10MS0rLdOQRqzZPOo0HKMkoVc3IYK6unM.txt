@@ -1,0 +1,75 @@
+Shazia Sheikh 
+
+          sheikhshazia1999@gmail.com             linkedin.com/shazia-sheikh                            github.com/shazisheikh01    
+
+          9120143986                                               Jaunpur, UP 
+
+  EDUCATION 
+
+Master Of Computer Application (MCA)                                                                                       2019 - 2022 
+ Maulana Azad National Urdu University,  
+Hyderabad 
+CGPA: 8.81  
+
+Bachelor Of Science (Mathematics, Physics)                                                                              2016 - 2019 
+Dr. Akhtar Hasan Rizvi Shia Degree College,  
+
+  Jaunpur 
+
+Percentage: 63% 
+
+Class XII (12th)                                                                                                                                2015 - 2016 
+Tara Convent Girls Inter College, 
+
+  Jaunpur 
+
+Percentage: 83% 
+
+PROJECTS 
+
+‘ Shazia Sheikh ’  Portfolio 
+Live       ||  Source Code   
+
+•  Build my responsive portfolio web-application using HTML, CSS, JavaScript. 
+• 
+
+Implement features like – Live style Switcher, dark and light theme and 5 color skins. 
+
+‘ EduXpert ’ Educational Website 
+Live       || Source Code   
+
+•  EduXpert is a responsive multipage page educational School website. 
+•  Build this web application by using the technology – HTML, CSS , ES6, JavaScript. 
+• 
+
+Implemented features such as  -  Responsive Home Page, About Page, Courses Page 
+with a Fully Functioning Contact Form with beautiful hover effect all over the website. 
+
+‘ EasyRecipe ’ Website 
+ Live        || Source Code     
+
+•  EasyRecipes is a multipage responsive recipes website for food. 
+•  Build this website by using the technology – HTML5, CSS3 and JavaScript. 
+• 
+
+Implemented features as – responsive recipe page, tags page and contact page. 
+
+TECHNICAL SKILLS 
+
+Frontend                                                     Development Tool                        Programming  
+
+HTML, CSS, JavaScript & Bootstrap                Git & GitHub                                  C and Java 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

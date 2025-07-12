@@ -1,0 +1,166 @@
+MANISHA BANDARU
+
+LINKED IN:MANISHA BANDARU
+
+CAREER OBJECTIVE
+
+Seeking an entry-level position to begin my career in a high-
+level professional environment and to secure employment with a
+reputable company, where I can utilize my skills and business
+studies background to the maximum
+
+EDUCATION
+ENGINEERING:
+Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering 
+Electronic Instrumentation Engineering
+(pursuing v sem)
+2020-2024
+CGPA:8.72
+INTERMEDIATE:
+Narayana IIT JEE College for girls ,mallempet
+Marks:963
+SSC:
+New Era High School
+Marks:9.5
+
+ACADEMIC PROJECTS
+
+ Salary prediction using machine learning:
+ Predicting justified salary for employee is always being a challenging job
+for an employer. In this paper and proposing a salary prediction model
+with suitable algorithm using key features required to predict the salary of
+employee using machine learning.
+Automatic Street Light Using LDR:
+LDR sensor is used for detecting the presence of surrounding light so that
+during the day time when sun is bright, the street light is switched off
+automatically. During the night time when there is no light, the LDR
+sends signal to micro controller to turn on the street light.
+Customer Billing System using Python:
+This simple billing system project in Python focuses mainly on dealing
+with customer’s billing with their purchase quantity, and discount. At first,
+the system allows inserting the customer’s name, then the user can simply
+enter the item’s name and quantity he/she wants. After selecting all the
+product items, the system calculates the total payable bill with the
+expected discount percentage. At last, the system automatically creates an
+invoice receipt in a .txt format which includes the name of the customer,
+date, time of purchase, product item with quantity, unit price, and a total of
+each, discountable amount, and payable amount. All these sold product’s
+quantity is also deducted from the system which is system maintains it
+under products.txt file.
+
+CONTACT
+
+8374185869
+
+bandarumanishabandaru@gmail.com
+
+H-NO:4-193/2
+        Konjierla,Khammam
+      Pin Code:507305
+TECHNICAL SKILLS
+
+PROGRAMMING SKILLS:
+C
+PYTHON
+HTML
+
+LANGUAGES
+
+ENGLISH
+TELUGU
+
+STRENGTHS
+LEADER SHIP SKILLS
+QUICK LEARNING
+PRESENTATION SKILLS
+TEAM WORK
+DECISION MAKING
+LISTENING SKILLS
+PROBLEM SOLVING
+
+TECHNICAL PACKAGES:
+Auto CAD
+MATLAB
+NI Lab VIEW
+
+HOBBIES
+DESIGNING
+PAINTING
+YOGA
+PLAYING SPOTS AND GAMES
+SOLVING PUZZLE
+
+PERSONAL DETAILS:
+
+Date of Birth:12-06-2002
+Gender:Female
+Nationality: Indian
+Aadhar :8735 7487 4114
+
+ 
+CERTIFICATIONS: 
+
+VERZEO   Certification in INTRODUCTION TO MACHINE LEARNING IN PYTHON
+
+INTERNSHIP:
+
+2-weeks intership on LED CHIP MANUFACTURING at KWALITY PHOTONICS CORPORATE TS
+
+INCENTIVES PVT
+
+ACHIEVEMENTS:
+
+ACADEMIC:
+
+Offered scholarship by Telangana government forbeing in top 1%in
+Intermediate Board Examination
+Excelled in academics and felicitated for being TOPPER in SSC
+Won 1st prize in Essay competitions at school level
+won prize in PROBLEM SOLVING competitions in college level
+
+CO-CURRICULAR:
+
+WON in NASA INTERNATIONAL SPACE APP CHALLENGE 2022 HACKATHON at VNR VJIET
+
+participated in NATIONAL LEVEL NASA HACKATHON IN CHANDIGARH UNIVERSITY,CHANDIGRAH
+Participated in project contsest conducted by CONVERGENCE in VNR VJIET
+
+Student member of ISOI (Instrument Society of India)
+
+participated in 2-days workshop on ADDITIVE MANUFACTURING
+
+conducted by CONVERGENCE in VNR VJIET
+
+Participated  in  2-days  workshop  on  STARTUP  with  PERFECT  FUEL  INDICATOR  IN  VEHICLES  conducted  by
+
+ECFICIO 4.O in VNR VJIET
+
+Member of STUDENT FORCE(SOCIAL CLUB IN VNR VJIET)
+
+Volunteered for CYBER SECURITY WORKSHOP organised by student force
+
+EXTRA-CURRICULAR:
+
+won 1st pize in VOLLEY BALL in DISTRICT LEVEL in PANDURANGARURAM
+
+Participated in STATE LEVEL VOLLEY BALL competition in TAMIL NADU
+
+Won many prizes in Sports in school level
+
+Won 1st prize in THROW BALL in school level
+
+DECLARTION:
+
+I hereby declare that all the information given above is true and correct to the best of my knowledge. All the
+
+information shared in the Curriculum vitae is correct, and I take full responsibility for its correctness. I solemnly
+
+declare that the information in this Curriculum vitae is true to the best of my knowledge and belief.
+
+PLACE:Hyderabad,
+
+Date:04-12-2022.                                                                                                          (BANDARU MANISHA)
+
+ 
+ 
+

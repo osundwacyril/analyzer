@@ -1,0 +1,99 @@
+Jinay Hemantkumar Patel
+
+(cid:131) (+971)582457023 (+974)50661042 (+91)7490953329 # jinaypatel320@gmail.com (cid:239) jinaypatel § jinaypatel18
+
+Experience
+
+3rd Eye Labs
+Software Development—Software Engineers, AI generator
+
+Mar’24 – Present
+Abu Dhabi, United Arab Emirates
+• Designed and developed the Ender 5 3D printer from scratch, including creating and optimizing its firmware to enhance
+
+performance and functionality.
+
+• Contributed to firmware development for the Flipper Zero and created custom software inspired by TRAKTOR DJing
+
+software, integrated with the TRAKTOR KONTROL Z1.
+
+• Worked as a full-stack web developer and built an AI-powered tool to help the marketing team generate high-quality
+
+images for the company’s social media campaigns.
+
+GAOTek Inc
+Intern(Software Development / Digital Marketing)
+
+Jul’23 – Sep’23
+New York, United States
+• Worked in Software Development at Gao Tek, specializing in Radio Frequency Identification (RFID) technology, focusing
+
+on innovative solutions and technical implementations.
+
+• Took on digital marketing responsibilities, identifying construction companies in targeted cities and reaching out to their
+
+CEOs or CFOs via LinkedIn or email to introduce company products.
+
+iCodejr
+Intern(Curriculum Development)
+
+Jul’23 – Sep’23
+Dubai
+
+• My task was to create a game for 4th-5th grade students on a given topic using Scratch and Python. Following this, I
+
+planned to develop a PowerPoint presentation to explain the step-by-step process of creating the game.
+
+•
+
+Jan’23 – May 23
+Muscat, Oman
+
+Allied Service Provider LLC
+Full Stack Web Developer
+
+∗ Developed user interfaces using modern JavaScript frameworks, HTML5, and CSS3, improving user satisfaction by
+thirty-one percent. Wrote object-oriented code in Node.js, ensuring one hundred percent adherence to industry and
+company standards. Gained expertise in multithreading, concurrency, design patterns, and their impact on
+application performance. Designed and developed web applications using JavaScript frameworks React.js and
+Angular.js, increasing audience engagement by twelve percent.
+
+Projects
+
+Face Dection, Dubai Manipal University | Python, C++, JavaScript, Java, MATLA, R |
+
+Jul’21 - Aug’21
+
+• Face detection technology plays a pivotal role across diverse sectors, enhancing surveillance capabilities for authorities
+
+and revolutionizing identification through the integration of biometrics and security measures. This technology involves
+identifying and locating human faces in images or videos, powering applications such as facial recognition and emotion
+analysis. By leveraging advanced algorithms to analyze visual patterns, it ensures efficient and accurate face detection
+across various contexts.
+
+Food Delivery, Dubai Manipal University | Java, Swift, JavaScript, Python, PHP
+
+Jul’22 - Aug’21
+• In analyzing competition, I focused on two leading players in the market, delving into advanced features essential for food
+ordering apps beyond their basic functionalities. The research underscores the significance of food delivery, a popular and
+convenient trend enabling customers to order their favorite meals seamlessly. The app streamlines the process, ensuring
+direct doorstep delivery. In a tech-driven era with dedicated delivery services, food delivery has evolved, reshaping the
+dining experience by providing convenience and an extensive array of culinary choices.
+
+Technical Skills
+
+OPERATING SYSTEMS: Windows, Linux, MacOS
+Languages: C++, Python, JavaScript, TypeScript, HTML/CSS, SQL, Java
+Developer Tools/Technologies: React.js, MongoDB, Cloud Services, AWS, MySQL, Ruby, numpy, pandas, matplotlib,
+Jupyter Notebook, Shell, Adobe Photoshop, Rest APIs, Databricks, Microsoft Excel, Git, bash, Oracle Services, PyCharm,
+WordPress, Postgres, Visual Studio, Node.js, Angular, Scala, Data Structures, R, Slack, BigQuery, Apache
+
+Education
+
+Manipal Academy of Higher Education - Dubai Campus
+B.Tech in Computer Science and Engineering,
+
+Sep’20 – Sep’24
+Dubai, United Arab Emirates
+
+

@@ -1,0 +1,94 @@
+PROFILE
+
+Chitraleka G.V
+
+A  Software  Systems  student  with  a  flexible  and  positive
+approach to employment and am willing to train to suit my
+working environment.
+
+EDUCATION
+
+Coimbatore Institute of Technology, 
+Integrated MSc Software Systems
+
+2018 – 2023 | Coimbatore, India
+
+CGPA- 7.92
+
+Saratha Matric Hr Sec School, 
+Higher Secondary Education
+
+2016 – 2018
+
+ Percentage- 80.25
+
+chitraleka892@gmail.com
+
+91 6383442462
+
+Coimbatore, India
+
+chitraleka-venkatachalam
+
+github.com/chitraleka07
+
+SKILLS
+
+C | C++ | HTML | CSS | JavaScript
+
+SQL | ReactJS | Angular | Firebase
+
+DBMS
+
+AREAS OF INTEREST
+
+PROJECTS
+
+Web Development
+
+GARBAGE DETECTION, IBM Watson
+
+Geo-tracking of wastes by the trained model. The waste is 
+mapped with the quantity index.
+
+DIGITAL SEVA PORTAL, Reactjs,FireBase
+
+To provide different government online application services 
+where people can apply for their required documents and 
+certificates.
+
+Access Rights Management system, Angular
+
+By this portal employees can request for the Access to the 
+folder and data they are working on in the organisation.
+
+Financial Data Analysis, Altreyx,Python,Spotfire
+
+The data visualization is performed using financial data and 
+social media Employee sentiment Analysis.
+
+Problem Solving and Progeamming
+
+Data Analyst
+
+PROFESSIONAL
+EXPERIENCE
+
+Ernst and Young, Data analyst(Intern)
+
+Aug 2023
+
+Arga solutions, 
+Fullstack developer (Intern)
+
+Alphazene Solutions, 
+Fullstack developer(Intern)
+
+Jun 2021 – Nov 2021
+
+PUBLICATIONS
+
+TRAFIIC RULE VIOLATION DETECTOR, 
+at IICCTCMS-2020
+
+

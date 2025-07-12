@@ -1,0 +1,168 @@
+KUSUMA SAYI ABINAND
+
+mintukusuma2244@gmail.com
+
+9951184627
+
+2-93,Kondamallepally,Kondamallepally,Nalgonda,Telangana,508243
+
+kusuma sayi abinand
+
+SUMMARY
+
+Driven and highly motivated Computer Science graduate seeking an opportunity to leverage technical 
+expertise and creative problem-solving skills in a dynamic software development role. Adept at developing 
+innovative solutions and collaborating effectively within cross-functional teams. Eager to contribute to the 
+success and growth of a forward-thinking organization.
+
+2020 – 2024
+Hyderabad
+
+2018 – 2020
+Hyderabad
+
+2017 – 2018
+Ranga Reddy
+
+EDUCATION
+
+B.Tech,Malla reddy college of engineering & technology
+CGPA : 6.78
+
++2,Sri Gayatri Junior College
+Percantage : 78.4
+
+10th,Gurukula Vidhyapeeth High School
+GPA: 8.0
+
+LANGUAGES
+
+Hindi
+
+English
+
+HTML
+
+C
+
+Java Script
+
+PHP
+
+Telugu
+
+SKILLS
+
+Python
+
+CSS
+
+MySQL
+
+React js
+
+PROJECTS
+
+Portfolio
+Using Html ,CSS, Java Script
+
+Pharmacy Management System
+Using Python and MySQL
+
+•The  Python-based  Pharmacy  Management  System  is  a  comprehensive  software  solution  that  streamlines 
+various aspects of pharmacy operations. It enables efficient management of inventory, sales, prescriptions, 
+and  customer  records.  With  intuitive  interfaces  and  automated  functionalities,  it  enhances  accuracy, 
+reduces manual effort, and optimizes overall workflow in a pharmacy setting.
+
+Inventory Management System
+Using Python and MySQL
+
+•An inventory management system in Python allows businesses to track and manage their stock efficiently. It 
+provides  features  like  adding/updating  inventory  items,  monitoring  stock  levels,  generating  reports,  and 
+alerting for low stock. It helps streamline operations and prevent stockouts or excess inventory.
+
+Bank Management System
+Using Python and SQLite
+
+•A  bank  management  system  in  Python  enables  efficient  management  of  banking  operations.  It  includes 
+features  like  customer  account  management,  transaction  processing,  loan  management,  and  reporting. 
+With  user-friendly  interfaces,  it  ensures  secure  access,  data  integrity,  and  effective  control  over  banking 
+activities.
+
+Taxi Booking
+Using Python and SQLite
+
+•A taxi booking system in Python facilitates the process of reserving and managing taxi rides. It allows users 
+to request a taxi, view available drivers, track the status of their ride, calculate fares, and generate invoices. 
+The system enhances convenience and efficiency in taxi service operations.
+
+Strain Analysis Based On Eye Blinking
+using Python
+
+•Strain  analysis  based  on  eye  blinking  in  Python  involves  analyzing  patterns  of  eye  blinks  to  assess  and 
+monitor  individuals'  strain  levels.  By  measuring  blink  frequency  and  duration,  the  system  can  provide 
+insights  into  fatigue  and  stress  levels,  aiding  in  the  identification  and  management  of  potential  strain-
+related issues.
+
+Medical cost regression
+using machine learning
+
+•Disease  prediction  and  cost  estimation  in  Python  involves  developing  a  model  to  predict  the  likelihood  of 
+individuals developing certain diseases based on various factors. Additionally, the system can estimate the 
+potential  costs  associated  with  the  disease,  aiding  in  healthcare  planning  and  resource  allocation  for 
+effective disease management.
+
+Advanced Healthcare System
+Using Machine Learning
+
+•I developed a Disease Prediction System using machine learning techniques during a personal project. The 
+system utilizes SVM, Naive Bayes, and Random Forest classifiers to predict diseases based on user-selected 
+symptoms.  I  also  implemented  an  ensemble  technique  to  combine  individual  model  predictions  for 
+improved  accuracy.  The  project  involved  data  preprocessing,  model  training,  and  GUI  development  using 
+Tkinter.  This  project  allowed  me  to  enhance  my  skills  in  data  analysis,  machine  learning,  and  software 
+development, and it showcases my ability to create practical solutions using data-driven approaches.
+
+WORKSHOPS AND BOOTCAMPS
+
+•Attended Workshop on Artificial Intelligence and Machine Learning conducted in college
+
+•Attended Bootcamp on Web Development
+
+•Participated in five days Bootcamp on Ethical Hacking and CyberSecurity followed by one day hackathon in 
+association with Supraja Technologies
+
+•Attended Workshop on Cyber Security conducted by skill vertex
+
+PROFESSIONAL EXPERIENCE
+
+Intern
+InternPe
+
+•During  my  internship,  I  had  the  opportunity  to  work  on  various  exciting  projects  that  allowed  me  to 
+strengthen  my  programming  skills  and  creativity.  One  of  my  major  achievements  was  developing  a  fully 
+functional  game  of  Tic  Tac  Toe,  implementing  logic  and  user-friendly  interfaces  to  enhance  the  gaming 
+experience.  Additionally,  I  successfully  designed  and  coded  a  digital  clock  application  that  displayed 
+accurate  time  with  different  time  zone  options,  showcasing  my  proficiency  in  time  handling.  Moreover,  I 
+took on the challenge of creating a system shutdown application using tkinter and buttons, providing users 
+with  a  convenient  and  direct  method  to  power  off  their  systems.  These  projects  not  only  sharpened  my 
+problem-solving abilities but also gave me valuable insights into GUI development and user interaction.
+
+CERTIFICATES
+
+Certificate Of Completion Of Java Script For Web Development From AICTE
+level 1
+
+Participation Certificate On Cyber Security From Supraja Technologies
+Hackathon
+
+Certificate of Excellence on Cyber Security From Supraja Technologies
+Hackathon
+
+Completion Certificate of an Internship in INTERNPE
+Domain:Python
+
+INTRESTS
+
+•Intrested in learning new technologies
+
+

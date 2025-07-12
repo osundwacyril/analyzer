@@ -1,0 +1,129 @@
+CONTACT
+
+OBJECTIVE
+
+EDUCATION
+
+2022
+
+2020
+
+2016
+
+2014
+
+EXPERIENCE
+
+Aug 2021 - Aug
+2022
+
+Jun 2019 - July
+2019
+
+PROJECTS
+
+B Prateeksha Baliga
+ 3E-11-852/1
+Krishna Kunj
+
+Bikkernakatte
+
+Mangaluru-575005
+
+D.K, Karnataka
+
+ 9844845203
+ bprateeksha.98@gmail.com
+
+A MTech Graduate wanting an opportunity to efﬁciently contribute my skills and
+abilities for the growth of the organisation and build my professional career.
+
+Manipal Institute of Technology, Manipal
+MTech - Software Engineering
+8.69
+
+NMAM Institute of Technology
+B.E. - Computer Science and Engineering
+8.44
+
+Canara Pre University College
+Pre University Education
+89.7%
+
+Canara Girls High School
+SSLC
+90.27%
+
+Student Trainee (Automation Engineer)
+Nokia Solutions
+
+Intern
+Azure Skynet Solutions
+
+Automation Of Adding TTI Parameters
+Company based project where in automation was done for adding TTI parameters.
+Testing and deployment was also included.
+
+Plant Disease Detection Using GA-SVM Classiﬁer
+Using plant leaf image dataset we detect whether the plant is infected and if so
+we determine the accuracy to which extent it is infected. This
+project uses machine learning techniques.
+
+Travelmate Android Application
+The app displays the map as well as places of interest based on the
+city selected. This helps the travellers since it is openly available to all. It uses
+Android studio and Google ﬁrebase.
+
+Modiﬁed Playfair CBC Algorithm
+This project deals with a new solution approach to overcome the shortcoming
+if the Playfair algorithm.We have proved the modiﬁed algorithm is efﬁcient and
+
+less complex when compared to the original algorithm.
+
+Wikipedia Page Ranking
+Since there are numerous pages in Wikipedia, this project helps us to ﬁnd
+the best page by giving them a ranking by using hive and pig queries.
+
+Programming languages: C,C++, Java, Python, HTML, SQL, Assembly Language
+Computer science topics: Data Structures, Big Data, Machine learning, DBMS, Unix,
+Agile, Scrum, Mobile Application development, Mongodb, Networking
+Testing Software: Selenium IDE, Selenium webdriver, Jira
+
+SKILLS
+
+COMPETENCIES
+
+Determined 
+Time management 
+Communication and good listener 
+Self driven 
+Ability to work under pressure 
+Ability to work in a team as well as individually 
+Adaptable 
+
+ACHIEVEMENTS & AWARDS
+
+Successfully delivered an automation project at Nokia Solutions
+Awarded an empowered badge at Nokia solutions during my service period.
+MICE certiﬁcate for completion of C++ course and certiﬁcate
+Nokia certiﬁcates for completion of Agile and Srcum, LTE, Nokia Bell Labs courses
+Bharatanatyam Junior Grade Certiﬁcate
+NCC - A certiﬁcate
+NSS Volunteer
+
+INTERESTS
+
+LANGUAGES
+
+Dancing
+Event Organising, Volunteering, Socialising
+Gardening
+Photography
+
+English (W,R,S)
+Kannada (W,R,S)
+Hindi (W,R,S)
+Japanese (S)
+Konkani (S)
+
+

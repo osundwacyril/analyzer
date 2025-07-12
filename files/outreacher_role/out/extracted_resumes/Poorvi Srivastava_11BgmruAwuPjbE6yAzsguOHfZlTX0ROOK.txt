@@ -1,0 +1,182 @@
+ Poorvi Srivastava 
+ B.Tech (Computer Science & Engineering ) 
+
+ +91 9580197977 
+
+ poorvisrivastava5@gmail.com 
+
+ https://github.com/Poorvisrivastava15 
+
+ www.linkedin.com/in/poorvi-srivastava 
+
+ SKILLS 
+
+ *Front-end technologies 
+
+ PROJECTS 
+
+ ★ 
+
+ MAJOR PROJECTS 
+
+ HTML, CSS, JavaScript, React.js, AJAX, JQuery, Bootstrap 
+
+ 1)  Sugarcane Management System 
+
+ *Back-end technologies 
+
+ Node.js, Java, Php. 
+
+    *Databases technologies 
+
+    MongoDB,  MySql, DBMS 
+
+    *Tools & Technologies 
+
+    POSTMAN, Git & Github, VSCode, PhpMyAdmin, XAMPP. 
+
+    *Additional 
+
+ Canva, MS-Office. 
+
+ EXPERIENCE 
+
+ ❖ 
+
+ INTERNSHIP 
+
+ 01) Uttar Pradesh Cooperative Sugarcane Factories Federation 
+ (UPCSFF), Lucknow 
+
+ (01 Nov 2022 - 30 Dec 2022) 
+
+ Developed   a   Sugarcane   Management   System   during   my 
+ internship   at   the   Uttar   Pradesh   Cooperative   Sugarcane 
+ Factories   Federation   Private   Limited.   Utilised   HTML, 
+ CSS,   and   JavaScript   frameworks   for   the   frontend,   and 
+ implemented   a   robust   MySQL   database   for   seamless   data 
+ management.   This   project   demonstrates   my   proficiency   in 
+ full-stack   development   and   database   management   in   the 
+ agricultural sector. 
+
+ Technologies: 
+
+ Key 
+ PhpMyAdmin, XAMPP, React.js, Node.js, DBMS. 
+
+ JavaScript, 
+
+ HTML,   CSS,   MySQL, 
+
+ 2)  A Web Music App with Lyrics Search (SuRelay) 
+
+ सुRelay   is   a   Web   Music   Application,   created   by   using 
+ ReactJS.   React.Js   is   a   JavaScript   library   used   for   building 
+ reusable UI components. 
+
+ Technologies: 
+
+ Key 
+ AJAX, 
+ JQuery,  React.js,  Node.js,  Express.js,  Bootstrap,  MongoDB, 
+ Postman. 
+
+ JavaScript, 
+
+ HTML, 
+
+ CSS, 
+
+ During   my   internship   at   the   Uttar   Pradesh   Cooperative   Sugar   Cane 
+ Factories   Federation,   I   spearheaded   the   development   of   a   comprehensive 
+ solution 
+ Sugarcane 
+ streamlines   and   enhances   the   efficiency   of   sugarcane-related   processes, 
+ showcasing   my   proficiency   in   software   development   and   commitment   to 
+ optimising agricultural operations. 
+
+ Management 
+
+ innovative 
+
+ software. 
+
+ System 
+
+ This 
+
+ 02) Intern NITI, 
+
+ (01 Nov 2023 - 30 Nov 2023) 
+
+ During   my   one-month   internship   at  INTERN  NITI,  I  immersed  myself  in 
+ Java   development  ,   gaining   practical   insights   into   the   world   of   software 
+ engineering.  Working  under  the  guidance  of  experienced  mentors,  I  actively 
+ contributed   to   the   development   of   Java   applications,   enhancing   my 
+ technical skills and understanding of industry best practices. 
+
+ ❖ 
+
+ TRAINING 
+
+ 01) MERN Stack Development  from  DIGIPODIUM,  Lucknow. 
+ (July 2022 - Aug 2022) 
+
+ 02) Web development from INTERNSHALA. 
+ (July 2023 - Sep 2023) 
+
+ EDUCATION 
+
+ Lucknow Institute of Technology,   Lucknow 
+
+ ★ 
+
+ MINOR PROJECTS 
+
+ 1)  Portfolio 
+
+ I   designed   and   developed   a   personal   portfolio   website   to 
+ highlight  my  skills  and  web  development  projects.  The  site 
+ boasts   a  modern  and  clean  user  interface,  achieved  through 
+ HTML,   CSS,   and   JavaScript.   I   showcased  my  expertise  in 
+ front-end   technologies.   This   project   not   only  demonstrates 
+ my   technical   skills   but   also   reflects   my   dedication   to 
+ creating visually pleasing and functional web interfaces. 
+
+ Key Technologies  : HTML, CSS, JavaScript. 
+
+ 2)  PG-Life Web App 
+
+ for 
+
+ Designed  and  implemented  a  PG  life  web  application  using 
+ HTML,   CSS,  JavaScript,  Bootstrap,  MySQL,  DBMS,  PHP, 
+ and  React.  This  application  offers  a  responsive  and  intuitive 
+ seamless 
+ residents, 
+ interface 
+ communication   and   efficient   management   of   daily   tasks. 
+ With   secure   authentication   and   real-time   data   updates,   the 
+ app 
+ the   overall   living   experience,   providing 
+ residents   and  administrators  with  a  centralised  platform  for 
+ information and interaction. 
+
+ facilitating 
+
+ enhances 
+
+ PG 
+
+ MBA  (pursuing) 
+
+ Aug 2023 -  present 
+
+ Lucknow Institute of Technology,   Lucknow 
+
+ BTech(CSE)  with CGPA: 7.4                                  Aug 2019 - June 2023 
+
+ Key  Technologies:  HTML,  CSS,  JavaScript,  React.js,  Php, 
+ DBMS, Bootstrap. 
+
+

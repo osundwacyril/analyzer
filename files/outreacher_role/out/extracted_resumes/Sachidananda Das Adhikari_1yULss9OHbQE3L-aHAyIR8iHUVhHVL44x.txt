@@ -1,0 +1,139 @@
+SACHIDANANDA DAS ADHIKARI
+
+CONTACT
+
+OBJECTIVE
+
+EDUCATION
+
+2023
+
+2020
+
+2017
+
+2013
+
+2011
+
+SKILLS
+
+PROJECTS
+
+sdas74267@gmail.com
+
+9776466489
+
+Balasore, Odisha, 756037
+
+Seeking a position using proven technical skills and to provide technical
+solutions in front end technologies as per requirements. Ability to perform
+development tasks with dedication and strong problem analysis skills with
+analytical and logical thinking.
+
+Master of Computer Application
+Centurion University of Technology and Management, Bhubaneswar
+75%
+
+CIPET-CSTS, Balasore
+CIPET
+72%
+
+Bachelor of Science
+MPC Auto. College, Baripada
+58%
+
+Higher Secondary
+BCCST College, Bhubaneswar
+75%
+
+Secondary
+Sankhari High School, Sankhari
+77%
+
+JAVA
+
+CSS
+
+SEO
+
+60%
+
+80%
+
+80%
+
+HTML
+
+JavaScript
+
+Link building
+
+80%
+
+80%
+
+80%
+
+Quiz App
+I developed this project by using HTML, CSS and JavaScript. The feature of
+the project were:-
+1. Select option from multiple choices.
+
+2. Get the result of the question as correct or incorrect.
+
+Responsive Blog Website
+I developed this project using HTML, CSS and JavaScript. Technologies
+used in this project were HTML, CSS and JavaScript. Features of the
+project were:-
+1. Dynamic Blog pages.
+
+2. Have a dedicated editor for blogs.
+
+3. Users can add/make as many blogs you want.
+
+4. Users can add Headings, paragraphs, and Images to the blog post.
+
+Personal Portfolio
+I developed this project using HTML, CSS, JavaScript and Bootstrap
+Version 5.
+1. It has six links: home, about, services, portfolio, contact, and footer
+
+2. It has a transparent background. 
+
+Meditation app using HTML, CSS and JavaScript
+
+Talking about the features of this system, the user can meditate and
+relax by enjoying the peaceful sound of a cloudy day or a sunny day as
+their choice.
+
+Also, you can adjust the meditation time period from the options
+provided in the app. 
+
+You just have to select the meditation environment for a sunny or cloudy
+day and set the time period through options, then enjoy the sound
+
+INTERESTS
+
+Photography
+
+Travelling
+
+Listening to Music and Stories
+
+Watching movies/series
+
+LANGUAGES
+
+DECLARATION
+
+Hindi
+
+English
+
+Odia
+
+I hereby declare that all the details above in the information is true to the
+best of my knowledge.
+
+

@@ -1,0 +1,72 @@
+                                                                  Minakshi Sontakke   
+Phone: 9209193675                                                                                           E-Mail: minakshisontakke20@gmail.com            
+
+EDUCATION                   
+
+G H Raisani Institute of Information Technology                                                                           June 2018 - June 2022          
+Bachelor of Engineering in computer science and engineering CGPA (8.0)                          
+
+TECHNICAL SKILLS         
+
+Linux                      Windows                  Cloud                    Python                          Bash                    PowerShell               
+Monitoring           SQL                            NoSQL                  Backup & Recovery     Networking       Security 
+
+Incident Management                          Collaboration       MS Excel                       MS teams          MS suites office 
+
+English                   HTML                        CSS                        C++                                Data Analysis    SEO 
+
+Soft Skills:                     Communication               Problem-solving                          Adaptability          Leadership                           
+Time Management         Adaptive Learner            Analytical   Thinking                    Hardworking         Teamwork                   
+EXPERIENCE    
+
+ Learnify                                                                                                                                                         July 2023 to Present  
+
+• 
+• 
+• 
+• 
+• 
+• 
+
+ Monitored and optimized IT systems to maintain 99.9% uptime and high performance. 
+ Automated routine processes using Python and Bash, reducing manual efforts by 30%. 
+ Designed and deployed cloud infrastructure (AWS/Azure), ensuring scalability and cost-efficiency. 
+ Configured and maintained CI/CD pipelines, enhancing deployment efficiency. 
+ Implemented robust disaster recovery strategies and conducted regular system backups. 
+ Conducted root cause analysis of system failures and implemented preventive measures. 
+
+Atos Global                                                                                                                                                        June 2022 to oct 2023  
+
+•  Managed a fleet of 200+ servers, ensuring security and performance optimization. 
+•  Configured network components, including firewalls, load balancers, and VPNs. 
+•  Oversaw database management, performing tuning, backups, and recovery as needed. 
+•  Deployed monitoring tools to track system health, reducing downtime by 20%. 
+•  Collaborated with cross-functional teams to support business-critical applications. 
+
+PROJECTS                   
+
+Infrastructure Automation 
+
+•  Developed an automated script for server provisioning, reducing setup time by 50%. 
+
+System Monitoring Dashboard 
+
+•  Created a real-time monitoring dashboard using Grafana and Prometheus for system health tracking. 
+
+CERTIFICATION                   
+
+•  Google Data Analytics (Coursera)            
+• 
+•  Career Essentials in System Administration by Microsoft and LinkedIn        
+
+[2021] Microsoft Power BI Certification: A-Z Level (Ver 7.3)            
+
+                 
+    
+ 
+  
+          
+ 
+         
+        
+

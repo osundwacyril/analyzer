@@ -1,0 +1,117 @@
+Shashank Sharma
+
+ 8630950889  shrmshashank209@gmail.com
+
+Last Updated on 12th February 2024
+
+Education
+VELLORE INSTITUTE OF TECH-
+NOLOGY, CHENNAI
+BTech in Computer Science
+ 2020‑2024
+
+ Chennai, Tamil Nadu
+
+Experience
+INDUSTRIAL CERTIFICATION (ARTIFICIAL INTELLIGENCE
+ANALYST)
+IBM
+ May 2023 – Aug 2023
+
+JOSEPH INTERNA-
+
+SAINT
+TIONAL SCHOOL
+Intermediate
+ 2019‑2020
+
+ Kota,Rajasthan
+
+• Using IBM Watson and cloud to implement Artificial intelligence.
+• Acquired skills in machine learning, Natural language processing,
+
+chatbots, and Computer Vision.
+
+Skills
+PROGRAMMING LANGUAGES
+AND FRAMEWORKS
+Java, Artificial Intelligence, Machine
+Learning, Data Science, Python Flask.
+OTHER TOOLS AND TECH-
+NOLOGIES
+Github, Microsoft Office, Git,
+Postman, Jupyter Notebook, Google
+Colab, Kaggle, Ai Tools
+
+Achievements
+• Co‑Wrote chapter 16 (Robots,
+cyborgs and modern Society:
+Future of Society 5.0) in the book
+”Robotic Process Automation” by
+Romil Ravat.
+
+• Got a gold badge in Java
+
+programming on HackerRank.
+
+Extracuricular
+CAPTAIN
+Volleyball Team of St.
+Joseph’s International School
+Lead my team to win District level
+competitions
+MEMBER
+Aerospace Club, VIT university
+Research on how a rocket engine
+works and the math behind it.
+MEMBER
+Table Tennis, Kanha Makhan
+Public School
+Participated in Table tennis
+competition on behalf of the school.
+
+Recent Projects
+WEBSITE FOR PLANT DISEASE DETECTION SYSTEM
+Vellore Institute of Technology, Chennai
+ Sep 2022 ‑ Nov 2022
+ Chennai, India
+A project under the Vellore Institute of Technology in which I built a plant
+disease detection system using machine learning (ML) as a backend and
+flask framework as a frontend. In this scenario, the ML backend will be
+responsible for processing and analyzing images of plant leaves to identify
+potential diseases, while the frontend will provide a user‑friendly interface
+for interacting with the system.
+AGE AND GENDER DETECTION USING NEURAL NETWORKS
+Vellore Institute of Technology, Chennai
+ Chennai, India
+ August 2023 ‑ November 2023
+A project under the Vellore Institute of Technology in which I Developed a
+robust age and gender detection system using Convolutional Neural
+Networks (CNN) and transfer learning with pre‑trained models (ResNet50,
+VGG16, InceptionV3). Engineered data preprocessing, fine‑tuning, and
+model deployment for real‑time image‑based predictions. Achieved
+accurate results through comprehensive training on a diverse dataset,
+showcasing proficiency in computer vision and deep learning.
+NEWS SCRAPING, CLASSIFICATION, SENTIMENT ANALYSIS
+AND SUMMARISATION
+Vellore Institute of Technology, Chennai
+ Jan 2022 ‑ April 2022
+ Chennai, India
+A project under the Vellore Institute of Technology, to classify news
+according to the sentiment they represent(Positive, Neutral, Negative)
+using various machine learning algorithms and classify them into the
+categories they fall into. Finally, for user convenience, I Summarized the
+news articles using word2vec and seq2seq models. The dataset for the
+project was scraped using Beautifulsoup library of python.
+PHISHING WEBSITE DETECTION SYSTEM
+Vellore Institute of Technology, Chennai
+ Jan 2023 ‑ April 2023
+ Chennai, India
+A project under the Vellore Institute of Technology is to train machine
+learning models and deep neural nets on the dataset created to predict
+phishing websites. Both phishing and benign URLs of websites are
+gathered to form a dataset and from them required URL and website
+content‑based features are extracted. The performance level of each
+model is measured.
+
+

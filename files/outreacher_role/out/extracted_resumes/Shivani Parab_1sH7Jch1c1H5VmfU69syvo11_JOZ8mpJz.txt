@@ -1,0 +1,77 @@
+SHIVANI ATMARAM PARAB
+
+Mumbai, Maharashtra
+(cid:211) +91-9619776825  mailtoshivaniparab@gmail.com (cid:135) gitshivanii / leetshivanii  shivaniparab1
+
+EXPERIENCE
+Vidyalankar Institute of Technology
+Full Stack Developer
+
+• Developed Certificate Repository Management System for college
+
+• Worked with MySQL as database to store and retrieve data and Django as back-end.
+
+EDUCATION
+Vidyalankar Institute of Technology
+Bachelor of Engineering (BE) in Information Technology GPA - 8.04/10
+
+P.V.G. Bhavan
+Higher Secondary School Certificate (HSSC) in Science. Percentage - 60.92%
+
+S.V.M. School
+Secondary School Certificate (SSC) Percentage - 71.80%
+
+PROJECTS
+
+JUN 2021- SEPT 2021
+Mumbai
+
+2018-2023
+Mumbai
+
+2016-2018
+Mumbai
+
+2012-2017
+Mumbai
+
+Whatsapp Chat Analyzer | Python, Shell, StreamLit
+
+• Tracks our conversation and analyses how much time we are spending on WhatsApp.
+
+• Implemented using simple python modules such as pandas, matplotlib, seaborn and sentiment analysis which
+
+are used to create data frames and plot different graphs
+
+Blog Web App with Admin Panel | PHP, MySQL, HTML, CSS
+
+• Blog website to read and write and manage blogs.
+• With Admin panel to manage the published blogs.
+
+vCertificate | Python, Django, HTML/CSS, SQL
+
+• Created a web application using Flask to store the important data like publications, educational certificates,
+
+research papers etc. securely
+
+• Processed user inputted information/data in the back-end of the web app to return a user required document
+
+anytime anywhere using basic authentication system.
+
+E-Shop Management System | Python, Django, HTML, CSS, SQL
+
+• Enables ecommerce shop owners to create, edit and publish digital website content without writing any code.
+
+Movie Recommendation System | Tenserflow, StreamLit
+
+• A Web Application to recommend movies based on a TMDB data-set trained model with CountVectorizer,
+
+CosineSimilarity.
+
+TECHNICAL SKILLS
+
+Languages: PHP, Python, C++, TyprScript, JavaScript, SQL, HTML, CSS
+Technologies/Frameworks: Azure Data Factory, GitHub, Power BI, ReactJS, NodeJS, Git, Mongo, Django,
+Flask, FastAPI
+
+

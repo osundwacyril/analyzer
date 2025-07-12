@@ -1,0 +1,133 @@
+Bhumika Varshney  
+Mob. No.: 9997373725 
+Email ID: bhumivarshney03@gmail.com 
+
+                                                                        Objective 
+
+Encouraged creative thinking and motivated students by addressing individual strengths and 
+weaknesses       based on standardized testing results. 
+
+Work Experience 
+
+              Focus Edumatics, Pvt. Ltd.  
+
+  Online Tutor WFH Jan 2021 – April 2023 
+  Mentor Online tutoring April 2023 – July 2023 
+
+Education Qualification 
+  Post-graduate Diploma in Computer Programming from Aligarh Muslim University, Aligarh in 
+
+2020. 
+
+  B. tech (Electronics and communication engineering) from AKTU (SSLD Varshney 
+
+Engineering College), Aligarh with 68% in 2019. 
+Intermediate from Tika ram girls inter College, Aligarh with 78% in 2015. 
+ 
+  High School from Tika ram girls inter College, Aligarh with 75% in 2013. 
+
+Technical Skills 
+
+  Programming Language: C, C++, PYTHON, MYSQL 
+  Computer Networking: VLSI Technology, GSM Technology, Troubleshooting, 
+
+Microcontroller 
+
+  Computer Skill: MS-Excel, MS office, Power Point 
+
+  VLSI technology, Croma Campus, Pvt. Ltd., Noida (2018). 
+  GSM technology, IDEA, Noida (2018) 
+
+Internship Details 
+
+                                                                   Project Details 
+  Name of Project: Google assistant control home automation Duration: 02 March 2019 to 05 
+
+June 2019 (3 Months)  
+
+  Technology Used:  Micro-Controller Based 
+  Details of Project: In this project, Google assistant is AI (Artificial Intelligence) based on Voice 
+
+Command Service provide. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+               
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Project Overview 
+
+  Google assistant control home automation: Home appliances like Bulb, Fan and 
+Motored., can be controlled accordingly. The commands given through the Google 
+assistant are decoded and then sent to the microcontroller, the microcontroller in turn 
+control the relays connected to it. 
+
+Use of Google assistant control home automation: 
+
+  Download the Blynk app from google play store. 
+  Sign in using a valid E-mail address. 
+  Create a new project. 
+  Give a project name and choose Node MCU from choose device dropdown list. 
+
+Personal Qualities 
+
+  Excellent logical, analytical and computational skills. 
+  Ability to work individual as well as in team. 
+  Able to train new traines. 
+
+Personal Details 
+
+Date of Birth: 09.07.1999 
+Nationality: Indian  
+Gender: Female 
+Language s Known: 
+English, Hindi 
+Hobbies: Singing, Painting, Travelling & Cooking 
+PermanentAddress:57, Kishore Nagar, ITI road, Aligarh, 
+202001 
+
+DECLARATION: 
+
+I hereby declare that the information given above is true to the best of my knowledge and belief 
+and can be support  with reliable documents when needed. 
+
+Date 
+
+Place: 
+
+Bhumika Varshney 
+
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+

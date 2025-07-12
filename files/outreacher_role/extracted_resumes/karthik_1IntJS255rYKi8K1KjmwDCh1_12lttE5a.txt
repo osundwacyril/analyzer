@@ -1,0 +1,260 @@
+Karthik Raj 
+
+Krthkrj016@gmail.com 
+LinkedIn® Profile 
++91 7708281999 
+
+Dear Recruiter, 
+
+I am writing to express my strong interest in the Data Analytics and Business Analytics. With over one year of 
+
+experience as a Data Analyst at Course5 Intelligence, I have worked on diverse projects involving tools such as R 
+
+Shiny, Streamlit, and various data analysis techniques. 
+
+My contributions in predictive modeling, clustering, market basket analysis, data visualization, and exploratory 
+
+data analysis have honed my analytical skills. Notably, I excel at creating interactive web applications using R 
+
+Shiny and Streamlit, making data-driven insights accessible to end-users. 
+
+I am highly motivated to join your Organization, known for its innovative and data-centric approach to 
+
+problem-solving. My expertise in data cleaning, preprocessing, and generating actionable insights will allow me 
+
+to contribute effectively to your team. 
+
+I am aware of the significance of choosing a candidate who can excel in this role. Equally crucial is finding an 
+
+individual recognized for their collaborative, innovative, driven, and proactive approach, attributes consistently 
+
+associated with my professional profile. I trust that this letter has provided valuable insights and I genuinely 
+
+look forward to the possibility of engaging in further discussions about this opportunity. 
+
+Sincerely, 
+Karthikraj.K 
+
+Data Analyst 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KARTHIK RAJ, MBA 
+
+krthkrj016@gmail.com | LinkedIn® Profile | +91 7708281999 | 
+
+GitHub | Tableau | Kaggle 
+
+PROFESSIONAL SUMMARY 
+
+A data analyst and business analytic expert with a unique skill background and over one year 
+of work experience in analytics, consulting, data science, marketing and business 
+management. A thinker who is highly organized, analytical, enjoys solving problems, and 
+works well on teams. A hard- working curious professional who is motivated by opportunities 
+to make a real impact on analytics world. 
+
+FUNCTIONAL EXPERTISE 
+
+●  Working with and Analyzing Data 
+●  Data Cleaning and Preprocessing 
+●  Data Visualization 
+
+●  Marketing and Sales Strategies 
+●  Machine Learning 
+●  Customer Behavior Analysis
+
+                TECHNICAL SKILL’S 
+
+●  Python & R 
+●  Tableau & Power BI   
+●  Streamlit & R Shiny 
+●  SQL 
+●  Digital Marketing 
+●  Microsoft Office Tool’s 
+
+                WORK EXPERIENCE 
+
+COURSE5 INTELLIGENCE 
+
+2022—Present 
+
+Analyst 
+
+As an analyst, my primary responsibilities include collecting and cleaning data from various 
+sources, conducting statistical analysis and data visualization to derive meaningful insights, and 
+presenting these insights to support informed decision-making within the organization. I also 
+collaborate with cross-functional teams to ensure that data-driven strategies and solutions 
+align with business goals and objectives. 
+
+Programming in Python and R: I have proficiently programmed in both Python and R, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+utilizing these languages for data manipulation, statistical analysis, and machine learning 
+tasks to extract meaningful insights and develop data-driven solutions. 
+
+Machine Learning: I have hands-on experience in machine learning, where I've designed 
+and implemented various algorithms and models to solve complex problems, such as 
+predictive analytics, clustering, and classification, contributing to data-driven decision- 
+making processes. 
+
+R Shiny and Streamlit: I have developed interactive web applications using both R Shiny and 
+Streamlit, leveraging these frameworks to create user-friendly interfaces for data visualization 
+and analysis, facilitating easy access to insights for non-technical stakeholders. 
+
+ASCENT DECOR PVT.LTD(Internship) 
+
+OCT 2021 – DEC2021 
+
+Market Analyst Intern 
+A market analyst with a primary responsibility of transforming raw data into valuable insights, 
+which in turn supports the development of strategic plans and marketing plans. My experience 
+includes collaborating with both business analytics and marketing teams, enabling me to 
+contribute effectively to data-driven decision-making processes. 
+
+Working with and Analyzing Data: I have actively engaged in working with and analyzing data, 
+utilizing a range of tools and techniques to uncover trends, patterns, and actionable insights 
+that have contributed to data-driven strategies and solutions. 
+
+Data Cleaning and Preprocessing: I have performed data cleaning and preprocessing tasks, 
+which involved identifying and rectifying data inconsistencies, handling missing values, and 
+transforming raw data into a clean and structured format, ensuring the data's quality and 
+suitability for analysis. 
+
+Data Visualization: I have extensive experience in data visualization and preprocessing, 
+where I have created visually compelling charts, graphs, and interactive dashboards to 
+effectively communicate complex data insights to stakeholders. Additionally, I've 
+conducted data preprocessing tasks to prepare datasets for analysis, ensuring data 
+accuracy and relevance for decision-making processes. 
+
+EDUCATION 
+
+Masters of Business Administration (Business Analytics and Finance). CMR University 
+((Bangalore, Karnataka)(2020-2022) 
+
+Bachelors of Engineering (Electrical and Electronics).  Sri Shakthi Institute of  Engineering and 
+Technology (Coimbatore, Tamilnadu)(2015-2019) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFESSIONAL DEVELOPMENT CERTIFICATE 
+
+● Data Manipulation in Python-Udemy(Jan-2021) 
+
+● Statistics in Business Analytics-Udemy(Jan-2021) 
+
+● Data Science in R-Intellipaat(jun-2021) 
+
+● Microsoft Excel – Udemy (Jan-2021) 
+
+● Tableau-Udemy(Nov-2020) 
+
+● SQL-Udemy(Nov-2020) 
+
+RELEVANT PROJECTS 
+
+Project on R 
+
+Project 1: Movie Recommendation Engine Project 
+
+Industry: Entertainment Industry Problem 
+
+Statement: Recommend movies for users by User-Based Recommender System and Item-Based 
+Recommender System 
+
+Topics: In this R project, I have worked with Netflix Movies data. The project requires to 
+Analyze and recommend movies for users by User-Based Recommender System and Item- 
+Based Recommender System. 
+
+Roles and Responsibilities: 
+
+Analyzing data using dplyr package 
+Deploying Data Frame Manipulation 
+Train the model with more accuracy for recommending movie’s to end-user’s 
+
+Project 2: Market Basket Analysis Project 
+
+Industry: E-Commerce Industry 
+
+Problem Statement: To increase the cross-selling sales of ALL-MART company 
+
+Topic’s: In this R project, I have worked with ALL-MART Cross Selling product’s data. The project 
+requires to implement best association rules and find best cross selling product’s which 
+consumer choose often. 
+
+Roles and Responsibilities: 
+
+Analyzing transaction data using arules package in R 
+Implementing apriori algorithm 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identifing better association rule 
+
+Project on Python 
+
+Project 1: Predicting Customer Churn in Telecom Company 
+Industry: Telecommunications Problem Statement: How to increase the profitability of a 
+telecom major by reducing the churn rate 
+
+Topics: In this project, I have worked with the telecom company’s customer dataset. This 
+dataset includes subscribing to telephone customer’s details. Each of the columns has data on 
+phone number, call minutes during various times of the day, the charges incurred, lifetime 
+account duration, and whether the customer has churned some services by unsubscribing it. 
+The goal is to predict whether a customer will eventually churn or not 
+
+Roles and Responsibilities: 
+
+Deploy Scikit-Learn ML library 
+Develop code with Jupyter Notebook 
+Build a model using a performance matrix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

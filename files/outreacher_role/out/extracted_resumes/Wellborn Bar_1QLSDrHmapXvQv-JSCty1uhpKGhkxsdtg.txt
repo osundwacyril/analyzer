@@ -1,0 +1,145 @@
+Wellborn Bar 
+Email : barwellborn@gmail.com | GitHub : wellborn03 | LinkedIn: Wellborn 
+
+EDUCATION 
+Fr. Conceicao Rodrigues College of Engineering, Bandra 
+Bachelor’s in Engineering AI and Data Science(CS) – University of Mumbai 
+●  CGPA: 9.60 
+●  Relevant Coursework: Python, Java, Data Analytics and Visualization, Data Structures and 
+Algorithms, Operating Systems, DBMS, Computer Networks, Machine Learning, Web 
+Development, Cloud Computing, Statistics, Software Engineering and Project Management. 
+
+Mumbai, Maharashtra 
+               2024 
+
+Thomas Baptista Jr. College -  12th Grade Science 
+Science, Mathematics, Computer Science 
+●  Percentage: 87.3% 
+
+Vasai, Maharashtra 
+2020 
+
+WORK & LEADERSHIP EXPERIENCE 
+SAP ABAP Developer – Cognitus Consulting Mumbai – (June 24 – Currently) 
+
+•  Worked on Project of Employee Management System. 
+•  Learned Various SAP ABAP Technical Skills. 
+•  Had to make PowerPoint presentation, Business Model on my project. 
+
+Tools Used: SAP ABAP, SAP, SAP Editor, Eclipse 
+
+Software Development Engineer (SDE) Intern – ARCON Mumbai – (June 23 – Aug 23) 
+
+•  Had to work with Visual Studio and .net Applications. 
+•  Was trained on company’s product(PAM, SCM, SSO). 
+•  Had to understand the work flow of the code and write logs and draw flowcharts. 
+
+Tools Used: dot net, Visual Studio, C#, Miro Flowchart. 
+
+Data Science & Analyst Intern – CodeClause – April 2023 
+
+•  Had to complete 4 Task given by CodeClause. 
+•  Performed task like Email Spam Detection, Unemployment Analysis, Sales Prediction. 
+•  Used various ML algorithms like Decision Tree Classifier, Regression, SVM, etc. 
+•  Visualized the data using various Python libraries like Matplotlib and Seaborn. 
+
+Tools Used: Python, Jupyter Notebook, Pycharm, Machine Learning. 
+
+Data Science Intern – Oasis Infobyte – February 2023 
+
+•  Collected Data from various sources and performed data cleaning and data preprocessing. 
+• 
+Identified the suitable ML algorithm for the project. 
+•  Performed the given task and maintained the timeline. 
+•  Gained experience about what are roles of Data Scientist in a company. 
+
+Tools Used: Python, Jupyter Notebook, Pycharm, Machine Learning. 
+
+ML Engineer & Analyst Intern – MHM Education – Part time - June 2022 – July 2022 
+
+•  This was my first intership under guidance of Mr. Piyush Dave. I was thought about ML and 
+Data Visualization by him and later I had to work on a project to apply the skills that I learned. 
+
+•  Learned Basic Data Analytics and Visualization. 
+
+Tools Used: Python, Google Colab, Data Analysis. 
+
+ 
+ 
+ 
+ 
+ 
+Social Media Head – NSS CRCE – June 2021 – June2022 
+
+• 
+
+I was the incharge of social media accounts like Instagram, Facebook, Twitter and LinkedIn of 
+NSS(National Social Service) CRCE. 
+
+•  My role and responsibilities were to handle account, design poster for an event, click pictures of 
+
+offline events taking place. 
+
+•  Also, I was the host for Water Pollution Awareness session which was held online. I had to give 
+
+the introduction and conclusion for the session. 
+•  Learned most of my non-Tech skills from here. 
+
+Projects 
+AI Driven Traffic Light – June 2022 – May 2023 
+
+•  My Third-year Mini project which was to solve long time waiting hours in Traffic. 
+•  Learned and used technologies like OpenCV, Yolo Model, Object Detection, etc. 
+•  My system was able to switch traffic lights depending on traffic 
+•  Also have published research paper in IEEE IIT Delhi Conference 
+
+Tools Used: Python, Jupyter Notebook, Pycharm, Machine Learning, Yolo, OpenCV, Object Detection. 
+
+Object Detection Using OpenCV – April 2023 
+
+•  Made a system which could detect vehicle and its types like car, bus, truck, bicycle, etc. 
+•  Also used Yolo model for object Detection. 
+
+Tools Used: Python, Jupyter Notebook, Pycharm, Machine Learning, Yolo, OpenCV, Object Detection. 
+
+Online Banking System – June 2021 – May 2022 
+
+•  Created an online banking system for second year Mini Project along with Chatbot. 
+•  Used various Java, Nodejs and OOPS concept in the implementation. 
+•  Our Chatbot was able to solve and interact with our customers and solve their problems. 
+
+Tools Used: Java, OOPs, Nodejs, Chatbot Design. 
+
+SKILLS, ACTIVITIES & INTERESTS 
+Programming Languages: SAP ABAP, Python, Java, R, SQL, HTML5, CSS, JavaScript, C# and 
+C++(Basics). 
+
+Technologies: Generative AI (Chat GPT, Bard, Bing GPT, Copilot), Prompt Engineering, Numpy , 
+Sklearn, opencv, yolo, Pandas, Data Analysis and Visualization , PostgreSQL, Jupyter Notebook, 
+Pycharm,VScode, Dev C++, Canva. 
+
+Certifications & Training: 
+
+•  100 Days of Python Pro BootCamp 
+•  Data Analytics and Visualization 
+•  ML Algorithms 
+•  SAP ABAP Udemy Certification. 
+
+Activities: 
+
+•  Fast Learner and AI, ML and Data Science enthusiast. 
+•  Ranked 3rd (Bronze Medalist) in Engineering College. 
+•  Participated in various Hackathons and Competitive Coding Competitions. 
+•  Active Member of Church Youth group, organizing many events. 
+•  In addition to Cricket and Badminton I also like to play Table Tennis, Football, 
+
+Volleyball and Basketball and Athlete (long distance and sprinter). 
+
+•  Good Communication skills and fluency in English. 
+
+ 
+ 
+ 
+ 
+ 
+

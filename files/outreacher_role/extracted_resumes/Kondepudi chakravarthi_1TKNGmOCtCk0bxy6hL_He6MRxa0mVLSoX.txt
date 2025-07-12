@@ -1,0 +1,232 @@
+Kondepudi chakravarthi              
+
+Chakravarthi   
+
+  DevOps Engineer 
+
+Email:kondepudichakravarthi123outlook.
+com 
+Mobile no: 6304062885 
+
+                                                   Location   : Andhra pradesh 
+
+Genix Technologies.hyderabad     
+
+ DevOps Engineer , september 2021 – Present(2yearsexperience)                    
+
+ •  A competent DevOps/AWS Engineer with 2 
+
+year in Genix technologies. hands-on experience in automating and optimizing 
+mission critical deployments over infrastructure.  
+
+•  Responsible for implementation of branching methodologies.  
+•  Creating branches, tags and maintaining source code at the administration    
+level.  
+•  Extensively worked with Version Control System GIT.   
+•  Having good implementation Knowledge on Continuous integration tools 
+JENKINS.  
+•  Experience in creating master-slave setup for Jenkins.  
+•  Excellent knowledge in creating environment setup using DOCKER.  
+• Experience in creating development, testing, production environments using 
+docker compose.  
+
+ 
+ 
+                                                                                                                                           
+ 
+ 
+ 
+•  Having good knowledge on creating customized docker images based on 
+organization requirements using Docker files.  
+•  Knowledge on kubernetes.  
+•  Strong knowledge in remote management of servers using Configuration 
+management tool ANSIBLE.  
+•  Assist team members in build deployment receiving and running builds and . 
+troubleshooting issues to improve efficiency.  
+•  Hand-on experience in writing Ansible Playbooks.                                                         
+•  Managing amazon web service infrastructure with automation using 
+Terraform/cloudformation.  
+
+• Proficient in AWS services like VPC, EC2,S3,ELB,AutoScalingGroups(ASG 
+
+•  Experienced in creating multiple VPC’s and public, private subnets as per 
+requirement and distributed them as groups into various availability zones of the 
+VPC. 
+•  Created S3 buckets in the AWS environment to store files, sometimes 
+which are required to serve static content for a web application.  
+•  Possess good knowledge in creating and launching EC2 instances using AMI’s of 
+Linux, Ubuntu, and Windows and wrote shell scripts to bootstrap instances.  
+•  Used IAM for creating roles, users, groups and also implemented MFA to 
+provide additional security to AWS accounts and its resources.  
+•  Implemented domain name service (DNS) through route 53 to have highly 
+available and scalable applications.  
+•  Maintained the monitoring and alerting of production and corporate servers 
+using Cloud Watch service.  
+•  Created EBS volumes for storing application files for use with EC2 instances 
+whenever they are mounted to them.  
+• Experienced in creating RDS instances to serve data through servers for 
+responding to requests. 
+•  Created snapshots to take backups of the volumes and also images to store 
+launch configurations of the EC2 instances.   
+•  Written Templates for AWS infrastructure as a code using Terraform to build 
+staging and production environments. 
+
+ SKILL SET : 
+           Version control tool 
+
+                Git , Github   
+
+  
+                                                                                                                  
+ 
+                  CI/CD Tool  
+          Infrastucture creation Tool  
+                      OS 
+     CONTAINERIZATION Tool 
+                CM Tool 
+   CONFIGURATION MANAGEMENT Toll 
+       CLOUD TECHNOLIGIES 
+EDUCATION: 
+
+         ● B.com - AKNU rajahmundry 
+Project : 1 
+
+                           Jenkins 
+                        Terraform  
+              Linux&windows  
+                        Docker  
+                  Kuberneties  
+                   Ansible 
+                     AWS , Azure  
+
+ Project Name                    : Toronto-Dominion Bank (TD) Group 
+
+ Environment                      : Java  
+
+Application Server            : Tomcat  
+
+Versioning Control Tools : GIT  
+
+ CI Tool                               : JENKINS 
+
+ Role                                   : Terraform administrator. 
+
+ Client : Barclays 
+
+ Role    : Build & Release Engineer. 
+
+ Synopsis: The Toronto-Dominion Bank is a Canadian multinational banking and financial services 
+corporation headquartered in Toronto. Here we have multiple banking applications for build and 
+deployment.I have been supported for both core and non-core banking applications for the release 
+management process. 
+
+ Roles and Responsibilities: • Driving industry best practice implementation around CI/CD and 
+infrastructure management            
+
+•            Written manifests to customize the Ansible as per our environment.  
+
+•           Manage the configurations of multiple servers using Ansible.  
+
+•           Integrated the Ansible playbooks with Jenkins.  
+
+•            Having good exposure in Jenkins for CI (Continuous Integration).  
+
+•           Administered version control system that included  branching and merging .        
+
+ 
+ 
+•          Responsible for creating and developing the build process environment.  
+
+ •          Hands-on experience in Amazon Web Services (AWS) provisioning and good knowledge of  
+
+           AWS services like EC2, Elastic Load-balancers, S3, RDS,Route53, IAM, Elastic Search. 
+
+ •         Launching Amazon EC2 Cloud Instances using Amazon Web Services (Linux/ Ubuntu) and                                 
+configuring launched instances with respect to  specific  applications.  
+
+•         Defined AWS Security Groups which acted as virtual firewalls that controlled the traffic allowed  
+
+           reaching one or more AWS EC2 instances 
+
+ •         Hands-on in writing the Docker files for building images                                                          
+
+•           Containerizing applications with Docker  
+
+•          Developing build and deployment pipelines using Jenkins, Maven for Java applications Strong  
+
+            working knowledge on GIT. 
+
+•           Following SCRUM (SDLC) model. 
+
+Project: 2   
+
+ E-Commerce online shopping Application-Jio Mart  
+
+Service Line/Areas : K8s MicroService Application creation and deployment  
+
+Role : k8s Administrator/Dev  
+
+Client : Cultmode 
+
+ Project Description:  
+
+  Jio mart is an Indian online grocery delivery service as a joint venture between Reliance Retail and     Jio 
+platforms .jio mart delivers grocery and daily essentials from nearby stores.  
+
+Roles and Responsibilities:  
+
+           ●      Provide the solution to create my application with microservices base architecture.  
+
+           ●     Responsible for creating a Git Repository setup for our Development team.  
+
+          ●     Responsible to create a Kubernetes Cluster and Manifests files like Deployment and Services  
+
+          ●     Configured the flow of CI and CD via Jenkins and setup the environment with the Dockerfile.  
+
+         ●       Involved into the planning to take the decision to choose a CI and CD for our application. 
+
+         ●      Configured the Docker based application and Deployment users as per business Requirements.                         
+●      Responsible for configuring Jenkins Job for the Requirement. 
+
+                                                                    
+ 
+         ●       Invented better ways to use Jenkins application for CI and CD.  
+
+        ●        Documented the full process of Automation and provided the KT to the QA team to use       
+
+                    Jenkins Job. 
+
+        ●         Participated in on-call rotation to han ndle production outage incidents. 
+
+            PERSONAL SUMMARY 
+
+             Good Communication Skills,Cooperate with Team members,Maintain a Healthy and Safety                                   
+Environment & Quick Learner, Adaptability to different environments,Hard working nature and                      
+friendly nature & Self motivated,Work freely under pressure 
+
+ PERSONAL PROFILE Name : k.chakravarthi 
+
+ Father Name                        : k.srinu 
+
+ Gender                                  : Male  
+
+Languages Known                : English and Telugu.  
+
+Mobile no                               : + 91 6304062885. 
+
+ DECLARATION  
+
+I hereby declare the above particulars are true to the best of my knowledge. 
+
+ PLACE:  
+
+DATE:                                                                                                                                    ( K.chakravarthi 
+)                                                                                                                                                                                           
+
+ 
+ 
+ 
+ 
+ 
+ 
+

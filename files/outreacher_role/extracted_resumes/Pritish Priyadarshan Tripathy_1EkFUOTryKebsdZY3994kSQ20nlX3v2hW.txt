@@ -1,0 +1,163 @@
+Pritish Priyadarshan
+Tripathy
+
+pritishtripathy.cse@gmail.com
+
+91 7377146071
+
+Bhubaneswar
+
+EDUCATION
+
+B.Tech, Computer Science & Engineering
+
+Kalinga Institute Of Industrial Technology
+
+2019  2023
+
+CGPA 8.02/10
+
+Senior Secondary (XII, Science
+
+Seven Hills Residential School
+
+CBSE board)
+
+Year of completion: 2017
+
+Percentage: 63.75%
+
+Secondary (X
+
+Indian Public School
+
+CBSE board)
+
+Year of completion: 2015
+
+CGPA 9.00/10
+
+TRAININGS
+
+Machine Learning
+
+Internshala Trainings, Online
+
+Jun 2023  Present
+
+Data Science
+
+Internshala Trainings, Online
+
+May 2023  Jun 2023
+
+Web Development
+
+Internshala Trainings, Online
+
+Apr 2023  Jun 2023
+
+Successfully completed a 8 weeks online certified training on
+Web Development. The training consisted of HTML, CSS,
+Bootstrap, DBMS, PHP, JS, React, and Final Project modules.
+In the final assessment, I scored 62% marks.
+
+Core Java
+
+Internshala Trainings, Online
+
+Jan 2023  Feb 2023
+
+PROJECTS
+
+Python Correlation Project
+
+Jun 2023  Jun 2023
+
+https://github.com/webstackedcoderOwO/python_correlatio
+n-project
+
+In this project we will be working in Python to find correlations
+between variables and to answer some Specific Questions
+regarding different types of Correlation between different
+Columns of the Dataset
+
+Netflix Shows Case Study
+
+Mar 2023  Mar 2023
+
+https://github.com/webstackedcoderOwO/netflix-shows-
+case-study
+
+In this Project, We will know how to work on a Case Study of
+Netflix with Python. Questions are Solved in the project and
+then solved with the help of Python. It is a project of Data
+Analysis with Python or Data Science with Python.
+
+End to End Heart Disease Prediction and Visualization
+Project
+
+Nov 2022  Dec 2022
+
+https://github.com/webstackedcoderOwO/heart-disease-
+classifcation-project
+
+This Project Notebook checks wheather a person has Heart
+Disease or not by using different Python Libraries such as
+Numpy, Pandas, Matplotlib and scikit-learn and predicting
+the heart disease with the help of their medical conditions or
+attributes.
+
+Python
+
+Intermediate
+
+SQL
+
+Intermediate
+
+Java
+
+Beginner
+
+MongoDB
+
+Beginner
+
+C Programming
+
+Intermediate
+
+Data Science
+
+Intermediate
+
+Machine Learning
+
+HTML
+
+Beginner
+
+CSS
+
+Intermediate
+
+ReactJS
+
+Intermediate
+
+Intermediate
+
+JavaScript
+
+Intermediate
+
+SKILLS
+
+WORK SAMPLES
+
+GitHub profile
+
+https://github.com/webstackedcoderOwO
+
+

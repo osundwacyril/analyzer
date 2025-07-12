@@ -1,0 +1,106 @@
+S A I   K A M A L   C  
+
+L I N U X   &   A W S   E N G I N E E R  
+
+C O N T A C T
+
++91-9642782952
+
+saikamal9472@gmail.com
+
+Anantapur, Andhra Pradesh
+
+S O F T   S K I L L S
+
+Critical Thinking
+
+Time Management 
+
+Problem Solving
+
+Team work
+
+E D U C A T I O N
+
+Bachelors in Science | 6.7 CGPA
+Reva University 
+
+2019 - 2022
+
+Board of Intermediate Edu. | 5.3CGPA
+Narayana Junior College 
+
+2017-2019
+
+Board of Secondary Edu. | 7.3 GPA
+St. Vincent De Paul School 
+2016 - 2017
+
+L A N G U A G E S
+
+English
+Telugu 
+
+P R O F I L E
+
+As a recent graduate specializing in Linux systems administration and
+AWS, I possess a strong foundation in deploying and maintaining Linux
+environments. My hands-on experience includes essential Linux
+commands, shell scripting, and troubleshooting. With practical knowledge
+of AWS services such as EC2, S3, and VPC, I am eager to contribute as a
+Linux and AWS Engineer, bringing a commitment to excellence and
+adaptability to dynamic IT environments.
+
+P R O F E S S I O N A L   S K I L L S
+
+LINUX SKILLS 
+
+Knowledge in booting and shutdown procedure.
+Good knowledge of File system management and ACL.
+trouble shooting Linux, User and Group Management, having knowledge of
+Creating LVM. 
+Installation and up gradation of OS, Kernel and additional packages using RPM
+and YUM.
+Configuring crontab and scheduling the jobs. Having knowledge to give file
+permission.
+Having knowledge in making link. 
+
+AWS SKILLS 
+
+Installed and setup Web Servers  ( Niginix )
+Worked on Amazon Web Services ( EC2, ELB, VPC, S3, Cloud Front, IAM, RDS,
+Route 53, Cloud Watch, SNS )
+Setup/ managing Linux Services on Amazon (EC2, EBS, ELB. Security Groups,
+RDS and IAM ) Setup/ Managing VPC, Subnets.
+Blocking suspicious ip/subnet via ACL.
+Create/management buckets on S3 (CLI) and store db and logs backup
+Establishing peering connections for VPC’s.
+Creating/ Managing DNS records on Amazon route 53 and godaddy panel.
+
+C E R T I F I C A T E S  
+
+Linux and AWS
+Certified Linus, AWS(Cloud computing ) at Besant Technologies.
+
+Data Analysis for Biologists 
+
+Certified by NPTEL.
+
+P R O J E C T S  
+
+Static Web Hosting 
+
+Developed and deployed a static website using web development and
+hosting technologies using HTML, CSS cloud services for a seamless
+online presence. 
+
+Data Backup & Recovery 
+
+Implemented  auto backups for an ec2 instance and created a
+automated disaster recovery plan using AWS services. 
+
+Course completed at Besant Technologies 
+
+Hebbal, Bangalore
+
+

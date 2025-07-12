@@ -1,0 +1,73 @@
+LinkedIn | Project-Portfolio | Github | girishswami345@gmail.com | +91 8452974349 | Mumbai - 65, Maharashtra
+
+Girish Prabhaya Swami
+
+·Amazon Web Services (AWS) · AWS Cloud Practitioner Certified · Cloud Computing · DevOps · Linux
+· SDLC ·Web Technologies · SQL · Python · HTML · GitHub · Android Studio · Wordpress · Microsoft Office
+
+CAREER SYNOPSIS
+
+❖ In Spite of being a newcomer to the Professional world, I have already achieved some notable academic accomplishments.
+❖ By collaborating Effectively and Solving problems, I have also contributed to the success of Group Projects.
+❖ I held Leadership Positions in Student Organizations, organizing events that attracted Positive Feedback and participation
+❖ I look forward to applying my Organizational, Communication, and Teamwork skills to a Professional World.
+
+EDUCATION
+
+❖ B.E FromVidyalankar Institute Of Technology, Mumbai Maharashtra
+❖ Diploma (I.T) From Kala Vidyamandir Institute Of Technology, Mumbai Maharashtra
+❖ SSC From Sri Sathya Sai Vidyamandir, Mumbai Maharashtra
+
+Aug 2019 To Aug 2022
+Aug 2016 To June 2019
+Aug 2015 To Aug 2016
+
+CERTIFICATIONS & AWARDS
+
+❖ AWS Certified Cloud Practitioner
+❖ AWS Cloud Quest
+❖ Introduction to Generative AI
+
+By Amazon
+By Amazon
+By Google
+
+TECHNICAL SKILLS
+
+❖ Development Methodologies:
+
+Agile, Waterfall.
+
+❖ AWS Cloud Services:
+
+IAM, EC2, S3, RDS, VPC, AWS Lambda, DynamoDB, Route 53.
+
+❖ Operating Systems:
+
+Windows, Linux.
+
+❖ Programming Languages:
+
+Python, Java, Web Technology (Wordpress, HTML5, CSS3).
+
+❖ Database Technologies:
+
+MYSQL, Amazon RDS, Amazon Aurora.
+
+❖ Version Control:
+
+GitHub , AWS Documentation.
+
+PROJECTS
+
+❖ AWS - Create And Host A Wordpress Website On AWS EC2 ( Project Link )
+
+Objective : Built a Wordpress website on AWS EC2 with the goal of creating a powerful online presence.
+Skills Required : Wordpress, PHP, EC2, IAM, RDS, Ubuntu.
+
+❖ AWS Three-tier Web Application ( Project Link )
+
+Objective : Using AWS Services, I have Deployed a high availability Three-Tier Web Application.
+Skills Required : Wordpress, PHP, EC2, IAM, RDS, Ubuntu.
+
+

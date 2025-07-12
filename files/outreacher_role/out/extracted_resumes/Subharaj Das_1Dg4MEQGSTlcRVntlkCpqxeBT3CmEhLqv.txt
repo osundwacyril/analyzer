@@ -1,0 +1,62 @@
+Subharaj Das
+
+PROFILE
+
+Odisha, India
+
++91-9937946927
+
+subharaj.das@yahoo.com
+
+LinkedIn
+
+Email marketing professional with over 4 years of experience in end-to-end campaign
+execution process: content strategy, creative briefing, scheduling, creative development,
+review, QA, deployment, and reporting. Strive for accuracy and timeliness in these efforts.
+Experience
+
+MARCH 2021 – JUNE 2023
+Email Marketing Specialist (TriunityGroup), India
+
+ Develop and execute email marketing campaigns for clients using marketing automation
+
+platform SaaS.
+
+ Designed and build responsive and mobile-friendly email templates using HTML and
+
+CSS or email designer tools and worked on fixing performance issues.
+
+ Create segmentation strategies to improve targeting and increase engagement.
+ Conduct A/B tests to optimize email templates, subject lines, and calls-to-action.
+ Analyze campaign performance data and provide actionable insights to improve results.
+ Provide guidance, and feedback to the team to ensure successful campaign delivery.
+ Collaborate with the cross-functional team to understand client needs and goals, and
+
+develop email marketing strategies to achieve them.
+
+ API integration with Amazon SES, Sendgrid API, Sparkpost, jetsend, Mailjet, and Mailgun
+
+and mail send through them.
+
+JUNE 2018 - DECEMBER 2019
+
+Kalinga Software Pvt.Ltd, Bhubaneswar, India
+
+ERP implementation Eng.- (Data Migration,Bug Fix, Train to Faculty,Helping Dev.Team)
+Skills
+ Salesforce Marketing Cloud (SFMC)
+ Campaign Management
+ Email Template Designs(HTML,CSS,Designing TOOL)
+ Marketing Automation
+ A/B Testing
+ Customer Engagement
+ CRM (SFMC, Klaviyo, Mailchimp, Hubspot ,etc..)
+ ESP integration (Sendgrid , Sendinblue, Mailchimp)
+ MS Office (Word, Excel & PPT)
+
+Education
+
+JUNE 2018
+B.tech(CSE), Nalanda Institute of Technology, Bhubaneswar, Odisha
+
+

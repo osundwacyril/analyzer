@@ -1,0 +1,66 @@
+Pinto Priya Jerald
+6364324121  |  pintopriya10@gmail.com
+ https://github.com/priya201002
+ https://www.linkedin.com/in/priya(cid:0)pinto-945b07249
+
+Objective
+
+Highly Skilled software Engineer, looking forward for a solid start and opportunity to exhibit my skills, enhance my
+knowledge and contribute to the organization's growth. Aiming to help make a difference and to contribute my
+abilities to succesfully achieve the goals of an esteemed company.
+
+Trainings
+
+•Participated on series of hands-on workshops on Microservices and Git,
+conducted by Unicourt.
+•Praticipated on hands-on workshop based on Android Development, conducted
+by Techfest,IIT Bombay.
+•Participated on 2-days Hands on session on Process Mining using Execution
+Management System. 
+
+Certiﬁcations
+
+•Process Mining using Execution Management System - Celonis
+•Cyber Security - 1Stop
+•Prepleaf Coding Carnival - Prepleaf
+•Android Development - Techfest, IIT Bombay
+•MATLAB Onramp- MathWorks
+•Fundamentals of Digital marketing-Google
+
+Education
+
+Mary Matha Bethany public school
+SSLC
+79%
+
+ST.Agnes Pre-University College manglore, Karnataka
+PUC
+66℅
+
+St Joseph engineering College, Karnataka
+BE in computer science
+7CGPA
+
+Skills
+
+2018
+
+2020
+
+2024
+
+Technical Domains: Data Analytics, Cloud Computing, Data Structures. Programming Languages: Java, C, C++,
+Python,MySQL, PHP. Web •Cyber Security - 1Stop •Fundamentals of Digital marketing-Google Development:
+HTML, JavaScript, CSS Interpersonal Skills: Leadership, Team Worker, Public speaking.
+
+Projects
+
+Movie Seat Reservation System
+A software developed for users to handle the seat reservation system for their
+customers in movie theaters.
+•Front-end: HTML, CSS and PHP
+•Back-end: MYSQL
+•Team Size: 2 members
+•Duration: 2 months
+
+

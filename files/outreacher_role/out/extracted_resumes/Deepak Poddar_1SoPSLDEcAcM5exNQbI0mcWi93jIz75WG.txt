@@ -1,0 +1,60 @@
+Deepak Poddar
+
++919162291443 | deepakpodar836@gmail.com | Kolkata, West Bengal
+
+Summary
+
+Web Development, Digital Marketing and Graphic Designing
+
+Skills
+
+HTML5, CSS3, JavaScript, Bootstrap, JQuery, NodeJS, ReactJS, ExpressJS, MongoDB, SQL, REST API, Git, SEO, Social
+Media Management, UI Design
+
+Education
+
+Sister Nivedita University | Kolkata, West Bengal
+BTech in Computer Science And Engineering | 06/2023
+CGPA: 8.55/10
+
+Trinity International College
+Science | 04/2019
+CGPA: 3.45/4.00
+
+Personal Projects
+
+News Website (12/2021 - 01/2022)
+A simple website which tells the latest news of any data input in it. I have used Context API for data fetching. I have used
+react hooks to make it responsive.
+HTML, CSS, Bootstrap, ReactJs
+
+Weather.io (05/2022 - 05/2022)
+A website which tells the current weather of the city by fetching the data from the API. I have
+used API from open weather.
+HTML, CSS, JavaScript, Bootstrap, Node Js, Express Js, API
+
+Simple Static Portfolio Website (02/2022 - 02/2022)
+simple basic portfolio website describing about me and my skills. It is one of my practice projects to be more confident in
+coding java script. It is hosted on netlify.
+HTML, CSS, JavaScript
+
+Certificates
+
+Barclays Skills Certificate (08/2021 - 12/2021)
+Full Stack Development (Training by College) (06/2022 - 10/2022)
+Udemy SQL Course (05/2022 - 05/2022)
+
+Languages
+
+English, Hindi
+
+Accounts
+
+Github: github.com/deepakpddr
+
+LinkedIn: https://www.linkedin.com/in/deepak-poddar-
+1563662a7utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Portfolio: www.depakportfolio.netlify.app
+
+

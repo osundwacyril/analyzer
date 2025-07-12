@@ -1,0 +1,106 @@
+Sunitha S
+Software Engineer
+7899673496  |  sunithasrsa@gmail.com
+
+Summary
+
+Attending & Contributing to company development meetings.
+Learning the codebase and improving coding skills.
+Design, build,test,support and conﬁgure application using business requirements.
+Working on minor bug ﬁxes.
+Writing testcases and reports.
+Good analytical and problem solving skills.
+
+Experience
+
+Allvy software solutions (March 2022- Present).
+Webblitz Softwares (intern)(Feb 2021-Aug-2021).
+
+Projects
+
+Project 1: Allvy Software Solutions
+Software Engineer
+Project Title: ERP for Municipal Administration.
+Client. : Corporation of AP.
+
+Project Discription :
+
+Property tax Module Containing tax calculation, demand bill generation, notice, transfer of ownership,
+bifurcation, revision petition, collection of tax in different modes and maintenance history of the property.
+Environment: spring, oracle and wildly server.
+
+Responsibilities :
+
+Attending meetings, performing all practical and administrative duties assigned by the supervisor.
+Learning on SDLC 
+Installing and conﬁguring software system.
+Application presentation logic using html,jsp.
+Writing reports and testcases.
+Executing establish test palns and protocols for assigned portion of code.
+
+Project 2: Webblitz Softwares
+Software intern
+Project: Hyper- Heuristic For Big Data In Cyber-Security. 
+
+Project Discription:
+
+In this project user can search for data, update details ,adding the bigdata ﬁles control cyber hacking. Admin
+Approved Users: In this system users are not allowed to access resources simply.Security Steps and Uploading
+the ﬁles and Resource Access on ﬁles. 
+Environment: pycharm,sql and Apache server.
+
+Responsibilities:
+
+Completed tasks efﬁciently with less than 5 iterations. 
+Communicated effectively across multiple stakeholders.
+Performed hardware/software troubleshooting.
+Executing test plans and reports.
+
+-
+
+-
+
+Project 3: Academic project
+Face cam attendence system
+ project description : once user can register with name and id number through the camera , next time it will
+capture the image,the faces are detected and the it is recognized your face update the attendance.The
+attendance will store in Excel sheet with time and date.
+Environment: ML,AI,sql
+
+-
+
+Skills
+
+Core java.
+Html,Css,jsp
+Sql, oracle
+Manual testing.
+
+Education
+
+MCA, Cambridge institute of technology, Bangalore. (2021) with 75%.
+
+Bsc(CS) ,Govt women college, Chintamani(2017) with 56%.
+
+PUC Govt. Girls junior College, Chintamani(2013) with 56%.
+
+10th, Govt. Girls High School, Chintamani(2011) with 67%.
+
+Language
+
+English, Kannada, Telugu.
+
+Others
+
+Certiﬁed Java and manual testing from kodnest.
+Certiﬁed sql and selenium from great learning.
+
+Declaration
+
+I hereby that the information and facts mentioned above are true to the best of my knowledge.
+
+Place:
+Date:                        
+                                                                                                                                                                        Sunitha S
+
+

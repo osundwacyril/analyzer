@@ -1,0 +1,205 @@
+Rama Nallanagula
+
+nrama2001@gmail.com
+
++91 7569830006
+
+Hyderabad
+
+EDUCATION
+
+Bachelor of Technology (B.Tech), Computer Science
+& Engineering
+
+MLR Institute of Technology
+
+2019 - 2023
+
+CGPA: 8.34/10
+
+Senior Secondary (XII), Science
+
+Rajadhani High School
+
+((TELANGANA STATE BOARD OF INTERMEDIATE
+EDUCATION BOARD) board)
+
+Year of completion: 2019
+
+Percentage: 95.00%
+
+Secondary (X)
+
+SSC BOARD BOARD board
+
+Year of completion: 2017
+
+Percentage: 92.00%
+
+WORK EXPERIENCE
+
+Audio Veriﬁcation - (Hindi/Telugu) Internship
+
+Internshala, Virtual
+
+Internship • Aug 2023 - Present (7 months)
+
+I need to verify the audios and select whether it is a male
+voice or female voice in a very less time(fraction of
+seconds).
+
+Website Designer
+
+Revanur Information Technology Services And Solutions
+PVT LTD, Virtual
+
+Internship • Dec 2021 - Jan 2022 (1 month)
+
+I have designed the websites according to the clients
+requirement using web Technologies and I have learnt
+how to fulﬁll the client requirements and gained the
+practical knowledge .
+
+TRAININGS
+
+Front-end Development
+
+NxtWave, Online
+
+Jul 2021 - Present
+
+I have opted this training to learn Front-end development
+and design websites. So far i have learnt HTML, CSS,
+JavaScript, Bootstrap, Responsive web design using
+Bootstrap grid system.
+
+Salesforce
+
+Salesforce, Online
+
+May 2021 - Present
+
+In Salesforce I actually learnt how to create Dashboards,
+Reports and also i am skilled in CRM, General, Reporting.I
+have gained 33 badges, 19,075 points in salesforce.
+
+PROJECTS
+
+Todo Application
+
+Jan 2022 - Feb 2022
+
+https://applicationtd.ccbp.tech/
+
+Generally, in this application we can create the task and
+after completion of the
+tasks we can remove them as well. I have also used
+client-side data storage mechanisms to persist the data
+even on reloading technologies are HTML, CSS, Bootstrap,
+JS
+
+Counter Application
+
+Dec 2021 - Jan 2022
+
+https://capplication1.ccbp.tech/
+
+I have included three buttons Increase, decrease, reset
+and I have also
+maintained the colors for each button green for increase,
+black for reset, red for decrease. I have developed this
+application using HTML, CSS, Bootstrap, JS.
+
+Cat on-oﬀ Webpage
+
+Oct 2021 - Nov 2021
+
+https://jsonof1.ccbp.tech/
+
+It is the simple dynamic page. I have used HTML DOM so
+that I can manipulate
+HTML, CSS using JavaScript. I have developed this using
+HTML, CSS, Bootstrap, JS. I have made the switches to
+listen the user actions and work accordingly.
+
+Food Munch Webpage
+
+Sep 2021 - Oct 2021
+
+https://fmunch1.ccbp.tech/
+
+It is a single page with diﬀerent sections. I have
+developed this using HTML,
+CSS, Bootstrap, Responsive Web Design. I have also used
+Bootstrap utilities such as Modal, Order class names,
+Display utilities, Shadow utility, Sizing utility.
+
+Tourism Website
+
+Jul 2021 - Aug 2021
+
+https://twebsite2.ccbp.tech/
+
+Tourism Website is a combination of diﬀerent tourist
+places which gives glance about the places. I have
+developed this using HTML, CSS, Bootstrap.
+
+SKILLS
+
+HTML
+
+CSS
+
+Advanced
+
+Bootstrap
+
+Intermediate
+
+Python
+
+Intermediate
+
+Java
+
+Beginner
+
+MS-Excel
+
+Intermediate
+
+Intermediate
+
+JavaScript
+
+Intermediate
+
+C Programming
+
+Intermediate
+
+Database
+Management System
+(DBMS)
+
+Intermediate
+
+ADDITIONAL DETAILS
+
+Stood First in 10th class.
+
+I have attended 4.0 Tech skills Online Bootcamp
+(https://certiﬁcates.ccbp.in/4-0-tech-bootcamp?
+id=BUEYU7TTUR)
+
+Certiﬁed in Artiﬁcial Intelligence(AI) - Coursera
+
+Participated in Quiz competition on C programming -
+Gudlavalleru Engineering College
+
+C for Everyone-coursera
+
+Participation certiﬁcate in Modifest event
+(hackathon)which was conducted by our college
+
+

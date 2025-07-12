@@ -1,0 +1,141 @@
+AKHILA K 
+
+Mobile No: +91- 9353556799 
+
+Gangavathi, Karnataka India 
+
+E-mail Id:akhilakaturi24@gmail.com 
+
+  Objective 
+
+Looking  for  a  position  as  a  Software  Engineer  in  a  dynamic  firm  that  values  my  analytical  and 
+technical skills and provides scope for updating my knowledge, I seek a company that will help me 
+contribute to its development while concurrently aiding my personal growth. 
+
+  Education 
+
+•  Bachelor of Engineering (B.E.) : Rajarajeswari College of Engineering, Bangalore, India – 87% 
+•  PUC : Sri Taralabalu Jagadguru PU College, Karnataka, India – 81.3% 
+•  SSLC: Sri Vidya Niketan Public School, Belgaum, Karnataka, India – 96% 
+
+ Work Experience: 
+Organization: Tequed Labs. 
+Duration: Dec-2022 to Apr-2023 
+Designation: Intern 
+Title: Stock Price Prediction(AIML) 
+
+•  Stock market prediction project aims to prevent investor losses and promote a healthier market through accurate 
+
+stock price prediction. 
+
+Organization: Raise digital. 
+Duration: Dec-2022 to Jan-2023 
+Designation: Intern 
+Title: E-commerce website(Web development) 
+
+It was a general E-commerce website which was built using HTML,CSS and JavaScript. 
+
+• 
+•  The Website was connected to the PayPal payment gateway. 
+•  The purpose of developing this project is to perform different banking services online like transaction, 
+
+balance enquiry, withdrawal, and feedback. 
+
+  Technical Proficiency 
+Skill Sets: 
+Programming Languages: 
+1.  Python 
+2.  Sql: Structure of tables, Constraints, Functions, Clauses, Subqueries and Er-Diagram. 
+3.  Html: Tags, Links and images, Multimedia, Tables, list and Forms. 
+4.  Css: Selectors, Borders, Padding, Animations and transitions. 
+5.  Basic  Java:  Good understanding of  OOP’s  Concepts:  Encapsulation, Polymorphism, Inheritance and 
+
+Abstraction, 
+
+Certifications: 
+
+1.  Full Stack Web Development Certificate (Raise digital). 
+2.  Programming for Everybody (Getting Started with Python)- COURSERA(UNIVERSITY OF MICHIGAN). 
+3.  Python for Beginners (SkillUp). 
+4.  Certified for participating in E-Commerce & Tech Quiz of Flipkart GRID 4.0. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Academic Projects 
+
+Project 1: Title: "College event management system” 
+
+•  Almost all IT application are storing and retrieve or extracting information from databases. 
+•  To retrieve the information, one has to be used the Structured Query Language (SQL) for relational database 
+
+systems. 
+
+•  Built a web app for the college using PHP as backend and HTML and CSS as frontend and MYSQL as database. 
+
+Project 2: Title: "My Schedule reminder" 
+
+•  Android application that can remind us of any task we mark on it. It can be like reminding us about a meeting, 
+
+time to pay any bill etc. 
+
+•  Schedule reminder android applications available today on play store providing static notification to user before 
+
+a specified interval of time. 
+
+Project 3: Title: "Day and night view of sea” 
+
+•  The main aim of Day and night sea view in comptlter graphics is to illustrate the concepts and usage of pre-built 
+
+functions in OpenGL. 
+
+•  The program aimed at Creating a virtual scene where the graphics showed a sea with its background changing 
+
+from day and night. 
+
+MAJOR PROJECT: 
+
+Title: AuthPrivarcyChain: A BLOCKCHAIN  BASED ACCESS  CONTROL FRAMEWORK  WITH  PRIVACY 
+PROTECTION IN CLOUD : 
+
+•  The main aim of the project is to secure data which is stored in cloud. 
+•  To prevent data from insider and outsider attacks in cloud. 
+•  To provide high security of our data using blockchain technology. 
+
+Personal Skills 
+
+•  Assertive at work and maintain effective work/life balance. 
+•  Effective in working on team projects. 
+•  Always curious to face new things. 
+•  Faith and satisfaction with work done. 
+•  Ability to meet tight deadlines and work under pressure 
+
+Declaration: 
+
+I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the 
+correctness of the above-mentioned particulars. 
+
+Place:  Gangavathi 
+
+(AKHILA K) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

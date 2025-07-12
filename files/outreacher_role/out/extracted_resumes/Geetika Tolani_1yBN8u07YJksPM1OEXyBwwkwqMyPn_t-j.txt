@@ -1,0 +1,103 @@
+GEETIKA TOLANI  
+DATA  ANALYST 
+
+geetikatolani048@gmail.com | +91- 9970811338 | 
+
+CAREER   OBJECTIVE  
+
+Dedicated and detail -oriented computer science graduate seeking an entry – level Data 
+Analysis and programming skills and contribute to data – driven decision making .Highly 
+educated ,innovative ,and motivated data analysis professional with a wealth of knowledge. 
+seeking a challenging and career- advancing position as a junior data analyst with Tech Firefly. 
+
+EDUCATION AND CERTIFICATION  
+
+Bachelors of Technology (Computer Science) | CGPA 8.88                                         2019-2023 
+
+Watumull Institute of Electronic Engineering and Computer Technology  
+
+Excel R  
+
+Data analytics – Certification  
+
+SKILLS 
+
+Data gathering and extraction  
+
+Data visualisation 
+
+Data integration  
+
+Extract ,Transform  and load (ETL) 
+
+Advanced excel  
+
+Power bi  
+
+Tableau  
+
+SQL  
+
+Python  
+
+STRENGTHS 
+
+Analytical thinking       :  proficient in data analysis  
+
+Communication skills : ability to articulate complex data problems  
+
+Problem-solving skills : adept at solving /standard problems  
+
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+                        
+  
+PROJECTS : 
+
+1)  SALES DASHBOARD USING EXCEL : 
+
+sales dashboard is very beautiful and informative dashboard. In the single page the    
+Maximum  information has been covered . product level comparison section is very 
+useful to  analyse and compare month on month for different metrics .The dashboard 
+has been designed specially for sales process ,small pictures ,spark lines and dynamic 
+chart make it more beautiful . 
+
+2)  HR ANALYTICS DASHBOARD USING POWER BI : 
+
+ The HR analytics dashboard is a power tool designed for HR professional to derive 
+and understand employee attrition patterns with an organisation .this comprehensive 
+power BI solution provides insights into attrition rates ,active employee counts , and 
+attrition trends based on gender and different age bands . by visualising these key 
+metrics ,HR professional can make data-driven decisions ,optimize workforce 
+management , and foster a diverse and inclusive workplace environment . 
+
+3)  MUSIC STORE DATA ANALYSIS PROJECT USING SQL : 
+
+ Music store analysis involves using SQL to derive insights from a database containing 
+information related to music store . project can be great way to gain insights into the 
+stores operations ,customer segmentation , trends ,artist effectiveness ,artist growth , 
+customer interest  , and money spent by customer. Begin by exploring the data to 
+understand its structure and contents . identify the key tables , columns and 
+relationship between them .this  step is crucial for formulating SQL queries effectively . 
+
+4)  BANK ANALYTICS USING TABLEAU : 
+
+ Analysing loan data provided by a financial institution for diverse customers with varied 
+grades and sub grade levels , considering loan disbursement reasons , funded amount 
+, revolving balance values ,payment modes , and last payment values across different 
+states and geolocations . explore the required data with respect to company 
+requirements , and then derive insights such as good loans , bad loans ,bank amount 
+funded ,bank profit , bank  
+
+ 
+ 
+ 
+ 
+ 
+

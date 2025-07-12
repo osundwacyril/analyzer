@@ -1,0 +1,141 @@
+MANOJ CHAVAN 
+PG-DAC (CDAC) 
+
+A motivated individual with in-depth
+knowledge of languages and development
+tools, seeking a position in a growth-oriented
+company where I can use my skills to the
+advantage of the company while having the
+scope to develop my own skills. 
+
+mbchavan.1634@gmail.com 
+
+8999583807 
+
+Pune, India 
+
+01 June, 1995 
+
+linkedin.com/in/mbchavan 
+
+EDUCATION 
+DAC (CDAC) 
+Infoway Technologies Pvt Ltd,Pune 
+2022,  
+
+TECHNICAL SKILLS 
+
+❖ Database-MYSQL,MongoDB 
+
+❖ JAVA, MS.NET 
+
+68.88 
+
+❖ J2EE,Hibernate Framework , Spring Framework,
+REST API 
+
+BE (MECH) 
+Bharati Vidyapeeth's College Of Engineering
+Pune 
+2021,  
+
+7.41 
+
+DIPLOMA 
+Government Polytechnic Osmanabad 
+2017,  
+
+HSC 
+Latur Divisional Board 
+2013,  
+
+SSC 
+Latur Divisional Board 
+2011,  
+
+PROJECT 
+Transport Buddy (2022) 
+
+61.65 
+
+51.17 
+
+86.40 
+
+Platform:-React JS, Springboot, MYSQL 
+Built a responsive app using React and Spring that allowed users
+to book their choice of vehicle to transport goods from one place
+to another on their return trip(vacant). With the help of Transport
+Buddy, users can save up to 25% of fares on their bookings as our
+application utilizes the vehicles of the transporters on their return
+trip(vacant in maximum scenarios). Used Java, MySQL, and
+HTML/CSS in the creation and maintenance of the application
+implementing receipt generation. 
+
+WORK EXPERIENCE 
+Service Engineer 
+FLEECA India Pvt Ltd 
+01/2022 - 03/2022,  
+
+Video Editor and Auditor 
+Coxswain Technologies Pvt Ltd 
+05/2020 - 07/2020,  
+
+Video Editor 
+Talenzo Media Pvt Ltd 
+09/2019 - 03/2020,  
+
+❖ Object Oriented Programming in  Java 
+
+❖ Data Structure and Algorithm using Java 
+
+❖HTML, CSS, JavaScript, React JS, Bootstrap, Express
+JS 
+
+❖ Software Development Methodology 
+
+❖ Automation Testing , Manual Testing 
+
+SOFTWARE & TOOLS 
+❖ Eclipse IDE ❖ GitHub ❖ Visual Studio 2022           
+❖ Visual Studio Code ❖ Spring Tool Suite 4             
+ ❖ Ubuntu ❖ Selenium ❖ Jenkins ❖ Kubernates   
+❖ Docker                                                                           
+
+ Others: MSCIT , MasterCam. 
+
+TRAINING ACQUIRED 
+Completed Traineeship with Hudl India Private Ltd
+as a Trainee learned tagging of games as per the
+requirement of the company & cleared the training
+successfully. 
+
+CERTIFICATES 
+❖ Completed ‘PG-DAC’ Course from ‘Infoway
+Technologies Pvt Ltd,Pune’. (03/2022 - 09/2022) 
+
+❖ Completed ‘Master Cam’ Course from ‘Indo
+German Tool Room, Aurangabad’. 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Full Professional Proﬁciency 
+
+INTERESTING AREAS: 
+
+Software Developer 
+
+Test Engineer 
+
+Database Management 
+
+DevOps 
+
+Technical Support 
+
+                                                                                   
+

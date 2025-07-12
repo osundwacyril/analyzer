@@ -1,0 +1,154 @@
+Atharva Mote 
+Full Stack Web Developer 
+A skilled individual that readily adapts to new work environments and constantly strives to improve in
+whatever he does. 
+
+atharvamote353@gmail.com 
+
+8956618052 
+
+Pune, India 
+
+linkedin.com/in/Atharva Mote 
+
+EDUCATION 
+
+Secondary(X) 
+City International School 
+2017 - 2018,  
+
+Senior Secondary(XII) 
+ASM Geetamata ASC College 
+2019 - 2020,  
+
+Bachelor of Technology (B.Tech) 
+MIT Academy Of Engineering 
+2020 - 2024,  
+
+73% 
+
+71% 
+
+TECHNICAL SKILLS 
+
+Python 
+
+CSS 
+
+HTML 
+
+MySQL 
+
+PHP 
+
+C++ 
+
+ReactJS 
+
+JavaScript 
+
+C# 
+
+ACHIEVEMENTS 
+
+Led team at COEP hackathon 
+
+250+ solved questions on Leetcode 
+
+7.1 cgpa 
+
+Podium Finish at state level chess competition 
+
+PERSONAL PROJECTS 
+
+Age and Gender detection 
+
+Age and gender detection was a machine learning project which
+was designed to detect age and gender of a people on live cam 
+
+Blood Bank Management System 
+
+Blood bank management system is a system which provides
+medium between blood bank , donor and patient 
+
+ORGANIZATIONS 
+
+Saksham NGO 
+Member 
+
+Chess Club MITAOE 
+President 
+
+Chess Engine 
+
+Developing a free chess engine with 2 million games dataset. 
+
+CERTIFICATES 
+
+Voice modulated visa Chatbot 
+
+A visa chatbot which has the ability to answer back with
+speech(voice). 
+
+Chat messenger decryption system 
+
+Chat messenger decryption system is used to encrypt and decrypt
+users messages which comes with a subscription model. 
+
+Google IT Automation (06/2022 - 09/2022) 
+
+Cisco Computer Networking Essentials
+ (10/2022 - 11/2022) 
+
+IBM Python For Data Science And AI
+ (08/2022 - 10/2022) 
+
+WORK EXPERIENCE 
+
+Database Developer 
+Rexes innovations 
+06/2023 - 08/2023,  
+
+Tasks 
+
+The task in this internship was to manage and update the
+datasets. 
+
+Crawling the data from websites to datasets 
+
+React.Js Developer 
+Celebal Technologies 
+06/2023 - 08/2023,  
+
+Achievements/Tasks 
+
+To to to-do lists for the company employees on daily basis. 
+
+Managing live web pages assigned by the developer. 
+
+Full Stack Web Development (07/2022 - 09/2022) 
+
+Aws Cloud Foundation (01/2023 - 01/2023) 
+
+AWS Cloud Architecting (01/2023 - 02/2023) 
+
+Cisco CyberOps Associate (02/2023 - 03/2023) 
+
+Goldman Sachs Software Engineering Virtual Program
+ (05/2023 - 05/2023) 
+
+LANGUAGES 
+
+English 
+Full Professional Proﬁciency 
+
+Hindi 
+Native or Bilingual Proﬁciency 
+
+Marathi 
+Native or Bilingual Proﬁciency 
+
+German 
+Elementary Proﬁciency 
+
+

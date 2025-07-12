@@ -1,0 +1,233 @@
+SONIYA 
+
+E-mail:yadavsoniya592@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/soniya-yadav-
+b36914191 
+Github Link: https://github.com/Soniya437 
+Mobile-9582953896 
+Portfolio- https://soniya437.github.io/Portfolio/ 
+
+EXPERIENCE 
+FunctionUp, Backend Developer Trainee 
+
+Sep 2022- PRESENT 
+
+-  Trained in Backend Development using Nodejs 
+
+with Express and MongoDB. 
+
+-  Competent in Git. 
+- 
+- 
+- 
+
+Familiar with AWS S3. 
+Skilled in teamwork, adaptability and timely deliveries. 
+Participated in various coding competitions organized 
+by  Function  Up  on  platforms  like  Hacker  Rank, 
+Codezinger, Leetcode.. 
+
+PROJECTS 
+●  E-Commerce Shopping Cart | <GitHub Link> 
+
+[JAN-23] 
+
+Tech Stack: Javascript, NodeJS, MongoDB,AWS S3. 
+Created  e-commerce  shopping  website  backend  like  Flipkart  with  multiple 
+APIs  for  user,  product,  cart  and  order.  Used  JWT  for  authentication  & 
+authorization for protected API's and also Bcrypt for encrypting passwords. 
+
+●  URL Shortener | <GitHub Link> 
+
+[DEC-22] 
+
+Tech Stack: Javascript, NodeJS, MongoDB, Redis 
+Created backend and for URL shortening service like TinyUrl ,Bitly for easy sharing 
+of long urls. Used Redis as a Caching solution for quick response time. 
+
+●  Book Management | <GitHub Link> 
+
+[NOV-22]  
+
+Tech Stack: Javascript 
+Created a books management website backend like. Goodreads with 
+multiple APIs for users, books and reviews. Used JWT for authentication 
+& authorization for protected API's. 
+
+, NodeJS, MongoDB, AWS S3. 
+
+SKILLS 
+
+●  Javascript 
+●  Typescript 
+●  React js 
+●  Nodejs 
+●  Express.js 
+●  DBMS (MongoDb) 
+●  Git 
+●  AWS S3 
+●  Redis 
+●  Data Structure 
+●  Algorithms 
+●  Html 5 
+●  CSS 3 
+●  Tailwind CSS 
+●  Redux 
+●  Bcrypt 
+●  My sql 
+
+EDUCATION 
+
+MASTERS IN COMPUTER 
+APPLICATIONS 
+MCA -PURSUING 
+
+POST GRADUATE DIPLOMA IN 
+COMPUTER APPLICATIONS 
+(DIPLOMA),85% 
+FEB 2021 - APRIL 2022 
+
+BACHELOR’S IN JOURNALISM 
+AND MASS COMMUNICATION 
+February 2017 – JUNE 2020 
+
+INTERMEDIATE WITH SCIENCE 
+
+MAY 2014 – APRIL 2016 
+
+●  Open to Intern Project | <GitHub Link> 
+
+Tech Stack: Javascript, NodeJS,  MongoDB. 
+Created an internship website backend for college with multiple API's   
+for college and interns. Create an AWS S3 logo link for college. 
+
+[OCT-22] 
+
+Soft Skills 
+
+●  Blogging Site | <GitHub Link> 
+
+[SEP-22 ] 
+
+Tech Stack: Javascript, NodeJS, MongoDB. 
+Created  a  blogging  site  Backend  multiple  API's  for  user  and  blog, 
+performed  CRUD  operations  on  blogs.  Used  JWT  for  authentication  & 
+authorization for protected API's. 
+
+●  Crypto currency tracker | <GitHub Link> 
+
+[FEB-23 ] 
+
+Tech Stack: HTML, CSS, Google Analytics API, Pure chat and 
+Axios. Web App to track the live data like Price, Volume, and 
+Change etc. for several Cryptocurrencies. The UI is mobile as well 
+as desktop responsive. Integrated live chat from a third-party app.  
+
+●  Problem-solving 
+●  Adaptability 
+●  Time management 
+●  Teamwork 
+●  Leadership 
+●  Communication 
+●  Decision-making 
+
+CERTIFICATES 
+• 
+• 
+• 
+• 
+• 
+
+NODE JS BY SIMPLILEARN 
+AWS BY SIMPLILEARN 
+JAVASCRIPT 
+COMMUNICATION 
+ENGLISH SPEAKING 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

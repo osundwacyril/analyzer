@@ -1,0 +1,160 @@
+Rishikesh Yadav 
+
+B.Tech  - Computer Science & Engineering 
+Phone - +91-9315487133 
+Email - rishikeshxyadav@gmail.com 
+Linkedin - linkedin.com/in/rishikeshhhh-yadav 
+Github -  github.com/rishikeshxyadav 
+
+EDUCATION  
+
+KCC Institute of Technology and Management 
+(AKTU) | B.Tech in CSE |Aug 2019 - Aug 2023 | 
+Greater Noida, India 
+CGPA : 6.71/10 (till 7th Sem) 
+
+SKILLS  
+
+Language: Python, SQL 
+
+Analytical tools:  Power BI, Excel/Google sheets, Tableau 
+
+Frameworks: Numpy, Pandas 
+
+Technologies: HTML,CSS, Bootstrap 
+
+Environment: Visual Studio Code, PyCharm, Jupyter 
+Notebook, Workbench 
+
+Platforms: Windows, Google cloud, Linux 
+
+PROJECTS  
+
+Call-center Trends Dashboard| Power BI, Excel 
+
+•  Created a dashboard in Power BI that 
+reflects all relevant Key Performance 
+Indicators (KPIs) and metrics in the dataset. 
+
+•  KPIs include- [Overall customer satisfaction], 
+
+[Overall calls answered/abandoned], [Calls 
+by time, Average speed of answer], [Agents 
+performance quadrant -> average handle 
+time(talk duration) vs calls answered] 
+
+Customer-Retention-Dashboard| Power BI, Excel 
+
+•  Create a dashboard for the retention 
+
+manager that reflects all customer- 
+retention Key Performance 
+indicators(KPIs) and metrics in the dataset. 
+
+•  Used Excel for cleaning the dataset, and 
+Power BI for visualization of data 
+
+Diversity and Inclusion Dashboard| Power BI, 
+Excel 
+
+•  Created a diversity and inclusion dashboard 
+of key performance indicators (KPIs) related 
+to diversity and inclusion initiatives within 
+an organization. 
+It can also demonstrate the organization's 
+commitment to diversity and inclusion to internal 
+and external stakeholders. 
+
+• 
+
+Virtual Desktop Assistant - Oswarld| Python, 
+TensorFlow, PyCharm | Nov 2021 - April 2022 
+
+⚫ 
+
+⚫ 
+
+⚫ 
+
+developed an Artificial Intelligence named 
+Oswarld that is a Virtual Desktop Assistant 
+similar to Cortana. 
+
+Used Tkinter for designing the GUI of Oswarld as it 
+provides a powerful object-oriented interface tothe 
+Tk GUI toolkit. 
+
+use pyttsx3, speech recognition, web browserand 
+Wikipedia in order to provide speech commands and 
+fetch important information required by the user. 
+
+CERTIFICATIONS  
+
+• 
+
+Forage : Completed Power BI Virtual Case 
+Experience with PwC Switzerland 
+
+•  Google Cloud :Google Cloud Ready Facilitator 
+
+Program(1x) and 30 days of google cloud(2x) 
+
+• 
+
+Coursera: Google Cloud training 
+
+COMMMUNITY  
+
+Google Cloud Ready Facilitator Program | 
+
+Facilitator | Mar 2022 - Aug 2022 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Organized GoogleCloudFacilitator program 2022 With 
+300+ students across India 
+
+guided new peers to explore the Google Cloud Platform 
+by getting them registered with Google Cloud Ready 
+Facilitator 
+
+Program to help them complete each and every task 
+they were required to complete in order to learn and 
+finish the program. 
+
+Help them by demonstrating Virtual Labs available On 
+Google Cloud Skill Boost. 
+
+Lead the entire program, which consists of various types 
+of cloud labs, further consists of various Quests and Skill 
+Badge 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

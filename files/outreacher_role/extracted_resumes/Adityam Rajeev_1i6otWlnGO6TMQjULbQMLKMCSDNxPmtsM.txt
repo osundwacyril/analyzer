@@ -1,0 +1,68 @@
+ADITYAM RAJEEV
+
+630, Srinagar, New Delhi-34 •     +91 8287127553 • adityam8800@gmail.com
+linkedin.com/in/adityam-rajeev-3a3b57195/
+
+SUMMARY
+
+Highly motivated and passionate about using data to improve business performance and customer
+experience.  Skilled  at  leveraging  data  to  develop  actionable  solutions  to  business  challenges  and
+utilizing  data  mining  and  data  visualization  to  create  meaningful  insights.  Excellent  technical
+aptitude and knowledge of programming languages, data analytics and data visualization.
+
+WORK EXPERIENCE
+
+Data Analytics Intern , Trainity
+
+Jan 2024 - Present
+
+Created various models and performed EDTA and produced monthly reports using Excel
+spreadsheet functions.
+Upheld security and confidentiality of documents and data within area of responsibility.
+Analyzed transactions to build logical business intelligence model for real-time reporting
+needs.
+
+Python Developer, SSJ IT Solutions
+
+Jul 2021 - Sep 2022
+
+Handled scripting tasks for debugging and automation.
+Handled interface of a website and managed database part.
+Delivered project reports and milestone updates to supervisor.
+
+Data Research Analyst Intern, IIT Kharagpur
+
+Jun 2021 - Jul 2021
+
+Conducted in-depth qualitative and quantitative research on " Semantic Sagmentation in
+Autonomous Driving" to identify trends and generate insights.
+Analyzed statistical data using both modern and traditional methods.
+Developed and tested survey questionnaires on varied topics to collect data for research
+projects.
+
+ Jul 2019 - Jul 2023
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+
+University of Engineering & Management, Jaipur
+Specialization in Big Data.
+SGPA: 9.0
+
+PROJECTS
+
+Analysis of Risk Factor of Maternal Health.
+Post Pregnanc Diabetes Predictor
+Instagram User Analytics
+
+ADDITIONAL INFORMATION
+
+Technical Skills: Python, C, SQL, Pandas, Numpy, Scikit-learn, Matplotlib, OOPS, DSA
+Languages: English, Hindi
+Certifications: NPTEL, 
+Awards/Activities: Received the "Engineering Excellence" Award for outstanding
+contributions to project innovation.
+Other Skills: Statistics, Big Data, Data Analytics
+
+

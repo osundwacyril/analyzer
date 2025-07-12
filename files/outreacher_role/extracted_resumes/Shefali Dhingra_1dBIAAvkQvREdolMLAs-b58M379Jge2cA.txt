@@ -1,0 +1,127 @@
+Shefali Dhingra
+Delhi, India | LinkedIn | +91-9999724252 | shefalidhingra0@gmail.com
+
+WORK EXPERIENCE
+Brillio
+Software Development Engineer
+● Developed a management portal utilizing ReactJS, Redux, Node, and TailwindCSS for user-friendly
+
+Bangalore, India
+June 2022 - September 2023
+
+and efficient authentication procedures.
+
+● Successfully achieved AWS Cloud Practitioner Certification, enabling seamless migration and data
+
+management on the cloud platform.
+
+● Designed a comprehensive telecom system in Business Central, integrating various exceptional
+events, subprocesses, and error termination, employing Red Hat Process Automation skills.
+
+INTERNSHIPS
+Remote
+The Sparks Foundation
+Data Science and Business Analytics Intern
+December 2020 - January 2021
+● Performed comprehensive data analysis and visualization of a dataset using modules like NumPy,
+
+Pandas, Matplotlib, and Seaborn, to derive valuable insights.
+
+● Applied the Linear
+
+regression algorithm to calculate precise results, enhancing data-driven
+
+decision-making processes.
+
+● Demonstrated proficiency in data manipulation, visualization, and statistical analysis, resulting in
+
+valuable contributions to the project's success.
+
+Internshala
+Remote
+November 2020 - January 2021
+Internshala Student Ambassador
+● Played a pivotal role as a Campus Ambassador, actively promoting the brand and their suite of
+
+services on campus.
+
+● Actively facilitated student registrations on the platform, advocating for various services, including
+
+courses and internship campaigns conducted by Internshala.
+
+● Contributed to the selection process for the next Campus Ambassador, participating in the election
+
+procedures to ensure a smooth transition.
+
+Remote
+Unschool
+Community Leader
+September 2020 - October 2020
+● Independently sourced and successfully onboarded individuals while skillfully overseeing a team of
+
+10-15 interns in my role as a team lead at Unschool.
+
+● Delivered thorough training sessions to elevate their proficiency in promoting and selling Unschool's
+
+courses and services.
+
+PROJECTS
+Loan Prediction Analysis
+
+Conducted in-depth analysis of a banking dataset using various EDA techniques and visual aids,
+serving as the foundation for a predictive loan eligibility algorithm and a user-friendly dashboard for
+banks and customers.
+
+EDUCATION
+SRM Institute of Science and Technology
+Bachelor of Technology
+CSE with Specialisation in Software Engineering
+
+Tamil Nadu, India
+
+Graduation Date: May 2022
+
+2x Scholarship holder | Vice-Chairperson of SRM IET on Campus | Techknow 2018 Best Project winner | NGO
+Volunteer | Volunteer at Techfest | Corporate, PR Team member of Recon Subsea
+
+9.44 GPA
+
+PUBLICATIONS
+Case Study on Netflix
+
+November 2020
+Published a comprehensive case study analyzing problems in Netflix’s User Interface by conducting
+online surveys and competitive analysis with other streaming platforms to build low and High Fidelity
+Wireframes as solutions to the posed problems.
+
+CERTIFICATIONS
+● AWS Certified Cloud Practitioner
+● Crash Course on Python
+● Data Analysis with Python
+● Programming for Everybody (Python)
+● ES6 Javascript: The complete Developer's Guide
+● First Step Korean
+
+SKILLS & INTERESTS
+Skills:
+
+● Programming Languages: Python, JavaScript, TypeScript, C/C++
+● Web Development: ReactJS, NodeJS, HTML, CSS, TailwindCSS
+● Databases: MySQL, PostgreSQL, MongoDB
+● Tools: Git, Microsoft Office
+● Research
+● Content Generation: Emails, Social Media, Marketing Campaigns
+
+Amazon Web Services
+Google
+freeCodeCamp
+University of Michigan
+Udemy
+Yonsei University
+
+Languages: English, Hindi (Bilingual Proficiency), Korean (Basic Proficiency)
+
+Interests: Marketing & Operations, Content generation, PR, Research, Analytics, Developing linguistic
+skills
+
+

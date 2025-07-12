@@ -1,0 +1,70 @@
+SAKINA ARIWALA
+
++91-9819962505
+
+sakinaariwala03@gmail.com
+
+Mumbai, Maharashtra
+
+CAREER SUMMARY:
+
+Data scientist, passionate about leveraging data to drive insights and solve complex business problems. A collaborative team
+player skilled in Python, Statistics, MySQL, ML and Tableau. Committed to helping companies advance by assisting them to
+develop strategic plans based on predictive modeling and findings.
+
+WORK EXPERIENCE:
+
+Perception and Quant
+
+Content Reseacher                                                                                                                                             January 2024 - Present           
+
+Effectively coordinated with clients to understand their needs and preferences, ensuring client satisfaction and retention.
+Conducted thorough tracking and research of automobile news to ensure accurate and up-to-date information and deliver it to clients
+in a timely manner.
+Generated and analysed daily media report and daily coverage reports to assess the effectiveness of media outreach strategies and
+trends in the automotive industry.
+Facilitated seamless communication between clients and the internal team, ensuring all deliverables met client expectations.
+Provided training and mentorship to 3 team members, enhancing their skills in research, tracking, and client communication,
+contributing to team efficiency and effectiveness.
+
+EDUCATION:
+
+PGP in Machine Learning and Data Science | NIIT Pvt Ltd                                                                                 July 2022 - Dec 2022            
+
+ Bachelor’s in Commerce | K.P.B Hinduja College of Commerce                                                                       June 2019 - June2022           
+
+ Higher Secondary Certificate | B.M Ruia                                                                                                               June 2017 - June 2019           
+
+PROJECTS:
+
+Amazon Product Review Analysis
+
+A model was constructed using 5 million reviews, employing NLP tools and logistic regression to predict customer sentiment
+towards Amazon products achieving an average accuracy of 93%.
+Used Time Series to forecast the future of most and least popular categories to optimize inventory management
+Tools used: Pandas, Tableau, NLTK, statsmodels, numpy, spacy, sci-kit learn, TextBlob, re, flask, matplotlib, wordcloud
+
+Customer Segmentation
+
+Segmented customers based on spending habits for more personalized targeting of product and offers
+Tools used: Pandas, numpy, matplotlib, sci-kit learn, seaborn
+
+Order Management
+
+Designed and deployed a comprehensive order management system from start to finish, utilizing SQL. 
+This involved creating a database to house customer, product, and order details, and leveraging SQL queries and stored
+procedures to efficiently retrieve and manipulate data.
+
+SKILLS:
+
+MYSQL , Python, Tableau, Microsoft Excel, Pandas, NumPy, Seaborn, Matplotlib, Scikit learn, Data Cleaning, Data
+Wrangling, Statistical Analysis, Exploratory Data Analysis, Predictive Modelling, Time Series Modelling, Unsupervised
+Machine Learning, Supervised Machine Learning
+
+HACKATHONS 
+
+Analysis of Automotive Sales | EDA using Tableau
+Brazil Housing | EDA using Python
+Motion picture data analysis | SQL
+
+

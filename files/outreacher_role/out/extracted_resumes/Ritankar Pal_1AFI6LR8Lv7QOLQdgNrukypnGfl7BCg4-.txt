@@ -1,0 +1,108 @@
+ritankar0425@gmail.com 
++91 6376279553 
+
+Skills 
+
+Ritankar Pal 
+
+LinkedIn: ritankar-pal 
+GitHub: ritankar-pal 
+
+•  Languages: HTML, Java, JavaScript, SQL, CSS 
+•  Frameworks and libraries: JDBC, Spring, Spring Boot, ORM-Hibernate, Spring Data JPA, Spring MVC, Spring 
+
+REST, Knowledge in React JS. 
+
+•  Developer Tools: Eclipse IDE, Spring Tool Sute (STS), VS Code, MS Office Tools, GitHub, Bit Bucket 
+•  Project Management Software: JIRA (Agile and Scrum Board)  
+
+Experience 
+
+Hulk Hire – Hyderabad 
+Programmer Analyst Intern – Payments Team 
+•  Payment Service Provider (PSP) Analysis: Specializing in analyzing PSP projects for e-commerce clients, evaluating 
+
+Mar 2024 – Present 
+
+technologies like Spring Boot and Microservices for scalability and modularity. 
+
+•  Agile Methodology Adherence: Ensuring adherence to Agile working methodology, monitoring project timelines to 
+
+maintain a high on-time delivery rate of 95%, facilitating adaptability and efficiency. 
+
+•  Assessing technologies such as MySQL for data storage and Rest API development (Spring REST), while identifying 
+
+and recommending design patterns like Builder and factory design patterns for efficient development. 
+
+•  End-to-end error handling mechanism, improving application response and hence the customer conversion rates. 
+•  Quality Assurance and Performance Analysis: Conducting comprehensive code reviews and bug analysis. 
+
+Central Transport – Windsor, ON 
+Trainee (During Master’s) 
+•  Accurately insert, update, and verify data (shipper, consignee, purchase orders, BOL, hazardous material, description) 
+
+Jan 2022 – Feb 2024 
+
+across retail, automotive, and pharma. Ensure data integrity and compliance with company standards. 
+
+•  Conduct regular reviews of entries to identify and correct errors. Implement data validation to maintain accuracy. 
+
+Projects 
+
+Java, Spring Boot, Spring Rest, Spring Data JPA, MySQL, Lombok API for model class. 
+
+Spring REST Ticket Management (GitHub Link) 
+• 
+•  Created endpoints for CRUD operation method calls to create, read, update, and delete passenger details.  
+• 
+
+Integrated Open API for API documentation. 
+
+Spring Boot MVC CRM (GitHub Link) 
+•  Technology Used: HTML, JSP, Java, Spring Boot, Spring MVC, Spring Data JPA, MySQL 
+•  Developed a Web Based Application using HTML, Java, JSP, and Data JPA. 
+•  The app prompted the user to either Create, Read, Update or Delete client information. 
+
+Food Ordering App (GitHub Link) 
+• Implemented web app using front end technologies: HTML5, CSS3, React JS, CSS Module (for styling). 
+• The web application allows the user to select their favorite item from the menu and add it to the cart. 
+• Used the following React hooks: useState, useReducer, useRef, useContext and useEffect. 
+
+Certifications 
+
+Full Stack Java Development Training, iNeuron (PW Skills) 
+React JS, NamasteDev 
+
+     Aug 2023 - Jan 2024 
+Dec 2023 - Feb 2024 
+
+Education 
+
+Master of Technology, UWindsor, ON 
+Bachelor of Technology, Ujjain Engineering College, Ujjain 
+
+    Jan 2022 – Jun 2023 
+Aug 2017 – Aug 2021 
+
+Volunteering 
+
+Aspire Ambassador, University of Windsor 
+•  Data Entry and Quality Assurance: Insert and update data within the database accurately and efficiently.Query and 
+Reporting: Assisted staff members in formulating and executing SQL queries to extract valuable insights from the 
+database. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

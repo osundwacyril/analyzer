@@ -1,0 +1,69 @@
+Julie Christina
+
+Chennai | 9360785526
+janchristina25@gmail.com | www.linkedin.com/in/julie-christina-j12
+
+Highly motivated and detail-oriented graduate with a degree in Computer Science and Engineering seeking a
+Data Analyst position. Strong analytical skills, proficiency in Excel, SQL, Power BI, Data Analysis, Data
+cleaning, Data preprocessing, Analytics, ETL, Data modeling Python Libraries such as Numpy, Pandas,
+Matplotlib, Seaborn, scikit-learn and a passion for turning data into actionable insights. Committed to
+continuous learning. completing online courses. Seeking opportunities to contribute to a dynamic organization
+and further develop expertise in data analysis and quick learning ability.
+
+EDUCATION
+
+SKILLS
+
+Jeppiaar Institute of Technology
+B. E. Computer Science and Engineering 
+2018 - 2022
+CGPA : 8.4
+
+WORK EXPERIENCE
+
+Python (pandas, scikit-learn)
+Data Analysis (EDA, Data Cleaning)
+Machine Learning (Classification, Regression)
+SQL (data querying)
+Data Visualization (Matplotlib, Seaborn)
+Data Preproecssing
+Power BI
+
+   Data Analysis                                                                                                                                   12/2022 - 08/2023
+     Freelancer
+
+Role and Responsibilities: Led data preprocessing and EDA, applying classification algorithms to predict
+employee leave.
+Data Expertise: Successfully managed data quality, handled null values, and employed EDA techniques for
+insightful analysis.
+Machine Learning Skills: Installed necessary libraries, converted categorical data, and split data for training
+and testing.
+Model Development: Created and fine-tuned classification models for employee leave prediction.
+Technical Proficiency: Demonstrated proficiency in Python, scikit-learn, and data preprocessing techniques.
+
+PROJECTS
+
+Prediction of Cardiovascular Disease using Pyspark:
+
+The accuracy of cardiovascular disease prediction is improved by using machine learning techniques.
+Our idea suggests a prediction model to determine whether a person has a cardiac condition or not and
+to inform the patient of the risk.
+
+VIRTUAL INTERNSHIP
+
+Conducted in-depth customer behavior analysis by cleaning and preparing transaction data.
+Leveraged Python programming for data analysis and generated actionable commercial
+recommendations.
+Evaluated store layouts through data analysis and provided data-driven optimization recommendations.
+Applied commercial thinking to formulate strategic insights based on data findings.
+Developed strong presentation and communication skills for effective client interaction.
+
+CERTIFICATIONS
+
+ Online Certified in Python by GUVI 
+
+Data Analysis with python by IBM.
+
+SQL(intermediate), Python assessment by HackerRank
+
+

@@ -1,0 +1,104 @@
+ERIND AVDIU
+
+Frontend Engineer
+
++38345916010
+
+erindavdiu4@gmail.com
+
+erind-portfolio.vercel.app
+
+Ferizaj, Kosovo
+
+ABOUT ME
+
+Front end developer, currently pursuing a masters degree in software engineering.
+My education journey is bolstered by underpinning theoretical knowledge and interweaving it with practical experience
+in tech-driven landscapes. Diligent, prompt, ethical, organized, and energetic. Efficient and resourceful, interpersonal
+communicator enhanced by tactical solid communication skills. Leadership skills and the ability to design, develop, and
+document projects for very complex and technically rich new releases, features, and functionality.
+ Quick to meet deadlines and multi-tasked oriented. Good at teamwork, and detail-oriented.
+
+EDUCATION
+
+SUMMARY OF EXPERIENCE
+
+University - “UBT”
+Bachelor in Computer Science & Engineering
+2021 – 2024
+
+University - “UBT”
+Masters in Computer Science & Engineering
+2024 – 2026
+
+SKILLS
+
+Next JS, React JS, Typescript, Nuxt, Vue js
+
+NeonDB, Tanstack, PostgreSQL, Prisma 
+
+Multitasking
+
+Database Management 
+
+Documentation
+
+Team worker
+
+CERTIFICATIONS
+
+GIZ - Empowering Youth With AI
+Coursera - Search Engine Optimization
+(SEO) with Squarespace 
+Walmart Global Tech - Advanced Software
+Engineering Job Simulation 
+University of London - Understanding
+Research Methods 
+DataProgNet IT Academy - Cisco
+CCNA 1 -3 
+Shkolla Digjitale - Basic Programming logics
+and concepts
+Coders Hub - Full Stack Boot Camp
+DataProgNet IT Academy - MERN Full Stack
+University of Harvard - CS50W
+programming with Django and React
+Udemy - Vue 3 in Action: 7 Projects to
+Master the Framework
+
+Frontend Developer
+
+ Animus Evolution | November 2024 - Present
+
+Building and maintaining Vue applications using functional and
+optimized components with typescript compliance.
+Integrating  Pinia  for  state  management,  improving  data  flow
+efficiency and shared persistence.
+Assisting in code reviews to uphold best practices and maintain
+code quality.
+Contributing  to  backend  development  with  Nest.js,  creating
+controllers and endpoints, and managing database interactions
+using Prisma ORM
+Applying  UI-wise  styling  with  different  CSS  frameworks  such
+as Shadcdn, Tailwind, Vuetify, etc...
+Debugging  and  resolving  frontend  issues,  ensuring  smooth
+user experience and application stability.
+Using  tools  for  code  break  prevention  such  as  Husky  and
+ESLint.
+
+Frontend Developer  Intern
+
+ Tag Digitals | January 2023 - April 2023
+
+Strong  knowledge  of  SQL  databases  (PostgreSQL,  MySQL),
+including  the  ability  to  optimize  queries  and  design  effective
+database schemas.
+Designed  and  developed  page  layouts,  custom  navigation,
+animation
+buttons,  and  icons  with  Bootstrap,  Font-Awesome,  and
+jQuery.
+Implemented React Router for efficient client-side navigation
+and routing.
+Implemented lesson plans which led to enhancing my skills in
+programming and working with teammates.
+
+

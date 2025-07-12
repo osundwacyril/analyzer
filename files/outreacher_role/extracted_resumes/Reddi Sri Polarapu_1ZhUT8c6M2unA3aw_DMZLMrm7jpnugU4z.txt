@@ -1,0 +1,70 @@
+Polarapu ReddiSri
+
+6/9691-1, Shanthi Nagar, Rajampet, 516115
+Mobile: +91 8074538054
+Email: reddisrip123@gmail.com
+
+Objective:
+Enthusiastic and highly motivated fresher with a passion for Software Development. Possessing a
+strong academic background and a hunger for learning, I am eager to kickstart my career and
+contribute to a dynamic and growth-oriented organization.
+
+Professional Experience:
+Data Science Engineer (Intern) | Smart Bridge, REMOTE
+June 2022 - December 2022
+
+- Conducted research to develop data models and normalize data.
+- Collaborated with software engineers and product managers.
+- Assisted in testing and debugging code related to algorithms and artificial intelligence.
+
+Education:
+Bachelor of Technology (B.Tech) in Computer Science and Engineering (C.S.E)
+Annamacharya Institute of Technology & Sciences, Rajampet
+August 2019 - April 2023
+- CGPA: 8.5
+- Graduation Year: 2023 (Full time)
+
+Intermediate in Mathematics, Physics, and Chemistry (M.P.C)
+Sri Chaitanya Junior College, Tirupati
+March 2017 - March 2019
+- CGPA: 9.8
+- Graduation Year: 2019 (Full time)
+
+Skills:
+- Programming Languages: Java, Python, C, JavaScript
+- Web Development: HTML, CSS, Bootstrap
+- Databases: SQL
+- Software Development Methodologies: Agile
+
+Achievements:
+- Certification on Applied Data Science by Smart Bridge Educational Services PVT.LTD.
+- Microsoft Certified AZURE Developer Associate.
+- NPTEL Certification in Introduction To Industry 4.0 And Industrial Internet Of Things.
+- NPTEL Certification in Environment and Development.
+
+Languages:
+- Telugu (Native)
+- Hindi (Proficient)
+- English (Proficient)
+
+Projects:
+1. Liver Patient Analysis Application
+
+- Developed a web application using Python to analyze the liver condition of patients in healthcare
+
+systems.
+
+- Leveraged machine learning and data science techniques for accurate results and insights.
+- Ensured data security through secure password storage and robust coding practices.
+
+2. AI ENABLED SECURED TRANSPORTATION SYSTEM Application
+
+- Developed a web application using Python and implemented Artificial Intelligence and AES Algorithm for
+
+authentication features.
+
+- Included User Login Page, Cloud Server Login, Autonomous Vehicle Login, and Receive files option for
+
+Tracking the Transferred Data.
+
+

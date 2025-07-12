@@ -1,0 +1,80 @@
+Utkarsh Dubey
+
+Gmail : utkarshd0120@gmail.com
++91-9309815886
+LinkedIn: www.linkedin.com/in/utkarsh-dubey0120
+
+Professional Experience
+
+Certifications
+
+Software Developer
+Hummingbird Web Solutions
+Pune , Maharashtra
+
+● Data Structures and Algorithms - GFG
+● A Frontend Web Developer - IIHT
+● Modern Web Design with HTML5 , CSS3 and
+
+JavaScript - IIHT
+
+● Trained as a full stack developer , used Hyva In frontend which
+
+include Tailwind CSS and Alpine JS .
+
+● In the Backend , used Magento:101 and Mage2TV
+
+Projects
+
+Subject Matter Expert (Mathematics)
+QA Solvers
+Varanasi , UP
+
+● Restructured Mathematics solutions on Chegg Platform .
+● Solved daily 20 questions with step-by-step explanations
+
+EDUCATION
+
+B.Tech. in Computer Science Engineering
+Indian Institute of Information Technology , Pune
+August 2018 - 2022
+CGPA : 6.4/10
+
+Higher Secondary School (12th)
+Kendriya Vidyalaya Sangathan
+DLW , Varanasi , Uttar Pradesh
+Percentage : 87% (CBSE Board)
+
+Skills
+
+Programming Language : C , C++ , Java , JavaScript
+Others : SQL , HTML , CSS , ReactJS , Git , Linux
+Soft Skills : Communication , Problem Solving , Critical Thinking
+
+Weather App using ReactJS
+
+● It tells us the current temperature of different
+
+cities .
+
+● I have used the OpenWeatherMap API .
+
+Forest Fires Detection using ML
+
+The Database Included Spatial , temporal,
+components from the Canadian Fire Weather
+Index (FWI) and four weather conditions.
+
+The Methods includes:
+
+● Framework Construction and Implementation
+
+in Matlab
+● Data Collection
+● Training and Testing the Model
+
+Languages
+
+English , Hindi
+
+

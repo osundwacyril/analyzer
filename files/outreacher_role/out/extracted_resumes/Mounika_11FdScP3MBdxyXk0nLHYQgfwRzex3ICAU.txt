@@ -1,0 +1,199 @@
+MOUNIKA GORANTLA
+
+Digital Marketer
+
+Phone: +91 6360532782                                                  Email: gmounika.digitalmarketing@gmail.com
+
+Location: India                                                                  LinkedIn: linkedin.com/in/mounika-gorantla-7290ab331          
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented and results-driven SEO Analyst with 2 years of  hands-on experience in driving organic growth 
+through keyword research, technical audits, backlink strategies, and on-page SEO optimization. Proven ability 
+to improve keyword rankings, optimize content for user intent, and deliver actionable insights to boost online 
+visibility. Proﬁcient in using industry-standard tools and implementing data-backed SEO strategies that 
+enhance search engine performance, drive conversions, and improve UX. Google Ads professional with 1 year 
+of  experience in keyword research, ad creation, and campaign optimization for maximum performance.
+
+TECHNICAL SKILLS & TOOLS
+
+SEO Tools & Platforms
+
+Screaming Frog
+Ahrefs
+SEMrush
+Moz Pro
+Sitebulb
+Ubersuggest
+Google Search Console
+Bing Webmaster Tools
+GTmetrix
+
+Analytics & Reporting
+
+Google Analytics 4 (GA4)
+Google Tag Manager
+Looker Studio (Google Data Studio)
+
+On-Page & Technical SEO
+
+Schema Markup (FAQ, Breadcrumb, Product, Article)
+Core Web Vitals Optimization
+Mobile Usability Fixes
+Sitemap.xml & Robots.txt Conﬁguration
+Internal Linking Strategy
+Canonicalization
+Structured Data (JSON-LD)
+Indexing & Crawl Optimization
+
+Content Optimization & Writing Tools
+
+Surfer SEO
+Clearscope
+Grammarly
+Hemingway Editor
+ChatGPT for SEO content planning
+Google Docs & Sheets for keyword mapping and content briefs
+
+Keyword Research & Competitor Analysis
+
+Google Keyword Planner
+Ahrefs Keyword Explorer
+SEMrush Keyword Magic Tool
+Ubersuggest
+SpyFu
+SimilarWeb
+
+Backlink Strategy
+
+Manual Outreach
+Guest Posting
+Broken Link Building
+Digital PR
+Disavow Management
+
+Paid Media & Creative Tools
+
+Google ads
+Facebook ads
+Canva
+Meta Business Suite
+
+PROFESSIONAL EXPERIENCE
+
+SEO Analyst & Google Ads
+
+SN info System– Bangalore, India 
+
+April 2024– Present
+
+Conducted in-depth SEO audits for client websites and identiﬁed technical and on-page SEO 
+improvements, resulting in an average traﬃc increase of  35%.
+Performed thorough keyword research to identify high-converting opportunities and mapped them 
+eﬀectively to site architecture.
+Improved organic keyword rankings for target terms such as "Top Engineering Colleges in bangalore" from 
+page 5 to page 1 within 3 months.
+Developed and implemented Google Ads strategies that successfully boosted lead generation and 
+improved overall campaign performance.
+
+CGS Software Solutions– Bangalore, India 
+
+Feb 2023 – March 2024
+
+Worked on keyword research, SEO strategies, and tiered link-building strategies.
+Optimized blog articles, landing pages, and service pages with SEO best practices and user-intent 
+alignment.
+Implemented structured data markups using JSON-LD to improve SERP features visibility (rich snippets).
+Built monthly SEO reports using Google Analytics 4 and Looker Studio to showcase keyword movements, 
+traﬃc trends, and actionable insights.
+Collaborated with content writers and developers to improve UX and site performance metrics (Core Web 
+Vitals).
+Analyzed competitors’ backlink proﬁles using Ahrefs and SEMrush to craft successful link acquisition 
+strategies.
+
+ADVANCED SEO STRATEGIES IMPLEMENTED
+
+Topic Cluster Strategy: Created pillar content with interlinked support pages targeting long-tail queries.
+
+M bil SEO E h
+
+t D l
+
+d AMP
+
+i
+
+d i
+
+d li
+
+i
+
+t d
+
+d
+
+bl
+
+ki
+
+Mobile SEO Enhancements: Deployed AMP pages, responsive designs, and eliminated render-blocking 
+resources.
+Content Gap Analysis: Used SEMrush & Ahrefs to uncover competitor keywords and outperform their 
+content.
+Crawl Budget Optimization: Pruned thin content and redirected dead pages to focus bot activity on key 
+URLs.
+Structured Data Scaling: Designed and implemented schema at scale across dynamic content using 
+CMS plugins and manual scripts.
+Local Citation Strategy: Used Whitespark and BrightLocal to boost NAP consistency and local search 
+rankings.
+
+KEY ACHIEVEMENTS
+
+#1 Ranking achieved for 15+ high-competition keywords in niches like education, SaaS, and repairs.
+Boosted Lead Generation by 30% for a local home services company using GMB optimization and review 
+acquisition.
+Core Web Vitals Optimization reduced load time by 3s and improved LCP/FID scores sitewide.
+From 0 to 10,000 Organic Visitors/Month for a startup blog using pillar-cluster content structure and 
+technical SEO.
+Recovered Traﬃc from Google Core Update by conducting E-E-A-T audit and ﬁxing low-trust content 
+signals.
+
+PROJECTS & STRATEGIES
+
+Multi-Language SEO: Implemented hreﬂang and alternate hreﬂang tags to target international markets, 
+increasing traﬃc by 25%.
+Schema Framework: Developed reusable JSON-LD templates for FAQs, reviews, and how-to pages 
+across 100+ articles.
+SEO Playbook: Authored a comprehensive SEO SOP playbook for internal teams covering technical, 
+content, and backlink workﬂows.
+Competitor Reverse Engineering: Identiﬁed backlink gaps using Ahrefs and replicated strategies for 
+ranking parity.
+A/B SEO Testing: Ran controlled SEO experiments on meta titles, structured data variations, and mobile 
+UX to measure impact.
+
+EDUCATION
+
+MBA JNTUA, Ananthapur, 2023
+
+Bachelor of Science(B.Sc) Rayalaseema University, Kurnool 2021
+
+SOFT SKILLS
+
+Critical Thinking
+Attention to Detail
+Strong Communication Skills
+Time Management
+Team Collaboration
+
+LANGUAGES
+
+English 
+kannada 
+Telugu 
+
+AVAILABILITY
+
+Immediate Joining Available. Open to Remote, Hybrid & On-Site Roles
+
+

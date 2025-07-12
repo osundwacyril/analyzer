@@ -1,0 +1,81 @@
+Ankit Verma
+7061391996 | ankitclg222@gmail.com | LinkedIn | GitHub | Bhagalpur, Bihar.
+
+Education
+
+Skill Academy By Testbook
+Business Analyst Career Program
+
+Uttaranchal University, Dehradun
+MBA, Banking & Finance
+
+TMBU University, Bihar
+B.A (POSC), 62%
+
+RS College, Bihar
+Class 12, BSEB, 48%
+
++2 Adarsh High School, Bihar
+Class 10, BSEB, 55%
+
+Mar 2024 - Oct 2024
+
+July 2023 - Ongoing
+
+2023
+
+2019
+
+2016
+
+Professional Work Experience
+Assistant Accountant - Job, Maa Amba Traders (NTPC).
+
+● Worked as a job Accounting for data and Entry,GST Clarifications.
+
+Oct 2023 - Ongoing
+
+Accounts & Operation - Job, Rising Marketing Pvt. Ltd. (TML).
+
+July 2022 - Sep 2023
+
+● Worked as a job Accounting and CRM Enquiry.
+
+Data Entry - Intern, Sah Consultancy (C.A).
+
+Feb 2020 - May 2022
+
+● Worked as Intern Data Entry,Invoice Creation ,and paper worked.
+
+Technical Skills With Certificates
+
+Tools : Excel, SQL, Python, Power BI, Tableau, Tally
+Skills : Statistics, Agile Methodology*
+*Done
+
+Projects
+1. Financial Data Analysis of the Western Countries
+
+Performed analysis on Financial Countries dataset using Excel, SQL, Power BI & Tableau.
+
+1.1. Data Cleaning & Statistical & Graphical Analysis using Statistical Tools.
+1.2. Designing parameters & creating a database using SQL for the construction of the database table
+
+along with its verification.
+
+1.3. Importing the data in Power BI from SQL Database .
+1.4. Performed Data Cleaning along with other operations using query editor,creating measures in order to
+
+make an interactive visualization.
+
+1.5. Creating a detailed & interactive dashboard by using Power BI to find answers for Yearly Sales,
+
+Country wise sales, Top & Bottom performing countries,etc.
+
+Technologies Used: SQL, Excel, Power BI.
+Project Link: Financial Analysis
+
+ 
+ 
+     
+

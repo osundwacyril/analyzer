@@ -1,0 +1,101 @@
+REETIKA SHARMA 
+Contact: +91 9871195550, 011-23312455; Email: reetikasharma06@gmail.com 
+Career Objective 
+Seeking a position that provides me ample opportunity to explore & excel in professional, personal and organizational goals 
+Competencies  
+An effective and qualified professional with 10+ years of experience in Electrical & Automation System Design and Detailed Engineering related to 
+Power Generation Projects. Expertise in System Design, Analysis, Detailing, Drawings, Technical Specifications, Basic Calculations, Estimations, 
+Bidding, Testing, Layouts, DCS, PLC, Automation, SAP, Energy Solutions 
+Experience Summary:  
+Dec’22 – Jun’23 – Bechtel 
+
+Preparation of the instrument index, typical loop details in INtools, SPI, network block diagram 
+
+ 
+  Review of P&ID legend sheets, tag numbering, technical queries, vendor offers, technical bid evaluation 
+ 
+  Review and ongoing support in cable block diagram instrument installation details, material take-off 
+
+Preparation of MRQ in Agile software and datasheet 
+
+May’21 – Apr’22 – Siemens 
+
+Project co-ordinance and validation, upgrades and patches, ensuring task is delivered within SLA 
+
+  Design and development of COMOS SAP interface ‘User Manual’ for global users in COMOS & AWS Infrastructure 
+  Assessing existing IT infrastructure and recommending improvements, Developing & configuring SAP solutions 
+ 
+  Operating and maintaining (L2 support) of the electrical CAD applications like COMOS ET, E3 and ELCAD 
+ 
+  Basic VBS scripting and debugging within COMOS, based on the respective data structure.  
+ 
+
+Testing and validation of existing and new features, evaluation of interactive reports and reports.  
+
+Involvement in Windows Server and SQL Server operational aspects of COMOS.  
+
+Nov’15 – Jul’17 – General Electric 
+
+Interface Management with other disciplines and with other agencies, consultant, suppliers and partners etc. 
+
+  Handled, managed, supervised and conducted various tasks and duties related to Basic, Detail and Review Engineering. 
+ 
+  Customization of Offer review, tender technical analysis (TTA) and request for quotation (RFQ)s 
+ 
+  Design & configuration of SAP systems (MM/HR/EWM/Concur), database & interface, order management – Enquiry, quotation, sales 
+
+Implementation of ASAP methods in the SAP modules with ABAP team, BAPI mass data upload into the SAP. 
+
+order, delivery, billing 
+
+  Review & preparation of Electrical & Heat Load calculations for Power Distribution Panel Designs, DC UPS sizing calculation, Diesel 
+Generator, transformer, battery & battery charger sizing calculation, earthing calculation, grounding, Illumination system, Instrument/ 
+Power & Control Cable Schedules & routing, Control Room Layout, Control Valves sizing, P&ID, Hook ups, Hardware Bill of Material 
+
+  Design of Distributed Control System, Panel Drawings, Control cabling & wiring schemes for Switchgear, motor control centers, 
+
+switchboards & control equipment, power outlets and wiring accessories, Process function plans 
+
+Jul’ 08 – Oct’15 – Alstom Projects India Limited, Noida 
+Conducted various tasks and duties as a Core Team Member relating to: 
+
+  Raising Pre-bid queries/questionnaire to obtain details, missing documents pertaining to tender & technically freeze the proposed scheme.  
+ 
+ 
+
+Preparation of Techno-commercial proposals in a timely manner in accordance with client’s specifications. 
+Follow up and receive quotation from various suppliers. Evaluation of supplier quotations with the tender requirements and comparative 
+analysis of all quantities & costing. 
+Preparation of I/O List for PLC system, PLC data sheets, preparation of PLC system architectures, PLC panel general arrangement, SLD, 
+harness & control schematics, IO module drawings, loop wiring diagram, inter connection details, support in procurement of PLC system, 
+control Cabinet GA & Detail SLD drawing, control cabinet wiring diagram, Functional Design Specification, Hands-on experience in 
+Selection of Electrical & Electronics Components Like Switch Gears, Control Actuators, Power supplies, Industrial transducers, Industrial 
+Sensors, Servo Drives, Pneumatic/Hydraulic Circuits, VF Drives, Factory Acceptance and Site Acceptance Test. 
+
+ 
+
+Professional & Academic qualifications: 
+
+2008 – Bachelor of Technology (B.Tech.) in Electrical Engineering from National Institute of Technology, Kurukshetra 
+2015 – Certificate Program in Cyber Laws from Symbiosis 
+2017 - Post Graduate Diploma in Business Administration in Human Resources from Symbiosis 
+2020 – Master of Technology (M.Tech.) in Design Engineering from Birla Institute of Technology, Pilani 
+
+Accomplishments 
+
+  Werner Won Siemens Country Award, The management Board of Siemens AG, Munich, October 2021 
+  COMOS SAP Interface training, ECAD Team Award, Siemens, 2021 
+  Growth with heart, Art Attack, Siemens jury Gold Award, 2021 
+  Above & Beyond Award, Engineer Recognition, General Electric, 2017 
+
+Computer Skills 
+
+  Operating Systems familiar with: Windows XP, 2K, 9X, Vista, Linux 
+ 
+
+Software  familiar  with:  Project  Costing  Tools,  COMOS  Admin,  ITSM,  Siemens  NX,  SolidWorks,  ProE,  ServiceNow,  SAP,  ATHENA, 
+AUCOPLAN, AUTOCAD, MATLAB, LABVIEW, PSIM, MS Office 2007, Adobe Photoshop 
+
+ 
+ 
+

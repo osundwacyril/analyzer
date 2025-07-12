@@ -1,0 +1,76 @@
+Utkarsh Dubey
+
+GMail: utkarshd0120@gmail.com
+
++91 - 9309815886
+
+Linkedin:
+https://www.linkedin.com/in/aman-dube
+y-87a1261a3
+
+EDUCATION
+
+B.Tech. in Computer Science Engineering
+
+Indian Institute of Information Technology Pune
+
+August 2018 - 2022| Pune , Maharashtra CGPA -
+
+6.4/10
+
+Higher Secondary School(12th)
+
+Kendriya Vidyalaya Sangathan
+
+DLW , Varanasi , Uttar Pradesh
+
+Percentage 86.6% (CBSE Board)
+
+SKILLS
+
+Programming Language- C , C++ , Java,JavaScript
+
+PROJECTS
+Weather App using ReactJS
+
+• It tells us the current temperature
+
+of different cities .
+• I have used the OpenWeatherMap API .
+
+Forest Fires Detection using ML
+
+The database included spatial,
+
+temporal, components from the
+
+Canadian Fire Weather Index (FWI)
+
+and four weather
+
+conditions.
+
+The Methods includes:
+
+• Framework Construction and
+
+Implementation in Matlab
+
+Others- SQL , OOP, HTML , CSS , ReactJS, NodeJS
+
+• Data Collection
+
+COURSES
+
+Data Structure and Algorithms(GFG)
+
+A Frontend Web Developer (IIHT)
+
+• Training and Testing the Model
+
+LANGUAGES
+
+English , Hindi
+
+ 
+

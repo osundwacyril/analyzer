@@ -1,0 +1,172 @@
+Raj Agrawal 
+Software Developer 
+
+Seeking a challenging role as a software developer, leveraging my strong programming skills, passion for
+innovation, and dedication to delivering high-quality solutions. Committed to continuously learning and
+adapting to emerging technologies, I aim to contribute to a dynamic team in creating cutting-edge
+software applications that drive positive user experiences and business growth. 
+
+rajagrawal2302@gmail.com 
+
+9737703466 
+
+Chennai 
+
+linkedin.com/in/raj-agrawal23 
+
+EDUCATION 
+
+SKILLS 
+
+Master of Computer Application 
+Vellore Institute of Technology 
+08/2022 - Present,  
+
+Python 
+
+JAVA 
+
+C/C++ 
+
+Data Structure 
+
+Chennai 
+
+Problem Solving 
+
+MERN Stack 
+
+HTML 
+
+CSS 
+
+Bachelor of Computer Application 
+Ajeenkya DY Patil University 
+08/2018 - 05/2021,  
+
+Pune 
+
+Computer Science 
+
+Cloud Technology and
+Information Security 
+
+WORK EXPERIENCE 
+
+Life Advisor 
+Max Life Insaurance 
+12/2020 - Present,  
+
+Achievements/Tasks 
+
+Vapi, Gujarat 
+
+Got Gold Medal for 9 in 90 (9 Policies in 90 Days) 
+
+Five a Monther (5 Policies in a Month) 
+
+Star Performer of a Team 
+
+Customer Support Lead 
+Veriﬁcient Technologies 
+04/2021 - 09/2022,  
+
+Achievements/Tasks 
+
+Pune 
+
+Working on LMS (Learning Management System ) 
+
+Using Machine learning tool. LMS testing on new clients and
+analysis risk factor. Monitored exams and those exam
+process by Machine Learning tool and check behavior of
+start to end process. 
+
+Data collecting, data sorting, data management and data
+reporting. Processing conﬁdential data and information
+according to guidelines. 
+
+Performing data quality checks which includes lookup
+function, conditional formatting, charts if formulas and
+duplicate check on the ﬁnal data extract. 
+
+Optimized data collection procedures and generated
+reports on weekly, monthly, and quarterly basis in MS excel.
+Conducting process trainings for new joiner. 
+
+JavaScript 
+
+ReactJs 
+
+SQL 
+
+NoSQL 
+
+SDLC 
+
+Testing Automation 
+
+Cloud Computing 
+
+DataBase 
+
+AWS 
+
+GCP 
+
+Microsoft Azure 
+
+Data Analysis 
+
+Information Security 
+
+Multi-Tasking 
+
+Encryption - Decryption 
+
+Analytical Thinking 
+
+PERSONAL PROJECTS 
+
+Person Of Identiﬁcation in Video Survillance 
+
+Developed a Python-based face recognition system for accurate
+identiﬁcation in crowded environments. 
+Utilized computer vision algorithms to detect and extract facial features
+in real-time. 
+Employed machine learning techniques to train the system for reliable
+and precise face recognition. 
+
+University Management System 
+
+UMS is made for college Managements using JAVA and MySQL to
+maintain the records of every students and professors instead of using
+Excel sheets. 
+Role: UI Designer and Database Designer. 
+Responsibility: Total design of admin module and in database design all
+the schema are designed like Student Name, Phone Number, DOB, Course
+etc.. 
+
+CERTIFICATES 
+
+Microsoft Azure Fundamentals 
+Certiﬁed exam for Microsoft Azure 
+
+Project Management by Google 
+Done 2 Certiﬁcation on Project Management provided by Google 
+
+Google Cloud Facilitator 
+I have done this 30 days of Cloud program from Google 
+
+Participated in requirements meetings and data mapping
+sessions to understand clients needs. 
+
+INTERESTS 
+
+Travelling 
+
+Photography 
+
+Outdoor Games 
+
+

@@ -1,0 +1,65 @@
+VISHAL SINGH
+Malakpur Village, Greater Noida, 201306, UP
+
+vishalsingh32291@gmail.com ⋄ 9336191829
+
+OBJECTIVE
+
+A highly driven individual looking for a challenging position in an organization specializing in IT, aiming to leverage
+my skills and contribute to professional and personal growth. I’m open to relocate.
+
+EDUCATION
+
+IIMT College of Engineering, Gr. Noida
+(Affilated to AKTU UNIVERSITY)
+B.Tech in CSE with Artificial Intelligence
+Grade: 7.8 CGPA till Last Semester
+
+Gyan Kunj Sr. Sec. Academy
+12th, CBSE Board
+Grade: 9.1 CGPA
+
+New Central Public Academy
+10th, CBSE Board
+Grade: 8.8 CGPA
+
+PROJECT
+
+August 2020 - May 2024
+
+April 2019 - March 2020
+
+April 2017 - March 2018
+
+Flipkart Product Listing Page
+Technology Used: HTML5, CSS3, VS Code, GitHub
+Description: Use HTML5 to display content, Use CSS3 for styling, Written on VS Code, and deployed on GitHub.
+
+SKILLS
+
+Programming Languages: Java, JavaScript, Python
+Web Development: HTML5, CSS3, JavaScript
+Framework: Bootstrap, React.js
+Version Control: Git, GitHub
+CS Fundamentals: OOPs, DBMS, Operating System, Computer Networking
+Others: Data Structures and Algorithms, Problem Solving, Project Management
+
+CERTIFICATIONS
+
+Web Development Training Completion Certificate
+Description: Completed 8-week online training by INTERNSHALA on Web Development. The training consisted of
+HTML, CSS, Bootstrap, DBMS, PHP, JS, React, and Final Project Modules.
+Link- https://trainings.internshala.com/s/v/3220214/164ec433
+
+INTERESTS
+
+Software Development, Frontend Development, Backend Development, Full Stack Web Development
+
+PORTFOLIO LINKS
+
+GitHub: https://github.com/VishalSingh32
+LinkedIn: https://www.linkedin.com/in/vishal-singh-64906028a
+LeetCode: https://www.leetcode.com/vishalsingh32291
+HackerRank: https://www.hackerrank.com/vishalsingh32291
+
+

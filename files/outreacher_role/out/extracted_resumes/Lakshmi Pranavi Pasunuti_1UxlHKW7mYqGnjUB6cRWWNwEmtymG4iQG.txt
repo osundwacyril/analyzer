@@ -1,0 +1,77 @@
+L A K S H M I P R A N A V I P A S U N U T I
+S T U D E N T
+
+HYDERABAD, TELANGANA,
+INDIA
+
++91 7382253691
+
+Pranavi.pasunuti@gmail.com
+
+O B J E C T I V E
+
+A motivated and passionate student to gain admission to your renowned university.
+Strong organizational abilities with proven success managing multiple academic
+projects and volunteering events.
+
+E D U C A T I O N —
+
+I N T E R N S H I P S
+
+UNDER GRADUATION:
+Guru Nanak Institute Technical
+Campus.
+Degree: Bachelor of Technology
+in Electronics and
+Communication Engineering
+
+CGPA: 7.8 / 10
+
+A C A D E M I C
+P R O J E C T S
+
+
+
+IoT-based Early Detection
+of Building Collapse.
+Description: This project is
+designed to detect movements in
+buildings or structures and send
+alerts to rescue teams and the
+residents to evacuate, which
+helps save many lives.
+
+ Smart IoT-based Human
+well-being monitoring in
+the healthcare system.
+
+Description: A system with
+sensors that remotely provide
+patients’ status to the
+doctors/nurses. Also sends alerts
+as soon as the patient
+experiences abnormal signs.
+
+ SUPRAJA TECHNOLOGIES
+TOPIC: Web Application Vulnerability and
+Penetration Testing.
+Responsibilities: Performed Various Tasks using
+various tools like Wireshark, Burp suite, Honey
+bot, Kali Linux OS, etc.
+
+K E Y S K I L L S
+
+SQL Injection
+
+
+ Computer Framework
+ Wire Shark
+ Bug Testing
+ Penetration Testing
+ Kali Linux OS
+ Web Application Vulnerability
+ Network Scanning
+ Antenna & Propagation
+ Embedded Systems
+
+

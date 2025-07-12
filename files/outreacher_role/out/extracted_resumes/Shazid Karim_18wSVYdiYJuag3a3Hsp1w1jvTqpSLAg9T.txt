@@ -1,0 +1,60 @@
+SHAZID KARIM
+Front-End Developer
+Address: Dhaka, Bangladesh
+
+Mobile: +880 1957372060
+Email: shazid747@gmail.com || GitHub || Portfolio
+
+Objective:
+To secure a front-end developer position at an innovative company, leveraging my strong proficiency in React, along with my
+skills in HTML, CSS, JavaScript, and other relevant front-end technologies. With a keen eye for design and a dedication to
+delivering exceptional user experiences, I aim to contribute to the development of visually appealing and responsive web
+applications while continuously expanding my knowledge and expertise in the field.
+
+Skills and Technologies:
+Expertise: HTML5 || CSS3 || Javascript || React || BootStrap || Tailwind || Firebase(Auth & Hosting)|| ES6.
+Comfortable:React Query|| MongoDB|| React router || ENV || Framer-motion ||Image compression & upload to server.
+Familiar: with Node.js || cors || Next.js || Express.js || and much more.
+
+Tools: Chat GTP || Vs Code || Git || Github || NPM || Chrome DevTools || React Developer Tools || ESLint || Prettier|| Netlify,
+Vercel || Figma || Psd || JWT || Lazy Loading || Error Handle and much more.
+Projects:
+
+1. Language Learning School : Live Website Link | Client-Side Repo Link | Server-Side Repo Link ● This website is based on
+foreign language learning school.Here students can enroll in a class and learn foreign languages. ● Dashboard:There are 3
+different role in this website. normal user login by default as student.Admin users and instructor users can modify several part
+of this website such as an instructor can add a class And admin can see this class and review this class. ● However a user can
+enroll in a class and after payment they purchase the class. and a payment history is saved in the payment history section.This
+website is secure with JWT token and Axios secure.
+
+Technologies: React, Tailwind CSS, Stripe, Tanstack Query, Firebase, MongoDB, Node.js.
+
+2. Toy Shop Website : Live website link | Client-Side Repo Link | Server-Side Repo Link
+
+● This is an exclusive doll based website.In the home page several components are rendered. I am using react routing to
+
+navigate from one page to another.There are 3 different categories of dolls so that users can easily find their expected doll toy.
+● There are several nav options in this website and without sign in/login they can not see these options.I am implementing
+firebase authentication to authenticate user.After login, users are allowed to visit and buy all the toys they chose. ● However a
+user can add a toy and display the toy in the all toys section.They can also update a toy and delete a toy. Technologies:
+ReactJS, React responsive modal,Daisy UI, Firebase, React tabs, MongoDB, NodeJS.
+
+3. Teampico Website : Live Website Link | Client-Side Repo Link | Server-Side Repo Link
+
+● This website is focused on front end design.
+● There are several sections that implement what we do in this website.User can explore more about our website. ● There
+is a section called our projects.In here users can see our latest projects.All the projects are sorting by their category. ● At
+the bottom of the website we implement a counter system using the JQuery library.
+
+Technologies: HTML5, Vanilla CSS, JQuery, Owl carousel.
+
+Education:
+Daffodil International University, Bangladesh
+Bachelor of Science (B. Sc) in Computer Science And Engineering(CSE) (Final Year) 2017-Present
+
+Course complete:
+● Complete the Web Development Course With Programming Hero.
+● Full Stack Development Course With shikhbe shobai.
+Language: English , Bangla(Native) , Hindi.
+
+

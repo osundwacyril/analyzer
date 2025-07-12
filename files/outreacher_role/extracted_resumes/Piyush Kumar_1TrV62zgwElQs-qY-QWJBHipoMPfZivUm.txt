@@ -1,0 +1,107 @@
+PIYUSH KUMAR
+
+ACADEMIC PROFILE
+
+Degree/Certificate
+
+Institution
+
+Percentage/CGPA
+
+B-Tech
+
+CBSE (XII)
+
+CBSE (X)
+
+Indian Institute of Technology (BHU) Varanasi
+
+H.S. Academy, Varanasi
+
+DAV Public School
+
+SKILLS
+
+8.48
+
+86.80
+
+95.00
+
+Year
+
+2024
+2019
+2017
+
+Skillset:  Creative Writing, Data Analysis, Research, Case Study, Draft Making, Machine Learning, Data Science
+Soft Skills:  Communicator, Public Speaking, Team player, Fast Learner, Accountable,  Highly motivated
+
+SPARDHA - IIT BHU (India’s one of the Largest Sports Fest)
+
+EXPERIENCE
+
+Senior Advisor Content
+
+Aug 2023 - Present
+
+Interviewed and build a strong Content team of 6 members and trained them for the content preparation
+specific to different requirements which may arise during the fest. 
+We able to managed content of the Sports fest with participants from 70+ colleges.
+
+Content Head
+
+Aug 2022 - Oct 2022
+
+Crafted the festival theme, led a 10-member strong content team & handled excessive writing contents under
+hard boundaries of deadlines. (Contents like writing Accept/Decline/Invitation/permission/medical letters, etc.)
+
+Publicity Executive
+
+Aug 2021 - Oct 2021
+
+Communicated with principals and sports councilors of 100 plus Engineering colleges across the Nation. 
+Maximized participation in 18 sports conducted by Spardha - 2020
+
+Data Science Internship | Exposys Data Labs
+
+Jun 2023 - Jul 2023
+
+Build a Face Verification system - An application that enables face-based verification. Reviewed FaceNet and
+DeepFace, Based on FaceNet, used a pre-trained network architecture that represents ConvNet and follows the
+Inception model. 
+
+B.Tech Project
+
+PROJECTS
+
+Currently researching and co-authoring a paper in Machine Learning based Ms Temperature prediction in
+Medium Entropy Alloys - (A High Grade Alloys with high corrosive resistance) under Assistant Professor 
+Dr. Praveen Sathiyamoorthy, Department of Metallurgical Engineering, IIT  BHU.
+
+Gathered a dataset of Low-Carbon Steel with its each principle element's weight composition as features and
+developed a machine learning model prediction MsT.
+
+Credit Risk Analysis | Binary Classification
+
+Financial institutions invest a tonne of money in credit risk analysis.
+Performed exploratory data analysis (EDA) on the independent variables using data visualisation libraries.
+Trained XGBoost and the LightGBM classifiers and identified genuine customers with an accuracy of 93.36%.
+Evaluated the model on accuracy and plotted the confusion matrix, precision-recall curve, and ROC curve. Project
+Repository - Credit Risk Analysis
+
+HONOURS AND ACHIEVEMENTS 
+
+National Rank - 20 in an online poetry competition, conducted by S7 Highest rated on Google - 2021.
+Finalist in CASEX'21, A Case Study competition conducted  by E-CELL, IIT (BHU) Varanasi
+
+EXTRA-CURRICULAR ACTIVITIES
+
+Member, The Literary Club, IIT (BHU) Varanasi. Represented my college in Inter-IIT cult-5.0 at IIT MADRAS.
+Event Head and Judge, Jagriti'23 Conducted a Hindi poetry competition and judged a RAP competition in
+Jagriti'23, organized by Social Service Council, IIT (BHU).
+
+T: +91 8210178683  E: pkshiit20@gmail.com  Address: Kailash Nagar, Godhna Road, 
+Arrah-Bhojpur Bihar - 802301, India
+
+

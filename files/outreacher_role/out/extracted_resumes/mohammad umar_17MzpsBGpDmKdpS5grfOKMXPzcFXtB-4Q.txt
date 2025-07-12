@@ -1,0 +1,125 @@
+MOHAMMAD UMAR MOCHI
+
+Baramula,  India
+
++91 9797215363
+
+umariqbal140@gmail.com
+
+https://umariqbal.dorik.io
+
+Summary
+
+A skilled Associate Tester with experience in computer vision model testing. Proven track record of 
+managing time efficiently and leading teams to successful outcomes. Experienced in troubleshoot-
+ing, developing test plans, executing tests and analyzing results. Demonstrated ability to quickly 
+acquire knowledge and utilize it to effectively analyze complex problems.
+
+Able to work independently and as part of a team. Adept at maintaining confidentiality and integrity 
+to protect sensitive customer data. Highly organized, detail-oriented and proactive in anticipating 
+and resolving issues.
+
+Experience
+
+ASSOCIATE TESTER COMPUER VISION • REFLEXION.AI
+
+Dec 2022 - Present
+
+Associate Tester in Computer Vision, providing comprehensive quality assurance testing, debug-
+ging, and problem-solving services. Developed new test scripts and automated tests to improve 
+coverage, accuracy, and productivity. Utilized agile methodologies to identify potential bugs and 
+errors. Collaborated with software engineers and product managers to validate product require-
+ments and prioritize test plans. Analyzed test results and developed strategies to improve quality 
+and performance. Generated detailed technical reports of all testing activities to ensure accuracy. 
+Applied knowledge of software development lifecycles to identify issues within development and 
+production environments. Developed and maintained test case documents and tracked defect 
+resolution. Established processes and procedures for regression testing and developed usages for 
+QA automation tools. Diagnosed complex system problems and contributed to solutions.
+
+DATA LABELLING DATA COLLECTION • SCIFFER ANALYTICS PVT 
+LTD
+
+Jun 2022 - Dec 2022
+
+Collected and labelled data for ongoing monitoring and evaluation initiatives. Developed processes 
+and procedures for data analysis and reporting. Ensured accuracy and consistency of data by 
+conducting quality checks and making improvements. Generated reports and organized data 
+into meaningful and understandable visualizations. Assisted in the development of data collection 
+protocols and prepared data for analysis. Collaborated with other departments to ensure accurate 
+and timely collection of data. Conducted research to identify and evaluate data potential. Provided 
+assistance to team members for data entry and analysis. Optimized data collection and analysis 
+for efficient use of resources. Developed automated processes for data collection and generated 
+reports. Analyzed data to identify trends and patterns. Implemented data collection methods to 
+ensure accuracy and completeness of collected data.
+
+Education
+
+MASTERS OF COMPUTER APPLICATIONS • University of Kashmir 
+KU.
+
+Nov 2018 - Jun 2022
+
+1/2
+
+COMPUTER SCIENCE • Grade: 7.34
+
+Analyzed and validated computer vision applications, ensuring their accuracy and efficiency.
+
+Examined and confirmed computer vision programs, securing their precision and productivity.
+
+BACHLORS OF SCIENCE WITH INFORMATION TECHNOLOGY • Uni-
+versity of Kashmir KU.
+
+Jun 2015 - Sep 2018
+
+INFORMATION TECHNOLOGY • Grade: 6.58
+I attained a Bachelor of Science with Information Technology from [University of kashmir], where I 
+utilized technology and data analysis to gain deeper insight into the field. I gained a comprehensive 
+understanding of programming languages, computer networks, and software engineering, enabling 
+me to effectively troubleshoot and develop innovative solutions. As a student, I pursued several 
+extracurricular activities to hone my skills, such as attending hackathons and workshops, partici-
+pating in coding competitions, and joining various academic societies. My hard work paid off, and I 
+graduated with a GPA of 6.58
+
+Projects
+
+STUDENT MANAGEMENT SYSTEM
+
+University of Kashmir KU.
+
+Dec 2021 - Jun 2022
+
+* Developed a student information system using ASP.NET to facilitate efficient data processing for 
+a school. 
+* Analyzed user requirements and translated them into functional specifications and application 
+designs. 
+* Constructed databases and stored procedures, utilized HTML, CSS, and JavaScript to create 
+interactive webpages, and deployed the system using Windows server. 
+* Developed comprehensive unit tests to ensure the system meets the user requirements and 
+generated detailed documentation for future maintenance. 
+* Successfully implemented the system, providing an efficient and modernized way of managing 
+student data.
+
+Achievements and Awards
+
+DATA ANALYSIS WITH PYTHON
+
+University of Kashmir KU.
+
+Mar 2023
+
+Accomplished data analysis processes using Python, resulting in improved accuracy and efficiency 
+of data processing. Utilized advanced Python libraries such as NumPy, Pandas, and Matplotlib to 
+construct models and analyze data; deployed machine learning algorithms to identify patterns 
+and trends in large sets of data. Transformed raw data into meaningful insights, enabling business 
+decisions and strategies to be made more effectively. Developed scripts and programs to automate 
+data manipulation and analysis tasks.
+
+Skills
+
+Computer vision, SQL,MYSQL, Machine Learning & Deep Learning, Python for Data Analysis, 
+EXCEL
+
+2/2
+
+

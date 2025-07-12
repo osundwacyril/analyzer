@@ -1,0 +1,43 @@
+Resume Clustering Summary
+==============================
+
+
+--- Cluster 0 ---
+Total Resumes: 327
+Hired: 0 (0.0%)
+Average Experience (All): 0.60 years
+Average Experience (Hired): 0.00 years
+Top Skills (Hired): None (no hired candidates in this cluster)
+Top Keywords (Overall Cluster): intermediate, advanced, beginner, virtual, 2023, proficiency, writing, year completion, board year, english proficiency
+
+--- Cluster 1 ---
+Total Resumes: 504
+Hired: 1 (0.2%)
+Average Experience (All): 1.59 years
+Average Experience (Hired): 0.00 years
+Top Skills (Hired): [('marketing', 1), ('r', 1), ('social media', 1)]
+Top Keywords (Overall Cluster): marketing, media, social, social media, content, digital, google, digital marketing, seo, ads
+
+--- Cluster 2 ---
+Total Resumes: 1824
+Hired: 4 (0.2%)
+Average Experience (All): 3.03 years
+Average Experience (Hired): 0.50 years
+Top Skills (Hired): [('communication', 4), ('r', 4), ('marketing', 2), ('social media', 2), ('content creation', 2)]
+Top Keywords (Overall Cluster): skills, school, college, com, university, work, english, 2022, 2023, 2021
+
+--- Cluster 3 ---
+Total Resumes: 742
+Hired: 6 (0.8%)
+Average Experience (All): 4.47 years
+Average Experience (Hired): 0.50 years
+Top Skills (Hired): [('communication', 6), ('r', 6), ('marketing', 4), ('customer service', 4), ('social media', 4)]
+Top Keywords (Overall Cluster): customer, sales, management, marketing, data, business, team, skills, support, email
+
+--- Cluster 4 ---
+Total Resumes: 576
+Hired: 2 (0.3%)
+Average Experience (All): 1.84 years
+Average Experience (Hired): 1.50 years
+Top Skills (Hired): [('communication', 2), ('seo', 2), ('r', 2), ('content creation', 2), ('data analysis', 1)]
+Top Keywords (Overall Cluster): seo, page, content, link, keyword, google, website, search, link building, building
