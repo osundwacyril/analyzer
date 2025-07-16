@@ -1,7 +1,7 @@
 ***Analyzer***
 
 ## Preprocessing:
-To preprocess your `Outreacher Role - Sheet1 (3).csv` file using the provided Python script `outreach_preprocess.py` located in the foder '/data' , follow these instructions:
+To preprocess your `Outreacher Role - Sheet1 (3).csv` file using the provided Python script `outreach_preprocess.py` located in the folder '/data' , follow these instructions:
 
 ### Prerequisites
 
