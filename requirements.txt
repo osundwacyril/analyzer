@@ -1,0 +1,5 @@
+pip install pandas numpy
+
+pip install pandas pdfminer.six spacy scikit-learn matplotlib seaborn gdown
+
+python -m spacy download en_core_web_sm
